@@ -1,6 +1,6 @@
 # Python for Journalists 
 
-This repository contains materials and code from **Chapter 01** of the book **"Python for Data Journalists"** authored by **Dr. Amr Eleraqi**. The chapter focuses on introducing Python basics and essential data analysis techniques designed specifically for journalists and data storytellers.
+This repository contains materials and code from **Chapter 01** of the book **"The Code Behind the Story: Data Skills with Python for Journalists"** authored by **Amr Eleraqi**. The chapter focuses on introducing Python basics and essential data analysis techniques designed specifically for journalists and data storytellers.
 
 ---
 
@@ -15,26 +15,59 @@ This repository contains materials and code from **Chapter 01** of the book **"P
 | **README.md**                | This README file providing an overview of the repository.                   |
 
 ---
-## 📚 About the Book
-This repository is part of "Python for Data Journalists," a practical guide aimed at empowering journalists to explore and analyze data using Python. The book covers various Python skills tailored to data-driven journalism, including:
 
-Python Fundamentals
-Simplified lessons that make programming approachable, even if you’ve never written a line of code.
+## 🌟 Why This Book Will Be Your Go-To Resource
+For Journalists, by a Journalist: Written by Dr. Amr Eleraqi, an award-winning data journalist and educator, this guide is tailored to the unique needs of newsrooms, data desks, and investigative reporters.
 
-Automated Data Collection
-Techniques for scraping web sources, extracting real-time feeds, and managing large-scale data—no manual copying needed.
+Hands-On Practice: Learn by doing with interactive notebooks, real-world case studies, and exercises designed to build your Python expertise, chapter by chapter.
 
-Data Cleaning & Analysis
-Methods to transform messy spreadsheets into credible datasets, pinpoint anomalies, and diagnose trends that shape headlines.
+Accessible Learning Curve: Even if you’ve never written a single line of code, this book’s structured approach will ease you into the world of Python. You'll progress from the basics to advanced topics in manageable steps.
 
-Data Visualization
-Leverage libraries like Matplotlib and Plotly to craft clear, striking infographics, charts, and interactive graphics.
+Future-Proof Your Career: As data continues to reshape journalism, the ability to interpret and visualize data is no longer optional. This book will equip you with skills that are essential for success in today’s Big Data era.
 
-You can find the book on Amazon (https://a.co/d/7P0kHnH).
+Boost Your Reporting Impact: Go beyond traditional journalism to create data-backed investigations that provide unique insights and captivate readers with visually engaging evidence.
 
 ---
-## 🔗 Author Information
-Amr Eleraqi is a data journalist, author, and instructor specializing in data-driven storytelling. With over 7 years of experience in data analysis and machine learning, he is passionate about empowering journalists to uncover stories hidden within data.
+## 📖 What You’ll Master
+
+1. Python Fundamentals
+Start with simplified programming concepts that make Python easy to understand, even for beginners.
+Learn how Python can be used to manipulate text, numbers, and dates, all while solving common journalism challenges.
+
+2. Automated Data Collection
+Discover methods for scraping news websites, public data portals, and social media feeds.
+Set up automation scripts to retrieve real-time updates, saving you hours of manual work.
+
+3. Data Cleaning & Analysis
+Learn how to clean and structure messy data for analysis, uncovering patterns, outliers, and trends.
+Master powerful tools such as Pandas to streamline your analysis workflow and diagnose crucial issues that shape headlines.
+
+4. Data Visualization
+Create professional visualizations using libraries like Matplotlib, Seaborn, and Plotly.
+Generate interactive graphics and dynamic charts to bring your stories to life and convey data insights at a glance.
+
+5. Ethical Data Practices
+Understand the importance of ethical data handling in journalism.
+Learn best practices for data verification, transparency, and privacy protection.
+
+---
+## 📖 Order Your Copy Today
+Uncover stories that only data can tell.
+Click here (https://a.co/d/dYcqGqa) to order The Code Behind the Story: Data Skills with Python for Journalists on Amazon.
+---
+
+## 👨‍💻 About the Author
+Amr Eleraqi is a globally recognized data journalist, educator, and data scientist with over 7 years of experience in transforming raw data into actionable insights. His career highlights include:
+
+Educator at Toronto Metropolitan University – Helping the next generation of journalists unlock the potential of data-driven reporting.
+
+Executive Director of InfoTimes – Founding an award-winning data journalism team that has influenced both media and government information systems in the Arab world.
+
+Knight Fellow at the International Center for Journalists – Leading initiatives to bring data science tools to journalists worldwide.
+
+Regional Coordinator for the Facebook Journalism Project – Providing innovative solutions that merge journalism with advanced technology.
+
+Eleraqi’s expertise in natural language processing, investigative reporting, and media analytics makes him uniquely positioned to guide readers through the complexities of data journalism.
 
 Connect with Eleraqi on LinkedIn (https://www.linkedin.com/in/amreleraqi/).
 ---
