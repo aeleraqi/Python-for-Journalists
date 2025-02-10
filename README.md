@@ -30,13 +30,13 @@ Methods to transform messy spreadsheets into credible datasets, pinpoint anomali
 Data Visualization
 Leverage libraries like Matplotlib and Plotly to craft clear, striking infographics, charts, and interactive graphics.
 
-You can find the book on Amazon ([Replace # with the actual Amazon link](https://a.co/d/7P0kHnH)).
+You can find the book on Amazon (https://a.co/d/7P0kHnH).
 
 ---
-##🔗 Author Information
+## 🔗 Author Information
 Amr Eleraqi is a data journalist, author, and instructor specializing in data-driven storytelling. With over 7 years of experience in data analysis and machine learning, he is passionate about empowering journalists to uncover stories hidden within data.
 
-Connect with Eleraqi on LinkedIn ([Replace # with the actual LinkedIn link](https://www.linkedin.com/in/amreleraqi/)).
+Connect with Eleraqi on LinkedIn (https://www.linkedin.com/in/amreleraqi/).
 ---
 
 ## 🛠️ How to Use
