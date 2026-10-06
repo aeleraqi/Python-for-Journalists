@@ -1,0 +1,1211 @@
+﻿Source,web_scraper_order,specialization,fees,avg_rate,waiting_time,clinic_location,rate_count,doctor_views,pages
+0 (1),1676137334-729,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,707 View(s)",1048
+1 (1),1676137337-730,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,188 View(s)",1048
+2 (1),1676137340-731,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,745 View(s)",1048
+3 (1),1676137343-732,Gynecologist,150 EGP,,null,El-Haram,null,"1,155 View(s)",1048
+4 (1),1676137345-733,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,054 View(s)",1048
+5 (1),1676137351-734,Pediatrician,450 EGP,,null,El-Dokki,null,311 View(s),...
+6 (1),1676137354-735,Pediatrician,450 EGP,,null,El-Dokki,null,195 View(s),...
+7 (1),1676137357-736,Cardiologist,450 EGP,,null,El-Dokki,null,222 View(s),...
+8 (1),1676137360-737,Gynecologist,350 EGP,4.5,Waiting Time : 12 Minutes,6th of October,From 27 Visitors,561 View(s),...
+9 (1),1676137363-738,Pediatrician,400 EGP,,null,Yousef Abbas,null,117 View(s),...
+10 (1),1676137367-739,General Surgeon,500 EGP,4.5,Waiting Time : 12 Minutes,El-Maadi : Zahraa El Maadi Road Carefour,From 115 Visitors,"11,768 View(s)",...
+11 (1),1676137370-740,Urologist,400 EGP,5,Waiting Time : 5 Minutes,Nasr City,From 949 Visitors,"25,339 View(s)",...
+12 (1),1676137381-741,Neurosurgeon,500 EGP,5,Waiting Time : 1 Hour and 30 Minutes,Nasr City,From 94 Visitors,"10,543 View(s)",...
+13 (1),1676137391-742,Gynecologist,200 EGP,5,Waiting Time : 42 Minutes,Shoubra El-Kheima : 15th may,From 46 Visitors,"4,268 View(s)",...
+14 (1),1676137400-743,General Surgeon,200 EGP,4.5,Waiting Time : 6 Minutes,Moharam Bek : moharam bek,From 44 Visitors,"3,979 View(s)",...
+15 (1),1676137407-744,Gynecologist,500 EGP,5,Waiting Time : 15 Minutes,El-Mohandessin : el Sudan Street,From 43 Visitors,"4,861 View(s)",92
+16 (1),1676137412-745,Urologist,450 EGP,,null,El-Dokki,null,671 View(s),92
+17 (1),1676137415-746,Nephrologist,350 EGP,5,Waiting Time : 8 Minutes,Nasr City : Zaker Hussien Street-District 7,From 4 Visitors,274 View(s),92
+18 (1),1676137417-747,Neurologist,450 EGP,,null,El-Dokki,null,450 View(s),92
+19 (1),1676137425-748,Pediatrician,350 EGP,5,Waiting Time : 9 Minutes,Nasr City : Ibrahim Nawar parallel to Ahmed Fakhry - Sixth Region.,From 10 Visitors,"3,062 View(s)",92
+20 (1),1676137428-749,Physiotherapist,150 EGP,4.5,Waiting Time : 10 Minutes,Shoubra El-Kheima,From 24 Visitors,"4,111 View(s)",92
+21 (1),1676137434-750,ENT Doctor,170 EGP,5,Waiting Time : 14 Minutes,El-Zagazig : al kwmya street,From 332 Visitors,"12,067 View(s)",
+22 (1),1676137436-751,Ophthalmologist,200 EGP,5,Waiting Time : 43 Minutes,Shoubra,From 374 Visitors,"10,303 View(s)",
+23 (1),1676137441-752,Nephrologist,400 EGP,5,Waiting Time : 1 Hour and 10 Minutes,New Cairo : beside new cairo court,From 740 Visitors,"13,872 View(s)",
+24 (1),1676137444-753,Internist,210 EGP,4.5,Waiting Time : 31 Minutes,El-Mansoura : sandob square,From 66 Visitors,"5,169 View(s)",
+25 (1),1676137447-754,ENT Doctor,300 EGP,4.5,Waiting Time : 3 Hours and 59 Minutes,El-Mokattam : Street 9,From 309 Visitors,"16,425 View(s)",
+26 (1),1676137452-755,General Surgeon,300 EGP,4.5,Waiting Time : 7 Minutes,El-Sheikh Zayed : Mouez plaza-,From 113 Visitors,"5,341 View(s)",
+27 (1),1676137456-756,Internist,220 EGP,5,Waiting Time : 16 Minutes,Tanta : Elmoderya st,From 130 Visitors,"10,157 View(s)",
+28 (1),1676137459-757,Cardiothoracic Surgeon,500 EGP,,null,El-Giza : Morad street,null,"6,053 View(s)",
+29 (1),1676137462-758,Cardiologist,200 EGP,5,Waiting Time : 37 Minutes,"Shoubra El-Kheima : 15 May, St.",From 52 Visitors,"3,582 View(s)",
+30 (1),1676137465-759,Internist,250 EGP,4,Waiting Time : 4 Hours and 34 Minutes,El-Zaitoun : Seliem El Awal,From 113 Visitors,"7,788 View(s)",
+31 (1),1676134721-420,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,698 View(s)",1048
+32 (1),1676134724-421,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,178 View(s)",1048
+33 (1),1676134727-422,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,737 View(s)",1048
+34 (1),1676134730-423,Gynecologist,150 EGP,,null,El-Haram,null,"1,148 View(s)",1048
+35 (1),1676134733-424,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,044 View(s)",1048
+36 (1),1676134741-425,ENT Doctor,280 EGP,4.5,Waiting Time : 25 Minutes,Hadayek El-Ahram,From 787 Visitors,"28,225 View(s)",...
+37 (1),1676134744-426,ENT Doctor,200 EGP,4.5,Waiting Time : 9 Minutes,El-Abbasia,From 256 Visitors,"15,653 View(s)",...
+38 (1),1676134748-427,Cardiologist,400 EGP,4,Waiting Time : 8 Minutes,El-Mohandessin : ahmed orabi,From 18 Visitors,"6,740 View(s)",...
+39 (1),1676134751-428,Psychiatrist,400 EGP,4,Waiting Time : 14 Minutes,El-Mokattam,From 280 Visitors,"20,651 View(s)",...
+40 (1),1676134756-429,Dentist,250 EGP,5,Waiting Time : 20 Minutes,El-Maadi : 77 Street Extension - Arab El Maadi,From 147 Visitors,"7,569 View(s)",...
+41 (1),1676134759-430,Ophthalmologist,150 EGP,4.5,Waiting Time : 30 Minutes,Faisal : faisal main street,From 725 Visitors,"23,780 View(s)",...
+42 (1),1676134766-431,Endocrinologist,400 EGP,4.5,Waiting Time : 39 Minutes,New Cairo,From 540 Visitors,"18,394 View(s)",...
+43 (1),1676134769-432,Rheumatologist,300 EGP,4.5,Waiting Time : 24 Minutes,Nasr City : Ahmed qasim branched from abbas elakaad,From 163 Visitors,"12,433 View(s)",...
+44 (1),1676134772-433,Orthopedist,200 EGP,4.5,Waiting Time : 33 Minutes,"Sidy Bishr : 196 Gamal Abdelnasser st, - Beside Baba Sharo.",From 280 Visitors,"11,489 View(s)",...
+45 (1),1676134786-434,Physiotherapist,150 EGP,4.5,Waiting Time : 15 Minutes,Faisal : Huda Mosque Street,From 29 Visitors,"4,156 View(s)",...
+46 (1),1676134793-435,Physiotherapist,250 EGP,4.5,Waiting Time : 8 Minutes,Nasr City : metwally el shaarawy,From 27 Visitors,"8,706 View(s)",70
+47 (1),1676134798-436,Ophthalmologist,130 EGP,5,Waiting Time : 40 Minutes,Miamy,From 1537 Visitors,"45,455 View(s)",70
+48 (1),1676134801-437,Gynecologist,80 EGP,4.5,Waiting Time : 19 Minutes,Faisal : king Faisal Street,From 1564 Visitors,"86,413 View(s)",70
+49 (1),1676134804-438,Dermatologist,250 EGP,4.5,Waiting Time : 1 Hour and 36 Minutes,Faisal : gendia  mall _eltawabek,From 373 Visitors,"23,387 View(s)",70
+50 (1),1676134807-439,ENT Doctor,210 EGP,4.5,Waiting Time : 22 Minutes,El-Mansoura : gehan,From 555 Visitors,"33,702 View(s)",70
+51 (1),1676134810-440,Internist,160 EGP,4.5,Waiting Time : 17 Minutes,El-Zagazig : mahmoud hashem street-Kawmya,From 131 Visitors,"9,435 View(s)",70
+52 (1),1676134814-441,Cardiologist,150 EGP,4.5,Waiting Time : 45 Minutes,El-Mansoura : salah salem street,From 169 Visitors,"20,085 View(s)",70
+53 (1),1676134819-442,Neurologist,300 EGP,4.5,Waiting Time : 35 Minutes,El-Dokki : Wezaret El Zeraa Street,From 597 Visitors,"41,945 View(s)",
+54 (1),1676134822-443,Dentist,100 EGP,4.5,Waiting Time : 24 Minutes,Faisal : 106 king fisal above ahli bank front of vodafone maryotya,From 209 Visitors,"10,576 View(s)",
+55 (1),1676134826-444,Dentist,70 EGP,4,Waiting Time : 1 Hour,Sidy Bishr,From 428 Visitors,"37,458 View(s)",
+56 (1),1676134829-445,Dentist,300 EGP,4.5,Waiting Time : 5 Minutes,New Cairo : 90,From 84 Visitors,"5,768 View(s)",
+57 (1),1676134832-446,Physiotherapist,300 EGP,4.5,Waiting Time : 8 Minutes,Hadayek El-Ahram : Fifth North Street after Menkaure Gate,From 65 Visitors,"11,555 View(s)",
+58 (1),1676134835-447,Dentist,150 EGP,4.5,Waiting Time : 22 Minutes,Shoubra : shikolany,From 362 Visitors,"19,942 View(s)",
+59 (1),1676134838-448,Dentist,120 EGP,4.5,Waiting Time : 24 Minutes,Assiut city : yousry ragheb extention,From 178 Visitors,"14,577 View(s)",
+60 (1),1676134842-449,Dentist,200 EGP,4,Waiting Time : 17 Minutes,El-Sayeda Zainab : A Elkasr Eleini,From 61 Visitors,"4,902 View(s)",
+61 (1),1676134845-450,Physiotherapist,100 EGP,4.5,Waiting Time : 14 Minutes,Sidy Bishr : Alaman st. from sidi Beshr mosque st.,From 176 Visitors,"9,815 View(s)",
+62 (1),1676134848-451,Gastroenterologist,300 EGP,5,Waiting Time : 29 Minutes,El-Maadi,From 683 Visitors,"18,859 View(s)",
+63 (1),1676134375-385,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,697 View(s)",1048
+64 (1),1676134378-386,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,178 View(s)",1048
+65 (1),1676134380-387,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,737 View(s)",1048
+66 (1),1676134383-388,Gynecologist,150 EGP,,null,El-Haram,null,"1,148 View(s)",1048
+67 (1),1676134386-389,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,044 View(s)",1048
+68 (1),1676134393-390,Plastic Surgeon,200 EGP,4,Waiting Time : 23 Minutes,El-Zagazig,From 177 Visitors,"32,980 View(s)",...
+69 (1),1676134396-391,Internist,160 EGP,4.5,Waiting Time : 17 Minutes,El-Zagazig : mahmoud hashem street-Kawmya,From 131 Visitors,"9,434 View(s)",...
+70 (1),1676134399-392,Pulmonologist,300 EGP,4.5,Waiting Time : 29 Minutes,El-Mokattam,From 510 Visitors,"22,094 View(s)",...
+71 (1),1676134403-393,Dermatologist,250 EGP,4.5,Waiting Time : 1 Hour and 36 Minutes,Faisal : gendia  mall _eltawabek,From 373 Visitors,"23,386 View(s)",...
+72 (1),1676134407-394,Neurologist,300 EGP,4.5,Waiting Time : 35 Minutes,El-Dokki : Wezaret El Zeraa Street,From 597 Visitors,"41,944 View(s)",...
+73 (1),1676134410-395,Dentist,100 EGP,4.5,Waiting Time : 7 Minutes,"El-Zagazig : ,  El Obour Bridge extension",From 191 Visitors,"12,674 View(s)",...
+74 (1),1676134414-396,Dentist,100 EGP,4.5,Waiting Time : 18 Minutes,Shoubra : shoubra street,From 28 Visitors,"6,715 View(s)",...
+75 (1),1676134417-397,Dentist,150 EGP,4,Waiting Time : 21 Minutes,El-Fayoum city,From 115 Visitors,"12,999 View(s)",...
+76 (1),1676134424-398,Physiotherapist,300 EGP,4.5,Waiting Time : 8 Minutes,Hadayek El-Ahram : Fifth North Street after Menkaure Gate,From 65 Visitors,"11,554 View(s)",...
+77 (1),1676134437-399,Dentist,300 EGP,4.5,Waiting Time : 5 Minutes,New Cairo : 90,From 84 Visitors,"5,767 View(s)",...
+78 (1),1676134444-400,Dentist,120 EGP,4.5,Waiting Time : 24 Minutes,Assiut city : yousry ragheb extention,From 178 Visitors,"14,576 View(s)",68
+79 (1),1676134453-401,Dentist,70 EGP,4,Waiting Time : 1 Hour,Sidy Bishr,From 428 Visitors,"37,457 View(s)",68
+80 (1),1676134456-402,Dentist,200 EGP,4.5,Waiting Time : 8 Minutes,Heliopolis : othman ibn affan,From 32 Visitors,"2,539 View(s)",68
+81 (1),1676134459-403,Dentist,100 EGP,4.5,Waiting Time : 16 Minutes,Tanta : saeed with omar abd el3aziz,From 117 Visitors,"8,656 View(s)",68
+82 (1),1676134486-404,Dentist,150 EGP,4.5,Waiting Time : 22 Minutes,Shoubra : shikolany,From 362 Visitors,"19,941 View(s)",68
+83 (1),1676134490-405,Dentist,100 EGP,4.5,Waiting Time : 20 Minutes,El-Mokattam,From 153 Visitors,"6,192 View(s)",68
+84 (1),1676134497-406,Dentist,100 EGP,4.5,Waiting Time : 24 Minutes,Faisal : 106 king fisal above ahli bank front of vodafone maryotya,From 209 Visitors,"10,575 View(s)",68
+85 (1),1676134500-407,Dentist,200 EGP,4,Waiting Time : 17 Minutes,El-Sayeda Zainab : A Elkasr Eleini,From 61 Visitors,"4,901 View(s)",68
+86 (1),1676134504-408,Urologist,120 EGP,4.5,Waiting Time : 9 Minutes,El-Zagazig : next to sednawy hospital,From 1181 Visitors,"60,135 View(s)",68
+87 (1),1676134508-409,Orthopedist,250 EGP,4.5,Waiting Time : 12 Minutes,Hadayek El-Ahram : Gardenia Street,From 65 Visitors,"4,226 View(s)",68
+88 (1),1676134513-410,Gynecologist,250 EGP,4.5,Waiting Time : 5 Minutes,6th of October,From 294 Visitors,"11,111 View(s)",
+89 (1),1676134517-411,Physiotherapist,200 EGP,4.5,Waiting Time : 14 Minutes,New Cairo : El Narges Services Area,From 243 Visitors,"1,845 View(s)",
+90 (1),1676134532-412,Physiotherapist,100 EGP,4.5,Waiting Time : 14 Minutes,Sidy Bishr : Alaman st. from sidi Beshr mosque st.,From 176 Visitors,"9,814 View(s)",
+91 (1),1676134536-413,Dentist,150 EGP,4.5,Waiting Time : 10 Minutes,El-Mansoura,From 256 Visitors,"22,783 View(s)",
+92 (1),1676134538-414,Dentist,150 EGP,4.5,Waiting Time : 30 Minutes,Nasr City :  Mohamed Almakreif,From 206 Visitors,"17,162 View(s)",
+93 (1),1676134541-415,Dentist,300 EGP,4.5,Waiting Time : 10 Minutes,Madinaty : Medical Center,From 107 Visitors,"27,831 View(s)",
+94 (1),1676134545-416,Orthopedist,250 EGP,4.5,Waiting Time : 28 Minutes,Hadayek El-Ahram : elgish street,From 324 Visitors,"13,548 View(s)",
+95 (1),1676134548-417,Gynecologist,200 EGP,4.5,Waiting Time : 24 Minutes,El-Maadi : carrefour road,From 982 Visitors,"39,190 View(s)",
+96 (1),1676134551-418,Audiologist,300 EGP,4.5,Waiting Time : 18 Minutes,Faisal : fisal street,From 121 Visitors,"12,865 View(s)",
+97 (1),1676134554-419,Dentist,100 EGP,4,Waiting Time : 18 Minutes,"Sidy Bishr : 41 Albekbashy Elesawy st., in front of the Computer Mall.",From 74 Visitors,"7,019 View(s)",
+98 (1),1676137028-696,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,706 View(s)",1048
+99 (1),1676137031-697,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,184 View(s)",1048
+100 (1),1676137034-698,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,745 View(s)",1048
+101 (1),1676137037-699,Gynecologist,150 EGP,,null,El-Haram,null,"1,155 View(s)",1048
+102 (1),1676137040-700,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,050 View(s)",1048
+103 (1),1676137046-701,Pulmonologist,450 EGP,,null,El-Dokki,null,147 View(s),...
+104 (1),1676137050-702,Physiotherapist,300 EGP,,null,El-Dokki : Tiba St from Gamaet Dwol,null,47 View(s),...
+105 (1),1676137054-703,Dentist,150 EGP,5,Waiting Time : 8 Minutes,"Heliopolis : Ahmed el Dardiry, Ard El Golf",From 3 Visitors,142 View(s),...
+106 (1),1676137057-704,Gynecologist,400 EGP,,null,El-Dokki,null,345 View(s),...
+107 (1),1676137060-705,Dentist,100 EGP,,null,06-Oct,null,281 View(s),...
+108 (1),1676137063-706,Gynecologist,250 EGP,5,Waiting Time : 8 Minutes,El-Manyal : Elmanial street,From 9 Visitors,396 View(s),...
+109 (1),1676137065-707,Pediatrician,450 EGP,,null,El-Dokki,null,175 View(s),...
+110 (1),1676137068-708,Gynecologist,300 EGP,4.5,Waiting Time : 16 Minutes,Alharam street,From 36 Visitors,"1,223 View(s)",...
+111 (1),1676137077-709,Hematologist,400 EGP,4.5,Waiting Time : 48 Minutes,Tanta : El-Geish St.  with Al-Galaa st. Al-Awkaf tower .,From 37 Visitors,"8,110 View(s)",...
+112 (1),1676137080-710,Endocrinologist,400 EGP,4.5,Waiting Time : 48 Minutes,Faisal : Faisal First,From 90 Visitors,"7,941 View(s)",...
+113 (1),1676137086-711,Dentist,100 EGP,4.5,Waiting Time : 12 Minutes,6th of October : in front of wadi degla club,From 140 Visitors,"8,922 View(s)",90
+114 (1),1676137089-712,Internist,400 EGP,4.5,Waiting Time : 29 Minutes,Heliopolis : -behind Miliatry College,From 262 Visitors,"8,916 View(s)",90
+115 (1),1676137091-713,Psychiatrist,350 EGP,4.5,Waiting Time : 1 Hour and 54 Minutes,Faisal,From 109 Visitors,"15,932 View(s)",90
+116 (1),1676137096-714,Cardiologist,220 EGP,4.5,Waiting Time : 17 Minutes,El-Mansoura : Marinet Mubarak Madina Monawara st.,From 49 Visitors,"7,625 View(s)",90
+117 (1),1676137099-715,General Surgeon,150 EGP,4.5,Waiting Time : 7 Minutes,Helwan,From 67 Visitors,"5,551 View(s)",90
+118 (1),1676137102-716,Endocrinologist,200 EGP,4.5,Waiting Time : 28 Minutes,El-Haram : Station Mashaal,From 337 Visitors,"20,882 View(s)",90
+119 (1),1676137105-717,Gynecologist,300 EGP,5,Waiting Time : 20 Minutes,Hadayek El-Ahram : z,From 3 Visitors,60 View(s),90
+120 (1),1676137107-718,Pediatrician,300 EGP,4.5,Waiting Time : 13 Minutes,Alharam street,From 53 Visitors,"1,451 View(s)",90
+121 (1),1676137113-719,Internist,500 EGP,4,Waiting Time : 10 Minutes,El-Rehab : Medical Complex 1,From 225 Visitors,"9,950 View(s)",
+122 (1),1676137116-720,Rheumatologist,450 EGP,4.5,Waiting Time : 16 Minutes,Heliopolis : hassan aflaton,From 35 Visitors,"1,137 View(s)",
+123 (1),1676137119-721,Dentist,200 EGP,5,Waiting Time : 5 Minutes,90 Street,From 8 Visitors,479 View(s),
+124 (1),1676137121-722,Gynecologist,300 EGP,4.5,Waiting Time : 8 Minutes,Faisal : King Faisal,From 12 Visitors,"1,027 View(s)",
+125 (1),1676137124-723,Dentist,350 EGP,,null,Naguib mahfouz,null,330 View(s),
+126 (1),1676137127-724,Cardiologist,250 EGP,5,Waiting Time : 7 Minutes,El-Mansoura : el gomhoria street,From 40 Visitors,"2,316 View(s)",
+127 (1),1676137130-725,Gynecologist,280 EGP,4.5,Waiting Time : 18 Minutes,Shoubra El-Kheima,From 16 Visitors,"2,558 View(s)",
+128 (1),1676137132-726,Cardiologist,150 EGP,4.5,Waiting Time : 10 Minutes,Menouf,From 12 Visitors,"1,127 View(s)",
+129 (1),1676137135-727,General Surgeon,400 EGP,4.5,Waiting Time : 8 Minutes,El-Sheikh Zayed : twin tower -,From 134 Visitors,"3,617 View(s)",
+130 (1),1676137153-728,Nutritionist,250 EGP,4.5,Waiting Time : 6 Minutes,El-Obour City : 9th district,From 46 Visitors,"3,302 View(s)",
+131 (1),1676136864-663,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,703 View(s)",1048
+132 (1),1676136866-664,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,184 View(s)",1048
+133 (1),1676136869-665,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,745 View(s)",1048
+134 (1),1676136872-666,Gynecologist,150 EGP,,null,El-Haram,null,"1,155 View(s)",1048
+135 (1),1676136875-667,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,050 View(s)",1048
+136 (1),1676136882-668,Psychiatrist,400 EGP,4.5,Waiting Time : 57 Minutes,Mahatet El-Raml,From 110 Visitors,"22,518 View(s)",...
+137 (1),1676136885-669,Nutritionist,500 EGP,,null,El-Dokki,null,434 View(s),...
+138 (1),1676136887-670,Pulmonologist,350 EGP,5,Waiting Time : 8 Minutes,Khamseen Street (Carrefour extension) - Zahraa AlMaadi,From 19 Visitors,730 View(s),...
+139 (1),1676136890-671,Orthopedist,400 EGP,,null,"Ali Amin Street, Al Manteqah Al Oula",null,181 View(s),...
+140 (1),1676136893-672,Pulmonologist,500 EGP,,null,El-Dokki,null,"1,488 View(s)",...
+141 (1),1676136896-673,Pediatrician,500 EGP,4.5,Waiting Time : 47 Minutes,El-Dokki : Tahrir Street-infront Of Asad Abn Elfourat mosque,From 18 Visitors,"2,371 View(s)",...
+142 (1),1676136899-674,Pediatrician,150 EGP,4.5,Waiting Time : 13 Minutes,06-Oct,From 87 Visitors,"1,469 View(s)",...
+143 (1),1676136902-675,Ophthalmologist,350 EGP,5,Waiting Time : 21 Minutes,Nasr City,From 13 Visitors,985 View(s),...
+144 (1),1676136905-676,Internist,500 EGP,4,Waiting Time : 10 Minutes,El-Rehab : Medical Complex 1,From 225 Visitors,"9,950 View(s)",...
+145 (1),1676136908-677,Rheumatologist,450 EGP,4.5,Waiting Time : 16 Minutes,Heliopolis : hassan aflaton,From 35 Visitors,"1,137 View(s)",...
+146 (1),1676136915-678,Dentist,200 EGP,5,Waiting Time : 5 Minutes,90 Street,From 8 Visitors,479 View(s),88
+147 (1),1676136919-679,Gynecologist,300 EGP,4.5,Waiting Time : 8 Minutes,Faisal : King Faisal,From 12 Visitors,"1,027 View(s)",88
+148 (1),1676136922-680,Dentist,350 EGP,,null,Naguib mahfouz,null,330 View(s),88
+149 (1),1676136925-681,Cardiologist,250 EGP,5,Waiting Time : 7 Minutes,El-Mansoura : el gomhoria street,From 40 Visitors,"2,316 View(s)",88
+150 (1),1676136928-682,Gynecologist,280 EGP,4.5,Waiting Time : 18 Minutes,Shoubra El-Kheima,From 16 Visitors,"2,558 View(s)",88
+151 (1),1676136931-683,Cardiologist,150 EGP,4.5,Waiting Time : 10 Minutes,Menouf,From 12 Visitors,"1,127 View(s)",88
+152 (1),1676136934-684,General Surgeon,400 EGP,4.5,Waiting Time : 8 Minutes,El-Sheikh Zayed : twin tower -,From 134 Visitors,"3,617 View(s)",88
+153 (1),1676136937-685,Nutritionist,250 EGP,4.5,Waiting Time : 6 Minutes,El-Obour City : 9th district,From 46 Visitors,"3,302 View(s)",88
+154 (1),1676136942-686,Dentist,100 EGP,,null,06-Oct,null,154 View(s),
+155 (1),1676136945-687,Surgical Oncologist,400 EGP,5,Waiting Time : 58 Minutes,micheel bakhoum,From 4 Visitors,"1,813 View(s)",
+156 (1),1676136948-688,Dermatologist,180 EGP,4.5,Waiting Time : 18 Minutes,Miamy : gamal abdelnasser,From 95 Visitors,"3,999 View(s)",
+157 (1),1676136951-689,Orthopedist,300 EGP,5,Waiting Time : 19 Minutes,El-Dokki,From 12 Visitors,"2,123 View(s)",
+158 (1),1676136954-690,Dermatologist,110 EGP,4.5,Waiting Time : 24 Minutes,Aga : elgalaa street,From 28 Visitors,"1,493 View(s)",
+159 (1),1676136957-691,Physiotherapist,120 EGP,4.5,Waiting Time : 18 Minutes,Banha : El Ashraf Street,From 37 Visitors,"4,049 View(s)",
+160 (1),1676136960-692,Dermatologist,150 EGP,4.5,Waiting Time : 45 Minutes,Moharam Bek : moharm bek st,From 376 Visitors,"15,924 View(s)",
+161 (1),1676136963-693,Internist,400 EGP,4,Waiting Time : 17 Minutes,West El-Balad : kasr el neil st,From 164 Visitors,"15,118 View(s)",
+162 (1),1676136966-694,Dentist,100 EGP,4.5,Waiting Time : 12 Minutes,6th of October : in front of wadi degla club,From 140 Visitors,"8,920 View(s)",
+163 (1),1676136968-695,Psychiatrist,350 EGP,4.5,Waiting Time : 1 Hour and 54 Minutes,Faisal,From 109 Visitors,"15,930 View(s)",
+164 (1),1676136682-630,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,703 View(s)",1048
+165 (1),1676136685-631,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,184 View(s)",1048
+166 (1),1676136688-632,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,743 View(s)",1048
+167 (1),1676136691-633,Gynecologist,150 EGP,,null,El-Haram,null,"1,155 View(s)",1048
+168 (1),1676136694-634,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,050 View(s)",1048
+169 (1),1676136700-635,Endocrinologist,200 EGP,4.5,Waiting Time : 28 Minutes,El-Haram : Station Mashaal,From 337 Visitors,"20,881 View(s)",...
+170 (1),1676136703-636,Cardiologist,300 EGP,5,Waiting Time : 13 Minutes,El-Mokattam : Middle Hadaba,From 81 Visitors,"5,213 View(s)",...
+171 (1),1676136706-637,Gynecologist,180 EGP,4.5,Waiting Time : 13 Minutes,El-Mansoura :  hamza ebn abdelmotleb street,From 176 Visitors,"12,088 View(s)",...
+172 (1),1676136719-638,Internist,270 EGP,4.5,Waiting Time : 8 Minutes,El-Mansoura : abdo maarof street,From 35 Visitors,"6,304 View(s)",...
+173 (1),1676136727-639,General Surgeon,300 EGP,5,Waiting Time : 2 Minutes,"Hurghada City : Mohamed Said St. (Metro), El Kawther",From 6 Visitors,"2,920 View(s)",...
+174 (1),1676136730-640,Gynecologist,500 EGP,5,Waiting Time : 28 Minutes,El-Dokki : Mosdak Street,From 14 Visitors,"3,683 View(s)",...
+175 (1),1676136733-641,General Surgeon,400 EGP,4.5,Waiting Time : 8 Minutes,El-Sheikh Zayed : twin tower -,From 134 Visitors,"3,617 View(s)",...
+176 (1),1676136736-642,Internist,500 EGP,4,Waiting Time : 10 Minutes,El-Rehab : Medical Complex 1,From 225 Visitors,"9,950 View(s)",...
+177 (1),1676136742-643,Cardiologist,300 EGP,5,Waiting Time : 11 Minutes,Sporting : Ahmed Allam st from elHorya Road,From 43 Visitors,"1,666 View(s)",...
+178 (1),1676136745-644,Gastroenterologist,500 EGP,4.5,Waiting Time : 18 Minutes,Fifth Settlement Medical Center,From 593 Visitors,283 View(s),...
+179 (1),1676136751-645,Cardiologist,220 EGP,4.5,Waiting Time : 17 Minutes,El-Mansoura : Marinet Mubarak Madina Monawara st.,From 49 Visitors,"7,624 View(s)",86
+180 (1),1676136755-646,Dentist,100 EGP,4.5,Waiting Time : 12 Minutes,6th of October : in front of wadi degla club,From 140 Visitors,"8,920 View(s)",86
+181 (1),1676136758-647,Psychiatrist,350 EGP,4.5,Waiting Time : 1 Hour and 54 Minutes,Faisal,From 109 Visitors,"15,930 View(s)",86
+182 (1),1676136761-648,Internist,200 EGP,4.5,Waiting Time : 28 Minutes,Mahalla : Talaat Harb street,From 12 Visitors,"1,269 View(s)",86
+183 (1),1676136764-649,Gynecologist,350 EGP,4.5,Waiting Time : 14 Minutes,Faisal street,From 407 Visitors,"13,950 View(s)",86
+184 (1),1676136767-650,Psychiatrist,210 EGP,4.5,Waiting Time : 43 Minutes,Mahalla,From 207 Visitors,"18,530 View(s)",86
+185 (1),1676136776-651,General Surgeon,150 EGP,5,Waiting Time : 7 Minutes,El-Agamy : Goweida moftah street,From 17 Visitors,651 View(s),86
+186 (1),1676136779-652,Internist,450 EGP,,null,El-Dokki,null,626 View(s),86
+187 (1),1676136784-653,Dermatologist,110 EGP,4.5,Waiting Time : 24 Minutes,Aga : elgalaa street,From 28 Visitors,"1,493 View(s)",
+188 (1),1676136787-654,Physiotherapist,300 EGP,,null,Heliopolis : Elmontazah St from ElHegaz St,null,279 View(s),
+189 (1),1676136790-655,Dentist,150 EGP,4.5,Waiting Time : 26 Minutes,Maadi Ring Road,From 11 Visitors,264 View(s),
+190 (1),1676136793-656,Gynecologist,300 EGP,5,Waiting Time : 20 Minutes,Hadayek El-Ahram : z,From 3 Visitors,60 View(s),
+191 (1),1676136796-657,Cardiologist,450 EGP,,null,El-Dokki,null,298 View(s),
+192 (1),1676136799-658,Orthopedist,250 EGP,5,Waiting Time : 7 Minutes,El-Giza : Hamadan,From 5 Visitors,161 View(s),
+193 (1),1676136802-659,Internist,250 EGP,4.5,Waiting Time : 9 Hours and 7 Minutes,6th of October : al mehwar al markzi,From 28 Visitors,"4,755 View(s)",
+194 (1),1676136805-660,Dentist,300 EGP,4.5,Waiting Time : 23 Minutes,Nasr City,From 38 Visitors,"1,566 View(s)",
+195 (1),1676136807-661,Internist,200 EGP,4,Waiting Time : 12 Minutes,06-Oct,From 66 Visitors,"1,824 View(s)",
+196 (1),1676136813-662,Pediatrician,350 EGP,4.5,Waiting Time : 8 Minutes,Heliopolis,From 66 Visitors,"1,840 View(s)",
+197 (1),1676136481-595,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,703 View(s)",1048
+198 (1),1676136484-596,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,184 View(s)",1048
+199 (1),1676136487-597,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,743 View(s)",1048
+200 (1),1676136490-598,Gynecologist,150 EGP,,null,El-Haram,null,"1,154 View(s)",1048
+201 (1),1676136493-599,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,050 View(s)",1048
+202 (1),1676136499-600,General Surgeon,150 EGP,4.5,Waiting Time : 7 Minutes,Helwan,From 67 Visitors,"5,550 View(s)",...
+203 (1),1676136502-601,Gynecologist,350 EGP,4.5,Waiting Time : 14 Minutes,Faisal street,From 407 Visitors,"13,950 View(s)",...
+204 (1),1676136505-602,Internist,200 EGP,4.5,Waiting Time : 28 Minutes,Mahalla : Talaat Harb street,From 12 Visitors,"1,269 View(s)",...
+205 (1),1676136508-603,Psychiatrist,210 EGP,4.5,Waiting Time : 43 Minutes,Mahalla,From 207 Visitors,"18,530 View(s)",...
+206 (1),1676136511-604,Internist,200 EGP,4.5,Waiting Time : 10 Minutes,El-Ibrahimia,From 148 Visitors,"7,431 View(s)",...
+207 (1),1676136537-605,Ophthalmologist,150 EGP,5,Waiting Time : 10 Minutes,El-Zagazig : tolba eweda street infront of salah salem hospital above lcwikiki,From 174 Visitors,"8,396 View(s)",...
+208 (1),1676136540-606,Pediatrician,300 EGP,4.5,Waiting Time : 13 Minutes,Alharam street,From 53 Visitors,"1,450 View(s)",...
+209 (1),1676136543-607,Internist,450 EGP,,null,El-Dokki,null,626 View(s),...
+210 (1),1676136547-608,Gynecologist,300 EGP,4.5,Waiting Time : 4 Minutes,Heliopolis,From 62 Visitors,"4,330 View(s)",...
+211 (1),1676136550-609,Internist,400 EGP,4.5,Waiting Time : 29 Minutes,Heliopolis : -behind Miliatry College,From 262 Visitors,"8,915 View(s)",...
+212 (1),1676136557-610,Dermatologist,110 EGP,4.5,Waiting Time : 24 Minutes,Aga : elgalaa street,From 28 Visitors,"1,493 View(s)",84
+213 (1),1676136560-611,Physiotherapist,300 EGP,,null,Heliopolis : Elmontazah St from ElHegaz St,null,279 View(s),84
+214 (1),1676136564-612,Dentist,150 EGP,4.5,Waiting Time : 26 Minutes,Maadi Ring Road,From 11 Visitors,264 View(s),84
+215 (1),1676136570-613,Gynecologist,300 EGP,5,Waiting Time : 20 Minutes,Hadayek El-Ahram : z,From 3 Visitors,59 View(s),84
+216 (1),1676136573-614,Cardiologist,450 EGP,,null,El-Dokki,null,298 View(s),84
+217 (1),1676136576-615,Orthopedist,250 EGP,5,Waiting Time : 7 Minutes,El-Giza : Hamadan,From 5 Visitors,161 View(s),84
+218 (1),1676136579-616,Internist,250 EGP,4.5,Waiting Time : 9 Hours and 7 Minutes,6th of October : al mehwar al markzi,From 28 Visitors,"4,755 View(s)",84
+219 (1),1676136582-617,Pediatrician,350 EGP,4.5,Waiting Time : 8 Minutes,Heliopolis,From 66 Visitors,"1,839 View(s)",84
+220 (1),1676136591-618,Dentist,300 EGP,4.5,Waiting Time : 15 Minutes,El-Dokki : Musadak Street-Infront Of Dunkin Donuts,From 16 Visitors,375 View(s),84
+221 (1),1676136594-619,Urologist,400 EGP,5,Waiting Time : 11 Minutes,Nasr City : Mostafa elnhas St,From 167 Visitors,"4,290 View(s)",84
+222 (1),1676136600-620,Gynecologist,400 EGP,5,Waiting Time : 8 Minutes,El-Maadi : 9th St.,From 5 Visitors,606 View(s),
+223 (1),1676136602-621,Dentist,300 EGP,4.5,Waiting Time : 23 Minutes,Nasr City,From 38 Visitors,"1,565 View(s)",
+224 (1),1676136605-622,Internist,200 EGP,4,Waiting Time : 12 Minutes,06-Oct,From 66 Visitors,"1,823 View(s)",
+225 (1),1676136608-623,Surgical Oncologist,500 EGP,4,Waiting Time : 18 Minutes,El-Mokattam : 9 street,From 11 Visitors,"3,575 View(s)",
+226 (1),1676136611-624,Cardiologist,600 EGP,5,Waiting Time : 10 Minutes,El-Mohandessin : Alfawakh St,From 3 Visitors,567 View(s),
+227 (1),1676136614-625,Pediatrician,250 EGP,5,Waiting Time : 5 Minutes,6th of October,From 76 Visitors,"3,171 View(s)",
+228 (1),1676136617-626,Oncologist,400 EGP,5,Waiting Time : 1 Hour and 1 Minute,Tanta : El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower,From 39 Visitors,"12,697 View(s)",
+229 (1),1676136620-627,Nutritionist,350 EGP,5,Waiting Time : 6 Minutes,Hadayek El-Ahram : first entrance of first gate,From 274 Visitors,"2,929 View(s)",
+230 (1),1676136623-628,Dentist,150 EGP,4.5,Waiting Time : 10 Minutes,Hadayek El-Ahram : El Geish street,From 46 Visitors,"1,991 View(s)",
+231 (1),1676136626-629,Dermatologist,300 EGP,4.5,Waiting Time : 12 Minutes,El-Maadi : Al Nasr St. - Gazaer Square,From 412 Visitors,"8,356 View(s)",
+232 (1),1676136248-585,Dentist,100 EGP,4.5,Waiting Time : 20 Minutes,El-Mokattam,From 58 Visitors,"101,865 View(s)",
+233 (1),1676136262-586,Dentist,150 EGP,4.5,Waiting Time : 13 Minutes,"El-Mokattam : Behinde pharmacy college MTI, AlHdba AlWosta",From 171 Visitors,"5,127 View(s)",
+234 (1),1676136269-587,Orthopedist,400 EGP,4.5,Waiting Time : 11 Minutes,El-Rehab,From 20 Visitors,"2,870 View(s)",
+235 (1),1676136272-588,Surgical Oncologist,500 EGP,4,Waiting Time : 18 Minutes,El-Mokattam : 9 street,From 11 Visitors,"3,574 View(s)",
+236 (1),1676136274-589,Hepatologist,550 EGP,4.5,Waiting Time : 1 Hour and 36 Minutes,Heliopolis : botrous ghaly street,From 100 Visitors,"25,477 View(s)",
+237 (1),1676136277-590,Dermatologist,280 EGP,4.5,Waiting Time : 9 Minutes,Hadayek El-Ahram,From 141 Visitors,"8,761 View(s)",
+238 (1),1676136280-591,Dermatologist,300 EGP,4.5,Waiting Time : 12 Minutes,Hadayek El-Ahram,From 204 Visitors,"5,509 View(s)",
+239 (1),1676136283-592,General Surgeon,250 EGP,4.5,Waiting Time : 7 Minutes,6th of October : Borie Plaza 1-Elhossary Square,From 12 Visitors,"1,334 View(s)",
+240 (1),1676136286-593,Internist,200 EGP,4.5,Waiting Time : 36 Minutes,Imbaba : Elwahda street,From 675 Visitors,"31,134 View(s)",
+241 (1),1676136289-594,Urologist,400 EGP,4.5,Waiting Time : 15 Minutes,Fifth Settlement Medical Center,From 581 Visitors,320 View(s),
+242 (1),1676135886-534,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,702 View(s)",1048
+243 (1),1676135889-535,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,182 View(s)",1048
+244 (1),1676135892-536,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,742 View(s)",1048
+245 (1),1676135895-537,Gynecologist,150 EGP,,null,El-Haram,null,"1,152 View(s)",1048
+246 (1),1676135898-538,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,048 View(s)",1048
+247 (1),1676135905-539,Cardiologist,600 EGP,5,Waiting Time : 10 Minutes,El-Mohandessin : Alfawakh St,From 3 Visitors,565 View(s),...
+248 (1),1676135908-540,Dentist,150 EGP,4.5,Waiting Time : 10 Minutes,Hadayek El-Ahram : El Geish street,From 46 Visitors,"1,990 View(s)",...
+249 (1),1676135915-541,Dentist,100 EGP,4.5,Waiting Time : 10 Minutes,El-Haram : Haram,From 59 Visitors,"2,971 View(s)",...
+250 (1),1676135919-542,Dentist,100 EGP,5,Waiting Time : 8 Minutes,El-Zaitoun : Selim Elawal Street-Egypt Air Towers-Above Eltayaran Supermarket,From 44 Visitors,959 View(s),...
+251 (1),1676135922-543,Neurosurgeon,450 EGP,,null,Nasr City : ahmad elzumor,null,108 View(s),...
+252 (1),1676135932-544,Infertility Specialist,150 EGP,4.5,Waiting Time : 50 Minutes,El-Mokattam,From 10 Visitors,"1,685 View(s)",...
+253 (1),1676135936-545,Orthopedist,250 EGP,5,Waiting Time : 38 Minutes,El-Mohandessin,From 23 Visitors,"1,491 View(s)",...
+254 (1),1676135940-546,Gynecologist,350 EGP,5,Waiting Time : 9 Minutes,151 Street - Horreya Square,From 12 Visitors,757 View(s),...
+255 (1),1676135944-547,Nutritionist,350 EGP,5,Waiting Time : 6 Minutes,Hadayek El-Ahram : first entrance of first gate,From 274 Visitors,"2,928 View(s)",...
+256 (1),1676135947-548,Ophthalmologist,200 EGP,4,Waiting Time : 47 Minutes,Shibin El-Kom : hakma square,From 61 Visitors,"3,268 View(s)",...
+257 (1),1676135954-549,Oncologist,400 EGP,5,Waiting Time : 1 Hour and 1 Minute,Tanta : El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower,From 39 Visitors,"12,696 View(s)",78
+258 (1),1676135957-550,Dentist,200 EGP,,null,north Teseen ST,null,176 View(s),78
+259 (1),1676135960-551,General Surgeon,250 EGP,4.5,Waiting Time : 16 Minutes,06-Oct,From 11 Visitors,"1,555 View(s)",78
+260 (1),1676135965-552,,null,,null,El-Maadi,null,"4,583 View(s)",78
+261 (1),1676135967-553,Urologist,120 EGP,4.5,Waiting Time : 21 Minutes,El-Zagazig : obour bridge next to sawaf restaurant,From 117 Visitors,"10,073 View(s)",78
+262 (1),1676135970-554,Physiotherapist,220 EGP,5,Waiting Time : 17 Minutes,El-Obour City,From 56 Visitors,"1,678 View(s)",78
+263 (1),1676135976-555,Physiotherapist,300 EGP,5,Waiting Time : 6 Minutes,El-Rehab,From 30 Visitors,776 View(s),
+264 (1),1676135978-556,ENT Doctor,300 EGP,5,Waiting Time : 6 Minutes,6th of October : Central Axis,From 821 Visitors,"10,366 View(s)",
+265 (1),1676135981-557,Dentist,150 EGP,5,Waiting Time : 9 Minutes,Imbaba,From 263 Visitors,"15,026 View(s)",
+266 (1),1676135984-558,Cardiologist,350 EGP,5,Waiting Time : 12 Minutes,El-Maadi,From 128 Visitors,"6,022 View(s)",
+267 (1),1676135987-559,Neurologist,250 EGP,4.5,Waiting Time : 17 Minutes,Shibin El-Kom,From 182 Visitors,"25,838 View(s)",
+268 (1),1676135990-560,Gynecologist,110 EGP,5,Waiting Time : 17 Minutes,Banha : 5 ibn Hagag street,From 16 Visitors,"3,670 View(s)",
+269 (1),1676135992-561,Pediatrician,200 EGP,5,Waiting Time : 8 Minutes,El-Mansoura : 6 october street branched from ahmed maher street,From 152 Visitors,"7,499 View(s)",
+270 (1),1676135995-562,General Surgeon,300 EGP,4.5,Waiting Time : 4 Minutes,Nasr City,From 69 Visitors,"6,392 View(s)",
+271 (1),1676135998-563,Neurologist,600 EGP,4.5,Waiting Time : 8 Minutes,Nasr City : AbdElhamid awad,From 196 Visitors,"24,536 View(s)",
+272 (1),1676136001-564,Urologist,500 EGP,4.5,Waiting Time : 30 Minutes,El-Maadi : Elnasr Street,From 84 Visitors,"6,193 View(s)",
+273 (1),1676135320-500,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,699 View(s)",1048
+274 (1),1676135324-501,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,182 View(s)",1048
+275 (1),1676135327-502,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,741 View(s)",1048
+276 (1),1676135329-503,Gynecologist,150 EGP,,null,El-Haram,null,"1,152 View(s)",1048
+277 (1),1676135332-504,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,048 View(s)",1048
+278 (1),1676135340-505,Cardiologist,350 EGP,5,Waiting Time : 7 Minutes,West El-Balad : el tahreer street,From 289 Visitors,"15,491 View(s)",...
+279 (1),1676135343-506,Pediatrician,200 EGP,5,Waiting Time : 14 Minutes,El-Badrashin,From 19 Visitors,"1,120 View(s)",...
+280 (1),1676135355-507,Gastroenterologist,250 EGP,5,Waiting Time : 18 Minutes,Faisal : Elatabaa Building Fasil Elnadii St,From 437 Visitors,"9,543 View(s)",...
+281 (1),1676135358-508,Andrologist,210 EGP,5,Waiting Time : 12 Minutes,El-Mansoura,From 234 Visitors,"11,366 View(s)",...
+282 (1),1676135361-509,Orthopedist,155 EGP,5,Waiting Time : 17 Minutes,El-Zagazig,From 147 Visitors,"13,947 View(s)",...
+283 (1),1676135363-510,ENT Doctor,320 EGP,5,Waiting Time : 11 Minutes,El-Mansoura : el mahta square,From 47 Visitors,"3,378 View(s)",...
+284 (1),1676135371-511,ENT Doctor,170 EGP,5,Waiting Time : 8 Minutes,Faisal : khaled ibn waleed st,From 481 Visitors,"6,020 View(s)",...
+285 (1),1676135378-512,Physiotherapist,300 EGP,5,Waiting Time : 6 Minutes,El-Rehab,From 30 Visitors,776 View(s),...
+286 (1),1676135381-513,Urologist,120 EGP,4.5,Waiting Time : 21 Minutes,El-Zagazig : obour bridge next to sawaf restaurant,From 117 Visitors,"10,071 View(s)",...
+287 (1),1676135386-514,Gynecologist,300 EGP,5,Waiting Time : 4 Minutes,Nasr City : mostafa elnahas,From 277 Visitors,"11,643 View(s)",...
+288 (1),1676135392-515,ENT Doctor,300 EGP,5,Waiting Time : 6 Minutes,6th of October : Central Axis,From 821 Visitors,"10,365 View(s)",76
+289 (1),1676135396-516,Dentist,150 EGP,5,Waiting Time : 9 Minutes,Imbaba,From 263 Visitors,"15,025 View(s)",76
+290 (1),1676135398-517,Cardiologist,350 EGP,5,Waiting Time : 12 Minutes,El-Maadi,From 128 Visitors,"6,021 View(s)",76
+291 (1),1676135409-518,Neurologist,250 EGP,4.5,Waiting Time : 17 Minutes,Shibin El-Kom,From 182 Visitors,"25,837 View(s)",76
+292 (1),1676135412-519,Pediatrician,200 EGP,5,Waiting Time : 8 Minutes,El-Mansoura : 6 october street branched from ahmed maher street,From 152 Visitors,"7,499 View(s)",76
+293 (1),1676135418-520,General Surgeon,300 EGP,4.5,Waiting Time : 4 Minutes,Nasr City,From 69 Visitors,"6,391 View(s)",76
+294 (1),1676135426-521,Gynecologist,110 EGP,5,Waiting Time : 17 Minutes,Banha : 5 ibn Hagag street,From 16 Visitors,"3,669 View(s)",76
+295 (1),1676135431-522,Dentist,200 EGP,5,Waiting Time : 8 Minutes,6th of October,From 348 Visitors,"9,723 View(s)",76
+296 (1),1676135433-523,Dentist,250 EGP,4.5,Waiting Time : 13 Minutes,Heliopolis : Al Hegaz - Heliopolis Square.,From 128 Visitors,"10,864 View(s)",76
+297 (1),1676135439-524,Orthopedist,300 EGP,5,Waiting Time : 16 Minutes,El-Manyal : manyal street,From 158 Visitors,"2,869 View(s)",
+298 (1),1676135442-525,Pediatrician,250 EGP,4.5,Waiting Time : 13 Minutes,Nasr City,From 10 Visitors,"1,065 View(s)",
+299 (1),1676135444-526,Endocrinologist,300 EGP,4.5,Waiting Time : 22 Minutes,north teseen street,From 51 Visitors,"1,669 View(s)",
+300 (1),1676135447-527,Neurosurgeon,350 EGP,5,Waiting Time : 15 Minutes,"El-Maadi : Sakr Quraysh, Al Bahs Al Genaea",From 66 Visitors,"2,636 View(s)",
+301 (1),1676135451-528,Cardiologist,200 EGP,5,Waiting Time : 18 Minutes,Heliopolis,From 251 Visitors,"7,381 View(s)",
+302 (1),1676135454-529,Surgical Oncologist,300 EGP,5,Waiting Time : 19 Minutes,El-Giza : mourad,From 20 Visitors,"2,755 View(s)",
+303 (1),1676135457-530,ENT Doctor,400 EGP,4.5,Waiting Time : 1 Hour and 49 Minutes,6th of October,From 139 Visitors,"5,025 View(s)",
+304 (1),1676135460-531,Neurosurgeon,370 EGP,5,Waiting Time : 29 Minutes,6th of October,From 666 Visitors,"23,752 View(s)",
+305 (1),1676135463-532,Cardiologist,300 EGP,4.5,Waiting Time : 59 Minutes,Janaklees,From 164 Visitors,"13,140 View(s)",
+306 (1),1676135466-533,Dentist,100 EGP,4.5,Waiting Time : 1 Hour and 53 Minutes,El-Manyal : Almanial main Street,From 62 Visitors,"3,903 View(s)",
+307 (1),1676135044-468,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,699 View(s)",1048
+308 (1),1676135046-469,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,181 View(s)",1048
+309 (1),1676135049-470,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,737 View(s)",1048
+310 (1),1676135052-471,Gynecologist,150 EGP,,null,El-Haram,null,"1,148 View(s)",1048
+311 (1),1676135055-472,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,047 View(s)",1048
+312 (1),1676135061-473,ENT Doctor,320 EGP,5,Waiting Time : 11 Minutes,El-Mansoura : el mahta square,From 47 Visitors,"3,377 View(s)",...
+313 (1),1676135075-474,Ophthalmologist,150 EGP,5,Waiting Time : 19 Minutes,El-Fayoum city : elmsla next to misr for insurance building next to city tower,From 94 Visitors,"3,052 View(s)",...
+314 (1),1676135101-475,General Surgeon,250 EGP,4.5,Waiting Time : 14 Minutes,Shibin El-Kom : sharaf square dewan tower,From 21 Visitors,"2,002 View(s)",...
+315 (1),1676135106-476,Gynecologist,250 EGP,5,Waiting Time : 13 Minutes,El-Shorouk,From 13 Visitors,833 View(s),...
+316 (1),1676135109-477,Physiotherapist,150 EGP,5,Waiting Time : 29 Minutes,Banha : behind mohafza,From 12 Visitors,"1,627 View(s)",...
+317 (1),1676135112-478,Obesity Surgeon,250 EGP,5,Waiting Time : 16 Minutes,Shibin El-Kom,From 13 Visitors,"2,387 View(s)",...
+318 (1),1676135115-479,Neurosurgeon,370 EGP,5,Waiting Time : 29 Minutes,6th of October,From 666 Visitors,"23,752 View(s)",...
+319 (1),1676135127-480,General Surgeon,200 EGP,5,Waiting Time : 6 Minutes,El-Zagazig : tolba eweda street,From 55 Visitors,"10,349 View(s)",...
+320 (1),1676135131-481,Rheumatologist,400 EGP,4,Waiting Time : 14 Minutes,El-Sayeda Zainab : Port Saeed Street,From 68 Visitors,"5,671 View(s)",...
+321 (1),1676135135-482,Dermatologist,400 EGP,4.5,Waiting Time : 33 Minutes,West El-Balad : Mohamed farid - Abdein,From 128 Visitors,"18,605 View(s)",...
+322 (1),1676135141-483,Neurosurgeon,350 EGP,5,Waiting Time : 15 Minutes,"El-Maadi : Sakr Quraysh, Al Bahs Al Genaea",From 66 Visitors,"2,635 View(s)",74
+323 (1),1676135144-484,Cardiologist,300 EGP,4.5,Waiting Time : 59 Minutes,Janaklees,From 164 Visitors,"13,140 View(s)",74
+324 (1),1676135147-485,Dentist,100 EGP,4.5,Waiting Time : 1 Hour and 53 Minutes,El-Manyal : Almanial main Street,From 62 Visitors,"3,903 View(s)",74
+325 (1),1676135150-486,Internist,210 EGP,4.5,Waiting Time : 20 Minutes,El-Mansoura : kanat el swiss st,From 199 Visitors,"7,357 View(s)",74
+326 (1),1676135153-487,Dentist,100 EGP,5,Waiting Time : 14 Minutes,Faisal,From 93 Visitors,"3,644 View(s)",74
+327 (1),1676135156-488,Ophthalmologist,250 EGP,5,Waiting Time : 12 Minutes,Heliopolis : hegaz street,From 283 Visitors,"10,072 View(s)",74
+328 (1),1676135159-489,Dermatologist,150 EGP,4.5,Waiting Time : 8 Minutes,10th of Ramadan : Ordinia St.,From 216 Visitors,"6,719 View(s)",74
+329 (1),1676135164-490,ENT Doctor,400 EGP,4.5,Waiting Time : 1 Hour and 49 Minutes,6th of October,From 139 Visitors,"5,024 View(s)",
+330 (1),1676135167-491,Cardiologist,350 EGP,5,Waiting Time : 10 Minutes,Maadi Ring Road,From 7 Visitors,693 View(s),
+331 (1),1676135171-492,Gynecologist,300 EGP,4.5,Waiting Time : 22 Minutes,El-Maadi,From 76 Visitors,"5,224 View(s)",
+332 (1),1676135180-493,Ophthalmologist,250 EGP,5,Waiting Time : 7 Minutes,Nasr City : Mohamed Radwan ST _ Al Hay Al Asher,From 138 Visitors,"3,298 View(s)",
+333 (1),1676135184-494,Dentist,200 EGP,5,Waiting Time : 8 Minutes,Heliopolis,From 60 Visitors,"1,336 View(s)",
+334 (1),1676135191-495,General Surgeon,200 EGP,4.5,Waiting Time : 25 Minutes,Shibin El-Kom,From 50 Visitors,"4,388 View(s)",
+335 (1),1676135194-496,Endocrinologist,300 EGP,4.5,Waiting Time : 22 Minutes,north teseen street,From 51 Visitors,"1,667 View(s)",
+336 (1),1676135197-497,Pediatrician,250 EGP,4.5,Waiting Time : 13 Minutes,Nasr City,From 10 Visitors,"1,064 View(s)",
+337 (1),1676135204-498,Surgical Oncologist,300 EGP,5,Waiting Time : 19 Minutes,El-Giza : mourad,From 20 Visitors,"2,754 View(s)",
+338 (1),1676135208-499,Cardiologist,400 EGP,5,Waiting Time : 8 Minutes,6th of October,From 240 Visitors,"6,813 View(s)",
+339 (1),1676128321-26,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,684 View(s)",1048
+340 (1),1676128327-27,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,166 View(s)",1048
+341 (1),1676128331-28,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,724 View(s)",1048
+342 (1),1676128336-29,Gynecologist,150 EGP,,null,El-Haram,null,"1,135 View(s)",1048
+343 (1),1676128342-30,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,032 View(s)",1048
+344 (1),1676128356-31,Gynecologist,500 EGP,4.5,Waiting Time : 10 Minutes,New Cairo : abdallah ibn salama,From 102 Visitors,"7,060 View(s)",...
+345 (1),1676128365-32,Pediatrician,200 EGP,4.5,Waiting Time : 12 Minutes,Miamy,From 98 Visitors,"5,678 View(s)",...
+346 (1),1676128372-33,Orthopedist,400 EGP,4.5,Waiting Time : 3 Hours and 27 Minutes,El-Maadi :  ElNasr,From 202 Visitors,"25,759 View(s)",...
+347 (1),1676128377-34,Cardiologist,500 EGP,4.5,Waiting Time : 34 Minutes,El-Sheikh Zayed : Twin Towers-Elmehwar Elmarkazi,From 733 Visitors,"24,457 View(s)",...
+348 (1),1676128382-35,Cardiologist,300 EGP,5,Waiting Time : 22 Minutes,El-Maadi : 4 street 100 from street 105 - Horria sq Maadi,From 475 Visitors,"29,833 View(s)",...
+349 (1),1676128388-36,Dermatologist,400 EGP,4.5,Waiting Time : 44 Minutes,Faisal : king Faisal St -tamimi,From 1479 Visitors,"119,042 View(s)",...
+350 (1),1676128397-37,General Surgeon,200 EGP,4.5,Waiting Time : 1 Hour,Bakos : Moastafa kamel,From 520 Visitors,"101,604 View(s)",...
+351 (1),1676128404-38,Orthopedist,200 EGP,4.5,Waiting Time : 1 Hour and 4 Minutes,El-Haram,From 1263 Visitors,"80,481 View(s)",...
+352 (1),1676128410-39,Orthopedist,300 EGP,4.5,Waiting Time : 16 Minutes,6th of October,From 1011 Visitors,"38,611 View(s)",...
+353 (1),1676128416-40,ENT Doctor,400 EGP,4.5,Waiting Time : 1 Hour and 28 Minutes,Heliopolis : Triumph square (Nakhla moteey),From 672 Visitors,"63,238 View(s)",...
+354 (1),1676128430-41,Pulmonologist,250 EGP,4.5,Waiting Time : 29 Minutes,El-Matareya : Beet El Ezz 2 building - Matareya square - Building A - Third floor,From 296 Visitors,"25,292 View(s)",
+355 (1),1676128436-42,Psychiatrist,800 EGP,4,Waiting Time : 1 Hour and 46 Minutes,Heliopolis : Esmail Ramzy Street,From 417 Visitors,"85,161 View(s)",
+356 (1),1676128441-43,Dermatologist,400 EGP,4.5,Waiting Time : 21 Minutes,El-Manyal : Manial,From 276 Visitors,"40,017 View(s)",
+357 (1),1676128446-44,Urologist,300 EGP,4.5,Waiting Time : 36 Minutes,El-Zaitoun : salim el-Awal st.,From 26 Visitors,"10,707 View(s)",
+358 (1),1676128452-45,Allergist,300 EGP,4.5,Waiting Time : 44 Minutes,Faisal : king faisal street,From 213 Visitors,"18,892 View(s)",
+359 (1),1676128457-46,Cardiologist,250 EGP,4.5,Waiting Time : 48 Minutes,El-Mohandessin : Omar Toson,From 92 Visitors,"10,858 View(s)",
+360 (1),1676128462-47,Gynecologist,200 EGP,4.5,Waiting Time : 12 Minutes,El-Obour City : Al Obour center,From 32 Visitors,"5,424 View(s)",
+361 (1),1676128467-48,Nutritionist,200 EGP,4.5,Waiting Time : 27 Minutes,Faisal,From 663 Visitors,"39,933 View(s)",
+362 (1),1676128471-49,Orthopedist,300 EGP,4.5,Waiting Time : 22 Minutes,Faisal : king faisal,From 497 Visitors,"27,495 View(s)",
+363 (1),1676128475-50,Oncologist,500 EGP,5,Waiting Time : 20 Minutes,El-Maadi : ElNasr,From 389 Visitors,"32,199 View(s)",
+364 (1),1676133184-352,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,694 View(s)",1048
+365 (1),1676133187-353,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,175 View(s)",1048
+366 (1),1676133190-354,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,736 View(s)",1048
+367 (1),1676133193-355,Gynecologist,150 EGP,,null,El-Haram,null,"1,146 View(s)",1048
+368 (1),1676133196-356,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,042 View(s)",1048
+369 (1),1676133202-357,Audiologist,300 EGP,4.5,Waiting Time : 18 Minutes,Faisal : fisal street,From 121 Visitors,"12,864 View(s)",...
+370 (1),1676133205-358,Physiotherapist,200 EGP,4,Waiting Time : 15 Minutes,El-Maadi : street 287,From 56 Visitors,"6,220 View(s)",...
+371 (1),1676133211-359,Dentist,150 EGP,4.5,Waiting Time : 10 Minutes,El-Mansoura,From 256 Visitors,"22,782 View(s)",...
+372 (1),1676133214-360,Dentist,150 EGP,4.5,Waiting Time : 30 Minutes,Nasr City :  Mohamed Almakreif,From 206 Visitors,"17,160 View(s)",...
+373 (1),1676133217-361,Dentist,300 EGP,4.5,Waiting Time : 10 Minutes,Madinaty : Medical Center,From 107 Visitors,"27,830 View(s)",...
+374 (1),1676133220-362,Ophthalmologist,250 EGP,5,Waiting Time : 18 Minutes,Hadayek El-Kobba : Abdelgleel street from Ibn Sender,From 88 Visitors,"6,315 View(s)",...
+375 (1),1676133229-363,Gynecologist,150 EGP,4.5,Waiting Time : 32 Minutes,El-Haram : Haram Street Nasr eldin Station,From 297 Visitors,"14,943 View(s)",...
+376 (1),1676133236-364,Psychiatrist,300 EGP,4.5,Waiting Time : 28 Minutes,Victoria : Gamal Abdelnaser,From 157 Visitors,"20,487 View(s)",...
+377 (1),1676133239-365,Dentist,100 EGP,4.5,Waiting Time : 14 Minutes,El-Haram : 93 el haram street - beside city mall,From 648 Visitors,"32,514 View(s)",...
+378 (1),1676133243-366,Physiotherapist,200 EGP,4,Waiting Time : 21 Minutes,6th of October : Central Axis,From 151 Visitors,"15,678 View(s)",...
+379 (1),1676133251-367,Physiotherapist,150 EGP,4.5,Waiting Time : 12 Minutes,El-Haram : madkour,From 186 Visitors,"18,491 View(s)",66
+380 (1),1676133254-368,Dentist,400 EGP,4.5,Waiting Time : 8 Minutes,El-Sheikh Zayed : Beverly Hills-gate 9,From 68 Visitors,"5,186 View(s)",66
+381 (1),1676133257-369,Dentist,50 EGP,4.5,Waiting Time : 15 Minutes,Mahalla : El-shon,From 126 Visitors,"9,429 View(s)",66
+382 (1),1676133260-370,Dentist,200 EGP,4.5,Waiting Time : 19 Minutes,El-Haram :  Salam,From 92 Visitors,"8,407 View(s)",66
+383 (1),1676133272-371,Ophthalmologist,130 EGP,4.5,Waiting Time : 19 Minutes,Assiut city : Yusri Ragheb St.,From 189 Visitors,"13,150 View(s)",66
+384 (1),1676133276-372,Dentist,200 EGP,4.5,Waiting Time : 8 Minutes,Nasr City : makram ebeid,From 96 Visitors,"23,527 View(s)",66
+385 (1),1676133279-373,Dentist,100 EGP,4.5,Waiting Time : 12 Minutes,Banha : el safaa,From 81 Visitors,"6,823 View(s)",66
+386 (1),1676133285-374,General Surgeon,400 EGP,4.5,Waiting Time : 13 Minutes,El-Maadi : Al Nasr Street,From 161 Visitors,"12,056 View(s)",66
+387 (1),1676133291-375,Gynecologist,300 EGP,5,Waiting Time : 1 Hour and 33 Minutes,El-Dokki : El Tahrir st.,From 113 Visitors,"18,721 View(s)",
+388 (1),1676133295-376,Dentist,350 EGP,4.5,Waiting Time : 9 Minutes,Nasr City : abo dawood zahry,From 114 Visitors,"12,331 View(s)",
+389 (1),1676133299-377,Dentist,300 EGP,4.5,Waiting Time : 13 Minutes,New Cairo : 90 Street,From 190 Visitors,"35,809 View(s)",
+390 (1),1676133301-378,Internist,400 EGP,4.5,Waiting Time : 17 Minutes,El-Mansoura : Al seka algdeda,From 48 Visitors,"15,505 View(s)",
+391 (1),1676133314-379,Orthopedist,250 EGP,4.5,Waiting Time : 21 Minutes,Imbaba : Main wehda street,From 60 Visitors,"19,480 View(s)",
+392 (1),1676133317-380,Nutritionist,350 EGP,5,Waiting Time : 8 Minutes,El-Sheikh Zayed,From 145 Visitors,"5,331 View(s)",
+393 (1),1676133320-381,ENT Doctor,150 EGP,4,Waiting Time : 32 Minutes,"Ain Shams : 70 Khaled Ebn El Waleed st., From Mostafa Hafez st., Beside Zaher, Guesr El Suez st., In front of El Shams club",From 363 Visitors,"27,173 View(s)",
+394 (1),1676133322-382,Dentist,150 EGP,4.5,Waiting Time : 21 Minutes,Faisal : hassan mohamed station-Feisal,From 814 Visitors,"53,359 View(s)",
+395 (1),1676133330-383,Physiotherapist,75 EGP,4.5,Waiting Time : 14 Minutes,Shibin El-Kom : Abo Bakr Elsedeek,From 60 Visitors,"8,352 View(s)",
+396 (1),1676133332-384,Dentist,150 EGP,4,Waiting Time : 30 Minutes,Hadayek El-Ahram : 2nd gate khafra,From 237 Visitors,"15,208 View(s)",
+397 (1),1676128616-51,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,684 View(s)",1048
+398 (1),1676128621-52,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,166 View(s)",1048
+399 (1),1676128626-53,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,724 View(s)",1048
+400 (1),1676128630-54,Gynecologist,150 EGP,,null,El-Haram,null,"1,137 View(s)",1048
+401 (1),1676128639-55,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,032 View(s)",1048
+402 (1),1676128648-56,Internist,400 EGP,4.5,Waiting Time : 53 Minutes,El-Manyal : Saeed Tho Al fakar Street - branched from El basha square,From 847 Visitors,"55,556 View(s)",...
+403 (1),1676128652-57,Vascular Surgeon,400 EGP,4.5,Waiting Time : 14 Minutes,6th of October : El Mehwar El Markazy,From 361 Visitors,"22,988 View(s)",...
+404 (1),1676128658-58,Dentist,200 EGP,4.5,Waiting Time : 26 Minutes,Heliopolis :  Bridge,From 107 Visitors,"20,365 View(s)",...
+405 (1),1676128663-59,ENT Doctor,400 EGP,4.5,Waiting Time : 9 Minutes,"El-Rehab : Rehab , medical centre 2 , clinic 109",From 511 Visitors,"28,554 View(s)",...
+406 (1),1676128671-60,Cardiologist,600 EGP,4.5,Waiting Time : 32 Minutes,El-Sheikh Zayed : Twin Towers,From 188 Visitors,"37,441 View(s)",...
+407 (1),1676128678-61,Internist,350 EGP,4.5,Waiting Time : 24 Minutes,Nasr City :  ahmed el zomor,From 220 Visitors,"19,963 View(s)",...
+408 (1),1676128684-62,Gynecologist,200 EGP,4.5,Waiting Time : 34 Minutes,"El-Agamy : Kilometer 21 square,",From 143 Visitors,"17,379 View(s)",...
+409 (1),1676128688-63,Pediatrician,400 EGP,4.5,Waiting Time : 12 Minutes,Nasr City : Mostafa nhas St,From 25 Visitors,"7,276 View(s)",...
+410 (1),1676128691-64,ENT Doctor,250 EGP,4,Waiting Time : 23 Minutes,El-Mokattam : 9 S.t,From 173 Visitors,"15,895 View(s)",...
+411 (1),1676128695-65,Plastic Surgeon,350 EGP,4.5,Waiting Time : 9 Minutes,"Sporting : Port Saeid St.,",From 22 Visitors,"14,222 View(s)",...
+412 (1),1676128710-66,Oncologist,300 EGP,4.5,Waiting Time : 24 Minutes,El-Haram,From 229 Visitors,"12,588 View(s)",50
+413 (1),1676128719-67,Dentist,250 EGP,4.5,Waiting Time : 11 Minutes,6th of October : omrania tanua,From 149 Visitors,"13,834 View(s)",50
+414 (1),1676128725-68,Cardiologist,350 EGP,5,Waiting Time : 56 Minutes,West El-Balad :  Mohamed farid,From 300 Visitors,"18,171 View(s)",50
+415 (1),1676128728-69,Cardiologist,200 EGP,4.5,Waiting Time : 56 Minutes,El-Agamy : Alrxandria- matrouh road,From 267 Visitors,"17,244 View(s)",50
+416 (1),1676128732-70,Orthopedist,350 EGP,4.5,Waiting Time : 9 Minutes,Nasr City,From 277 Visitors,"14,942 View(s)",50
+417 (1),1676128737-71,Urologist,400 EGP,4,Waiting Time : 23 Minutes,Heliopolis : bagdad st.,From 110 Visitors,"28,114 View(s)",50
+418 (1),1676128743-72,Ophthalmologist,350 EGP,4.5,Waiting Time : 1 Hour and 20 Minutes,Nasr City : mostafa el nahhas street,From 1192 Visitors,"84,238 View(s)",50
+419 (1),1676128749-73,Rheumatologist,300 EGP,4.5,Waiting Time : 10 Minutes,El-Zagazig : vilal gamaa street next to madina mosque,From 153 Visitors,"15,078 View(s)",50
+420 (1),1676128761-74,Urologist,600 EGP,4,Waiting Time : 26 Minutes,El-Mohandessin :  shehab street,From 51 Visitors,"10,304 View(s)",
+421 (1),1676128767-75,Dermatologist,300 EGP,4.5,Waiting Time : 34 Minutes,El-Maadi :  El Horya Square,From 647 Visitors,"45,091 View(s)",
+422 (1),1676128771-76,Cardiologist,500 EGP,4.5,Waiting Time : 34 Minutes,El-Sheikh Zayed : Twin Towers-Elmehwar Elmarkazi,From 733 Visitors,"24,459 View(s)",
+423 (1),1676128779-77,Vascular Surgeon,400 EGP,4.5,Waiting Time : 11 Minutes,El-Manyal : El Manyal,From 69 Visitors,"9,994 View(s)",
+424 (1),1676128784-78,Gynecologist,200 EGP,4.5,Waiting Time : 12 Minutes,El-Obour City : Al Obour center,From 32 Visitors,"5,425 View(s)",
+425 (1),1676129486-99,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,687 View(s)",1048
+426 (1),1676129490-100,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,169 View(s)",1048
+427 (1),1676129495-101,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,728 View(s)",1048
+428 (1),1676129500-102,Gynecologist,150 EGP,,null,El-Haram,null,"1,139 View(s)",1048
+429 (1),1676129511-103,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,035 View(s)",1048
+430 (1),1676129545-104,Dentist,200 EGP,4.5,Waiting Time : 26 Minutes,Heliopolis :  Bridge,From 107 Visitors,"20,366 View(s)",...
+431 (1),1676129548-105,Vascular Surgeon,300 EGP,4.5,Waiting Time : 37 Minutes,Faisal :  Faisal,From 275 Visitors,"34,616 View(s)",...
+432 (1),1676129555-106,Internist,350 EGP,4.5,Waiting Time : 24 Minutes,Nasr City :  ahmed el zomor,From 220 Visitors,"19,964 View(s)",...
+433 (1),1676129559-107,Gynecologist,200 EGP,4.5,Waiting Time : 34 Minutes,"El-Agamy : Kilometer 21 square,",From 143 Visitors,"17,381 View(s)",...
+434 (1),1676129566-108,ENT Doctor,250 EGP,4,Waiting Time : 23 Minutes,El-Mokattam : 9 S.t,From 173 Visitors,"15,896 View(s)",...
+435 (1),1676129572-109,Cardiologist,350 EGP,5,Waiting Time : 56 Minutes,West El-Balad :  Mohamed farid,From 300 Visitors,"18,172 View(s)",...
+436 (1),1676129582-110,Dermatologist,200 EGP,4.5,Waiting Time : 44 Minutes,El-Obour City : Alsadat St.,From 685 Visitors,"29,993 View(s)",...
+437 (1),1676129590-111,Psychiatrist,300 EGP,4,Waiting Time : 38 Minutes,El-Mansoura : Hussein bek street in front of family regulation office,From 54 Visitors,"15,924 View(s)",...
+438 (1),1676129598-112,Pediatrician,200 EGP,4.5,Waiting Time : 12 Minutes,Miamy,From 98 Visitors,"5,679 View(s)",...
+439 (1),1676129604-113,Orthopedist,200 EGP,4.5,Waiting Time : 22 Minutes,Faisal,From 901 Visitors,"29,934 View(s)",...
+440 (1),1676129615-114,Gynecologist,500 EGP,4.5,Waiting Time : 10 Minutes,New Cairo : abdallah ibn salama,From 102 Visitors,"7,061 View(s)",52
+441 (1),1676129619-115,Internist,300 EGP,4,Waiting Time : 7 Minutes,El-Rehab : el sadat axis-The corner mall,From 371 Visitors,"14,404 View(s)",52
+442 (1),1676129626-116,Pediatrician,300 EGP,4.5,Waiting Time : 19 Minutes,New Cairo : 3rd block,From 307 Visitors,"10,382 View(s)",52
+443 (1),1676129630-117,Psychiatrist,600 EGP,4,Waiting Time : 31 Minutes,trablous,From 258 Visitors,"1,588 View(s)",52
+444 (1),1676129634-118,Andrologist,300 EGP,4.5,Waiting Time : 43 Minutes,6th of October : 4th District - 3rd Neighborhood,From 1002 Visitors,"46,253 View(s)",52
+445 (1),1676129639-119,Orthopedist,200 EGP,4.5,Waiting Time : 34 Minutes,6th of October,From 480 Visitors,"26,411 View(s)",52
+446 (1),1676129642-120,General Surgeon,150 EGP,4.5,Waiting Time : 46 Minutes,Shoubra El-Kheima : ElSharea ElGded,From 201 Visitors,"12,017 View(s)",52
+447 (1),1676129649-121,Ophthalmologist,300 EGP,4.5,Waiting Time : 9 Minutes,New Cairo,From 478 Visitors,"17,285 View(s)",
+448 (1),1676129656-122,Neurologist,300 EGP,4.5,Waiting Time : 1 Hour and 22 Minutes,Shoubra El-Kheima : 15 may street across the new street,From 485 Visitors,"52,645 View(s)",
+449 (1),1676129659-123,Nutritionist,200 EGP,4.5,Waiting Time : 15 Minutes,El-Matareya : El horeya street,From 45 Visitors,"8,354 View(s)",
+450 (1),1676129662-124,Rheumatologist,400 EGP,4.5,Waiting Time : 10 Minutes,Nasr City : Gafar Elsadek st branched from eltayaran,From 165 Visitors,"25,471 View(s)",
+451 (1),1676129665-125,Internist,300 EGP,4.5,Waiting Time : 36 Minutes,El-Maadi : 77 St.,From 913 Visitors,"37,046 View(s)",
+452 (1),1676129669-126,Cardiologist,750 EGP,4.5,Waiting Time : 47 Minutes,Heliopolis,From 469 Visitors,"43,728 View(s)",
+453 (1),1676129674-127,Pediatrician,250 EGP,4.5,Waiting Time : 30 Minutes,Faisal : king  Faisal taawon,From 1109 Visitors,"65,606 View(s)",
+454 (1),1676129678-128,Andrologist,250 EGP,4.5,Waiting Time : 50 Minutes,Faisal,From 205 Visitors,"15,492 View(s)",
+455 (1),1676129684-129,Urologist,200 EGP,4.5,Waiting Time : 21 Minutes,Shoubra : 15 may street,From 125 Visitors,"10,978 View(s)",
+456 (1),1676129691-130,Nutritionist,100 EGP,4,Waiting Time : 8 Minutes,El-Mansheyah : Hamam El Warsha,From 120 Visitors,"22,875 View(s)",
+457 (1),1676129842-131,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,687 View(s)",1048
+458 (1),1676129846-132,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,169 View(s)",1048
+459 (1),1676129850-133,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,729 View(s)",1048
+460 (1),1676129855-134,Gynecologist,150 EGP,,null,El-Haram,null,"1,139 View(s)",1048
+461 (1),1676129864-135,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,035 View(s)",1048
+462 (1),1676129877-136,Hepatologist,300 EGP,4.5,Waiting Time : 28 Minutes,Faisal : Faisal,From 421 Visitors,"35,634 View(s)",...
+463 (1),1676129889-137,Orthopedist,150 EGP,4.5,Waiting Time : 13 Minutes,Ain Shams,From 125 Visitors,"11,811 View(s)",...
+464 (1),1676129895-138,Rheumatologist,250 EGP,4,Waiting Time : 15 Minutes,El-Haram :  Abo emera street,From 246 Visitors,"20,079 View(s)",...
+465 (1),1676129899-139,Ophthalmologist,400 EGP,4.5,Waiting Time : 47 Minutes,El-Maadi : 153,From 364 Visitors,"26,223 View(s)",...
+466 (1),1676129903-140,Physiotherapist,120 EGP,4,Waiting Time : 22 Minutes,El-Maadi : 9,From 125 Visitors,"14,855 View(s)",...
+467 (1),1676129911-141,Dermatologist,200 EGP,4.5,Waiting Time : 44 Minutes,El-Obour City : Alsadat St.,From 685 Visitors,"29,994 View(s)",...
+468 (1),1676129916-142,Psychiatrist,300 EGP,4,Waiting Time : 38 Minutes,El-Mansoura : Hussein bek street in front of family regulation office,From 54 Visitors,"15,927 View(s)",...
+469 (1),1676129922-143,Ophthalmologist,150 EGP,5,Waiting Time : 29 Minutes,"Shoubra El-Kheima : 15 mayo"" ElshareEl gedidi """,From 317 Visitors,"9,642 View(s)",...
+470 (1),1676129927-144,Gynecologist,200 EGP,4,Waiting Time : 14 Minutes,El-Ibrahimia,From 147 Visitors,"11,538 View(s)",...
+471 (1),1676129935-145,Pediatrician,200 EGP,4.5,Waiting Time : 12 Minutes,Miamy,From 98 Visitors,"5,680 View(s)",...
+472 (1),1676129944-146,Internist,300 EGP,4,Waiting Time : 7 Minutes,El-Rehab : el sadat axis-The corner mall,From 371 Visitors,"14,405 View(s)",54
+473 (1),1676129951-147,Pediatrician,300 EGP,4.5,Waiting Time : 19 Minutes,New Cairo : 3rd block,From 307 Visitors,"10,383 View(s)",54
+474 (1),1676129958-148,Oncologist,300 EGP,4.5,Waiting Time : 24 Minutes,El-Haram,From 229 Visitors,"12,589 View(s)",54
+475 (1),1676129961-149,Orthopedist,400 EGP,4.5,Waiting Time : 3 Hours and 27 Minutes,El-Maadi :  ElNasr,From 202 Visitors,"25,760 View(s)",54
+476 (1),1676129971-150,Nephrologist,400 EGP,5,Waiting Time : 35 Minutes,Faisal : Faisal street,From 361 Visitors,"19,163 View(s)",54
+477 (1),1676129976-151,ENT Doctor,400 EGP,4.5,Waiting Time : 9 Minutes,"El-Rehab : Rehab , medical centre 2 , clinic 109",From 511 Visitors,"28,555 View(s)",54
+478 (1),1676129980-152,Urologist,400 EGP,4,Waiting Time : 23 Minutes,Heliopolis : bagdad st.,From 110 Visitors,"28,115 View(s)",54
+479 (1),1676129986-153,Plastic Surgeon,350 EGP,4.5,Waiting Time : 9 Minutes,"Sporting : Port Saeid St.,",From 22 Visitors,"14,223 View(s)",54
+480 (1),1676129989-154,Vascular Surgeon,400 EGP,4.5,Waiting Time : 14 Minutes,6th of October : El Mehwar El Markazy,From 361 Visitors,"22,989 View(s)",54
+481 (1),1676129994-155,Cardiologist,600 EGP,4.5,Waiting Time : 32 Minutes,El-Sheikh Zayed : Twin Towers,From 188 Visitors,"37,442 View(s)",54
+482 (1),1676130015-156,ENT Doctor,320 EGP,4.5,Waiting Time : 29 Minutes,El-Mohandessin,From 1028 Visitors,"64,497 View(s)",
+483 (1),1676130022-157,Cardiologist,750 EGP,4.5,Waiting Time : 47 Minutes,Heliopolis,From 469 Visitors,"43,729 View(s)",
+484 (1),1676130029-158,Dentist,200 EGP,4.5,Waiting Time : 26 Minutes,Heliopolis :  Bridge,From 107 Visitors,"20,367 View(s)",
+485 (1),1676130036-159,Psychiatrist,400 EGP,4.5,Waiting Time : 21 Minutes,Hadayek El-Kobba : Masr El-Soadan,From 159 Visitors,"42,095 View(s)",
+486 (1),1676130043-160,Internist,350 EGP,4.5,Waiting Time : 22 Minutes,El-Maadi : algazerr,From 1538 Visitors,"87,377 View(s)",
+487 (1),1676130049-161,Ophthalmologist,300 EGP,4.5,Waiting Time : 9 Minutes,New Cairo,From 478 Visitors,"17,287 View(s)",
+488 (1),1676130054-162,Pediatrician,250 EGP,4.5,Waiting Time : 30 Minutes,Faisal : king  Faisal taawon,From 1109 Visitors,"65,607 View(s)",
+489 (1),1676130060-163,Vascular Surgeon,300 EGP,4.5,Waiting Time : 37 Minutes,Faisal :  Faisal,From 275 Visitors,"34,617 View(s)",
+490 (1),1676130068-164,Ophthalmologist,350 EGP,4.5,Waiting Time : 1 Hour and 20 Minutes,Nasr City : mostafa el nahhas street,From 1192 Visitors,"84,239 View(s)",
+491 (1),1676130075-165,Internist,350 EGP,4.5,Waiting Time : 24 Minutes,Nasr City :  ahmed el zomor,From 220 Visitors,"19,965 View(s)",
+492 (1),1676130167-166,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,690 View(s)",1048
+493 (1),1676130174-167,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,171 View(s)",1048
+494 (1),1676130180-168,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,729 View(s)",1048
+495 (1),1676130187-169,Gynecologist,150 EGP,,null,El-Haram,null,"1,139 View(s)",1048
+496 (1),1676130196-170,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,035 View(s)",1048
+497 (1),1676130209-171,ENT Doctor,200 EGP,4,Waiting Time : 20 Minutes,Faisal,From 636 Visitors,"43,963 View(s)",...
+498 (1),1676130216-172,Neurologist,300 EGP,4.5,Waiting Time : 1 Hour and 1 Minute,El-Abbasia : Abdou Pacha Sq.,From 702 Visitors,"54,320 View(s)",...
+499 (1),1676130222-173,Gynecologist,200 EGP,4.5,Waiting Time : 50 Minutes,6th of October : the central axis,From 835 Visitors,"32,628 View(s)",...
+500 (1),1676130228-174,Ophthalmologist,400 EGP,4.5,Waiting Time : 47 Minutes,El-Maadi : 153,From 364 Visitors,"26,224 View(s)",...
+501 (1),1676130233-175,Internist,150 EGP,4.5,Waiting Time : 1 Hour and 16 Minutes,El-Mandara : Mohamed Hassanin Hiekel,From 903 Visitors,"82,211 View(s)",...
+502 (1),1676130239-176,Hepatologist,300 EGP,4.5,Waiting Time : 28 Minutes,Faisal : Faisal,From 421 Visitors,"35,635 View(s)",...
+503 (1),1676130249-177,Orthopedist,200 EGP,5,Waiting Time : 34 Minutes,Sidy Gaber : Elhoreia,From 645 Visitors,"50,322 View(s)",...
+504 (1),1676130254-178,Gynecologist,250 EGP,4.5,Waiting Time : 11 Minutes,El-Sheikh Zayed : Medical Hub Center-Khameal City-Gate 2-Infront of Hyperone,From 74 Visitors,"5,117 View(s)",...
+505 (1),1676130261-179,Gastroenterologist,200 EGP,5,Waiting Time : 18 Minutes,Ain Shams,From 505 Visitors,"21,784 View(s)",...
+506 (1),1676130265-180,Urologist,100 EGP,4.5,Waiting Time : 47 Minutes,El-Marg : Ahmed sediq,From 317 Visitors,"23,763 View(s)",...
+507 (1),1676130276-181,Gastroenterologist,300 EGP,4.5,Waiting Time : 1 Hour and 33 Minutes,Sidy Gaber : Portsaif,From 649 Visitors,"54,921 View(s)",56
+508 (1),1676130282-182,Neurologist,150 EGP,4,Waiting Time : 31 Minutes,El-Haram : Terat Al Zomir Street,From 1017 Visitors,"64,347 View(s)",56
+509 (1),1676130290-183,ENT Doctor,300 EGP,4.5,Waiting Time : 16 Minutes,El-Maadi,From 772 Visitors,"21,812 View(s)",56
+510 (1),1676130296-184,Orthopedist,150 EGP,4.5,Waiting Time : 13 Minutes,Ain Shams,From 125 Visitors,"11,812 View(s)",56
+511 (1),1676130301-185,Dermatologist,400 EGP,4.5,Waiting Time : 17 Minutes,6th of October : elmahwar el markazi,From 1284 Visitors,"63,374 View(s)",56
+512 (1),1676130305-186,Rheumatologist,250 EGP,4,Waiting Time : 15 Minutes,El-Haram :  Abo emera street,From 246 Visitors,"20,080 View(s)",56
+513 (1),1676130311-187,Pulmonologist,300 EGP,4.5,Waiting Time : 28 Minutes,El-Haram : Al Haram street -,From 1294 Visitors,"66,504 View(s)",56
+514 (1),1676130315-188,Gynecologist,450 EGP,4.5,Waiting Time : 31 Minutes,"El-Rehab : Medical center 2 ,  El Rehab City",From 827 Visitors,"38,218 View(s)",56
+515 (1),1676130323-189,Gastroenterologist,400 EGP,4.5,Waiting Time : 12 Minutes,El-Giza : el gamaa Street,From 49 Visitors,"6,794 View(s)",
+516 (1),1676130330-190,Internist,150 EGP,4.5,Waiting Time : 1 Hour,El-Haram : El haram St.,From 1512 Visitors,"51,308 View(s)",
+517 (1),1676130348-191,Psychiatrist,300 EGP,4.5,Waiting Time : 26 Minutes,El-Haram : Naser althora,From 383 Visitors,"53,284 View(s)",
+518 (1),1676130359-192,Gynecologist,150 EGP,4.5,Waiting Time : 23 Minutes,El-Rehab : medical park elite next to city square,From 105 Visitors,"6,873 View(s)",
+519 (1),1676130364-193,Pulmonologist,400 EGP,4,Waiting Time : 20 Minutes,El-Maadi,From 1042 Visitors,"66,622 View(s)",
+520 (1),1676130369-194,Orthopedist,250 EGP,4.5,Waiting Time : 32 Minutes,6th of October : 71 fadan,From 524 Visitors,"19,680 View(s)",
+521 (1),1676130375-195,ENT Doctor,400 EGP,4.5,Waiting Time : 9 Minutes,"El-Rehab : Rehab , medical centre 2 , clinic 109",From 511 Visitors,"28,556 View(s)",
+522 (1),1676130380-196,Urologist,400 EGP,4,Waiting Time : 23 Minutes,Heliopolis : bagdad st.,From 110 Visitors,"28,116 View(s)",
+523 (1),1676130386-197,Dermatologist,300 EGP,4.5,Waiting Time : 38 Minutes,Heliopolis : El Merghany,From 925 Visitors,"32,177 View(s)",
+524 (1),1676130392-198,Cardiologist,600 EGP,4.5,Waiting Time : 32 Minutes,El-Sheikh Zayed : Twin Towers,From 188 Visitors,"37,443 View(s)",
+525 (1),1676130580-199,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,690 View(s)",1048
+526 (1),1676130586-200,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,172 View(s)",1048
+527 (1),1676130591-201,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,731 View(s)",1048
+528 (1),1676130595-202,Gynecologist,150 EGP,,null,El-Haram,null,"1,142 View(s)",1048
+529 (1),1676130603-203,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,038 View(s)",1048
+530 (1),1676130616-204,Physiotherapist,200 EGP,5,Waiting Time : 5 Minutes,Heliopolis : abu bakr el sedeek saffir sqaure,From 208 Visitors,"36,839 View(s)",...
+531 (1),1676130622-205,Plastic Surgeon,400 EGP,4,Waiting Time : 11 Minutes,El-Ibrahimia : abokeir road,From 123 Visitors,"33,667 View(s)",...
+532 (1),1676130628-206,General Surgeon,200 EGP,4.5,Waiting Time : 10 Minutes,Faisal,From 493 Visitors,"35,996 View(s)",...
+533 (1),1676130633-207,Internist,350 EGP,4,Waiting Time : 19 Minutes,Heliopolis,From 449 Visitors,"51,717 View(s)",...
+534 (1),1676130640-208,Dentist,200 EGP,4.5,Waiting Time : 14 Minutes,"8th district, Above Ragab's Sons s market - mall five stars 2 new floor",From 640 Visitors,"12,766 View(s)",...
+535 (1),1676130647-209,Gynecologist,200 EGP,4.5,Waiting Time : 11 Minutes,Nasr City : ahmed elzomr,From 27 Visitors,"3,658 View(s)",...
+536 (1),1676130655-210,Dentist,400 EGP,4.5,Waiting Time : 12 Minutes,Nasr City : Abu Dawood Al-Zahery,From 427 Visitors,"21,379 View(s)",...
+537 (1),1676130660-211,Cardiologist,200 EGP,4.5,Waiting Time : 43 Minutes,Ain Shams : Seha street,From 270 Visitors,"19,435 View(s)",...
+538 (1),1676130666-212,Internist,400 EGP,,null,Beverly Hills,null,"28,591 View(s)",...
+539 (1),1676130671-213,General Surgeon,190 EGP,4.5,Waiting Time : 27 Minutes,El-Mansoura,From 80 Visitors,"15,278 View(s)",...
+540 (1),1676130685-214,Gynecologist,250 EGP,4,Waiting Time : 26 Minutes,Hadayek El-Ahram : zen,From 337 Visitors,"28,378 View(s)",58
+541 (1),1676130693-215,Dentist,400 EGP,5,Waiting Time : 10 Minutes,New Cairo : North,From 197 Visitors,"14,673 View(s)",58
+542 (1),1676130699-216,Cardiologist,250 EGP,4.5,Waiting Time : 27 Minutes,El-Haram : Al Haram street,From 222 Visitors,"14,646 View(s)",58
+543 (1),1676130705-217,Cardiologist,175 EGP,4.5,Waiting Time : 2 Hours and 31 Minutes,El-Agamy : -salah el awdy st.,From 115 Visitors,"8,907 View(s)",58
+544 (1),1676130712-218,Internist,350 EGP,4.5,Waiting Time : 22 Minutes,6th of October : nagda square,From 269 Visitors,"12,061 View(s)",58
+545 (1),1676130717-219,Urologist,100 EGP,4.5,Waiting Time : 47 Minutes,El-Marg : Ahmed sediq,From 317 Visitors,"23,763 View(s)",58
+546 (1),1676130721-220,Gastroenterologist,200 EGP,5,Waiting Time : 18 Minutes,Ain Shams,From 505 Visitors,"21,784 View(s)",58
+547 (1),1676130726-221,Internist,170 EGP,4.5,Waiting Time : 27 Minutes,El-Zagazig,From 305 Visitors,"29,551 View(s)",58
+548 (1),1676130731-222,Ophthalmologist,400 EGP,4.5,Waiting Time : 47 Minutes,El-Maadi : 153,From 364 Visitors,"26,224 View(s)",58
+549 (1),1676130739-223,Gynecologist,200 EGP,4.5,Waiting Time : 50 Minutes,6th of October : the central axis,From 835 Visitors,"32,628 View(s)",57
+550 (1),1676130743-224,Internist,150 EGP,4.5,Waiting Time : 1 Hour and 16 Minutes,El-Mandara : Mohamed Hassanin Hiekel,From 903 Visitors,"82,211 View(s)",57
+551 (1),1676130747-225,Internist,350 EGP,5,Waiting Time : 56 Minutes,Smouha : Victor Ammanuel St.,From 575 Visitors,"35,848 View(s)",57
+552 (1),1676130751-226,Physiotherapist,120 EGP,4,Waiting Time : 22 Minutes,El-Maadi : 9,From 125 Visitors,"14,856 View(s)",57
+553 (1),1676130755-227,Cardiologist,400 EGP,4.5,Waiting Time : 53 Minutes,El-Maadi : Horreya Square,From 339 Visitors,"35,369 View(s)",
+554 (1),1676130758-228,Gastroenterologist,300 EGP,4.5,Waiting Time : 1 Hour and 33 Minutes,Sidy Gaber : Portsaif,From 649 Visitors,"54,921 View(s)",
+555 (1),1676130760-229,Neurologist,150 EGP,4,Waiting Time : 31 Minutes,El-Haram : Terat Al Zomir Street,From 1017 Visitors,"64,347 View(s)",
+556 (1),1676130764-230,ENT Doctor,300 EGP,4.5,Waiting Time : 16 Minutes,El-Maadi,From 772 Visitors,"21,812 View(s)",
+557 (1),1676130768-231,Orthopedist,150 EGP,4.5,Waiting Time : 13 Minutes,Ain Shams,From 125 Visitors,"11,812 View(s)",
+558 (1),1676130771-232,Dermatologist,400 EGP,4.5,Waiting Time : 17 Minutes,6th of October : elmahwar el markazi,From 1284 Visitors,"63,374 View(s)",
+559 (1),1676130774-233,Orthopedist,200 EGP,5,Waiting Time : 34 Minutes,Sidy Gaber : Elhoreia,From 645 Visitors,"50,322 View(s)",
+560 (1),1676130778-234,Gynecologist,250 EGP,4.5,Waiting Time : 11 Minutes,El-Sheikh Zayed : Medical Hub Center-Khameal City-Gate 2-Infront of Hyperone,From 74 Visitors,"5,117 View(s)",
+561 (1),1676130781-235,Rheumatologist,250 EGP,4,Waiting Time : 15 Minutes,El-Haram :  Abo emera street,From 246 Visitors,"20,080 View(s)",
+562 (1),1676130784-236,Pulmonologist,300 EGP,4.5,Waiting Time : 28 Minutes,El-Haram : Al Haram street -,From 1294 Visitors,"66,504 View(s)",
+563 (1),1676131653-237,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,692 View(s)",1048
+564 (1),1676131655-238,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,173 View(s)",1048
+565 (1),1676131658-239,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,732 View(s)",1048
+566 (1),1676131661-240,Gynecologist,150 EGP,,null,El-Haram,null,"1,143 View(s)",1048
+567 (1),1676131664-241,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,039 View(s)",1048
+568 (1),1676131673-242,Dentist,250 EGP,5,Waiting Time : 10 Minutes,Nasr City : Afracia street-extention of mostafa elnahas street-9 th zone-after PIZZA HUT restaurant,From 216 Visitors,"20,354 View(s)",...
+569 (1),1676131677-243,Dentist,200 EGP,4.5,Waiting Time : 14 Minutes,"8th district, Above Ragab's Sons s market - mall five stars 2 new floor",From 640 Visitors,"12,767 View(s)",...
+570 (1),1676131681-244,Dentist,400 EGP,4.5,Waiting Time : 12 Minutes,Nasr City : Abu Dawood Al-Zahery,From 427 Visitors,"21,380 View(s)",...
+571 (1),1676131684-245,Dentist,400 EGP,5,Waiting Time : 10 Minutes,New Cairo : North,From 197 Visitors,"14,674 View(s)",...
+572 (1),1676131687-246,Psychiatrist,300 EGP,4,Waiting Time : 38 Minutes,El-Mansoura : Hussein bek street in front of family regulation office,From 54 Visitors,"15,928 View(s)",...
+573 (1),1676131690-247,Internist,350 EGP,4.5,Waiting Time : 22 Minutes,6th of October : nagda square,From 269 Visitors,"12,062 View(s)",...
+574 (1),1676131694-248,Urologist,170 EGP,4.5,Waiting Time : 33 Minutes,El Minya City : Elgomhorya street,From 141 Visitors,"18,423 View(s)",...
+575 (1),1676131698-249,Gynecologist,400 EGP,5,Waiting Time : 28 Minutes,"El-Sheikh Zayed : Twin Towers, 26 July Corridor",From 283 Visitors,"8,057 View(s)",...
+576 (1),1676131701-250,Andrologist,200 EGP,4.5,Waiting Time : 58 Minutes,Assiut city : Al Helaly,From 236 Visitors,"20,458 View(s)",...
+577 (1),1676131704-251,Cardiologist,250 EGP,4.5,Waiting Time : 27 Minutes,El-Haram : Al Haram street,From 222 Visitors,"14,647 View(s)",...
+578 (1),1676131713-252,Nutritionist,300 EGP,4.5,Waiting Time : 24 Minutes,"10 Mohamed Awad st, branched from Makram Ebeid",From 574 Visitors,"44,491 View(s)",
+579 (1),1676131716-253,Cardiothoracic Surgeon,310 EGP,4.5,Waiting Time : 13 Minutes,El-Mansoura : gehan st,From 7 Visitors,"4,436 View(s)",
+580 (1),1676131720-254,Dentist,250 EGP,4.5,Waiting Time : 13 Minutes,"El-Mokattam : central Street, from 9 street",From 460 Visitors,"18,256 View(s)",
+581 (1),1676131723-255,Cardiologist,500 EGP,4.5,Waiting Time : 15 Minutes,New Cairo : Next to Al baraka Mall,From 224 Visitors,"8,154 View(s)",
+582 (1),1676131726-256,Vascular Surgeon,300 EGP,4.5,Waiting Time : 26 Minutes,El-Ibrahimia : portsaid,From 120 Visitors,"15,317 View(s)",
+583 (1),1676131730-257,Physiotherapist,80 EGP,4,Waiting Time : 29 Minutes,Helwan : mohamed sayed ahmed street with rayel street,From 41 Visitors,"7,148 View(s)",
+584 (1),1676131733-258,Pediatrician,150 EGP,4.5,Waiting Time : 33 Minutes,Ain Shams,From 209 Visitors,"11,990 View(s)",
+585 (1),1676131736-259,Pediatric Surgeon,250 EGP,4.5,Waiting Time : 20 Minutes,El-Ibrahimia : port Said,From 203 Visitors,"63,726 View(s)",
+586 (1),1676131740-260,Internist,250 EGP,4,Waiting Time : 15 Minutes,El-Abbasia : sergany st-abdo basha,From 39 Visitors,"6,164 View(s)",
+587 (1),1676131743-261,Internist,400 EGP,4.5,Waiting Time : 27 Minutes,El-Mohandessin : El Kawser street,From 117 Visitors,"8,937 View(s)",
+588 (1),1676131841-262,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,692 View(s)",1048
+589 (1),1676131844-263,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,173 View(s)",1048
+590 (1),1676131848-264,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,732 View(s)",1048
+591 (1),1676131851-265,Gynecologist,150 EGP,,null,El-Haram,null,"1,144 View(s)",1048
+592 (1),1676131855-266,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,039 View(s)",1048
+593 (1),1676131863-267,Internist,250 EGP,4,Waiting Time : 10 Minutes,El-Sheikh Zayed : -Badr Eldeen Mall,From 430 Visitors,"15,881 View(s)",...
+594 (1),1676131866-268,Dentist,100 EGP,4.5,Waiting Time : 12 Minutes,El-Zaitoun : selem el awl,From 529 Visitors,"31,091 View(s)",...
+595 (1),1676131870-269,Gynecologist,100 EGP,4,Waiting Time : 18 Minutes,Shoubra :  Al Taraa Al Bolaqiea,From 35 Visitors,"6,408 View(s)",...
+596 (1),1676131873-270,ENT Doctor,300 EGP,4,Waiting Time : 6 Minutes,Heliopolis : gesr suez,From 431 Visitors,"32,292 View(s)",...
+597 (1),1676131876-271,Dentist,100 EGP,4.5,Waiting Time : 19 Minutes,Tanta : Saad Zaghlool square-loaloa Tanta Tower-Above eltwheed w elnoor,From 28 Visitors,"2,526 View(s)",...
+598 (1),1676131881-272,ENT Doctor,400 EGP,4.5,Waiting Time : 29 Minutes,6th of October : Prima-vista medical center,From 2208 Visitors,"72,479 View(s)",...
+599 (1),1676131884-273,Neurologist,400 EGP,4.5,Waiting Time : 17 Minutes,El-Dokki : El Tahrir St.,From 275 Visitors,"20,055 View(s)",...
+600 (1),1676131894-274,Ophthalmologist,700 EGP,4.5,Waiting Time : 53 Minutes,Heliopolis : Aboubakr Elsedik street-Safeer Square-Above ezz Eldeen pharmacy,From 47 Visitors,"20,904 View(s)",...
+601 (1),1676131898-275,Gynecologist,200 EGP,4,Waiting Time : 7 Minutes,El-Haram : El talateny elgded of ezz el din omar,From 422 Visitors,"19,826 View(s)",...
+602 (1),1676131902-276,Dentist,150 EGP,4.5,Waiting Time : 12 Minutes,El-Mokattam :  Al Eman Mosque,From 81 Visitors,"7,518 View(s)",...
+603 (1),1676131911-277,Gynecologist,200 EGP,4.5,Waiting Time : 1 Hour and 1 Minute,Sidy Bishr : Gamal abelnasser st.,From 250 Visitors,"16,028 View(s)",62
+604 (1),1676131916-278,Dentist,200 EGP,4,Waiting Time : 19 Minutes,El-Sheikh Zayed : Twin Towers-Damas Dental Center,From 174 Visitors,"18,233 View(s)",62
+605 (1),1676131920-279,Cardiologist,250 EGP,4.5,Waiting Time : 1 Hour and 33 Minutes,Assiut city : Youssry Ragheb St.,From 158 Visitors,"14,092 View(s)",62
+606 (1),1676131924-280,Internist,150 EGP,4.5,Waiting Time : 1 Hour and 24 Minutes,El Minya City,From 110 Visitors,"10,838 View(s)",62
+607 (1),1676131934-281,Dentist,100 EGP,4.5,Waiting Time : 31 Minutes,Hadayek El-Ahram : Ahmed Bedeer,From 481 Visitors,"20,365 View(s)",62
+608 (1),1676131939-282,Nutritionist,200 EGP,4.5,Waiting Time : 44 Minutes,Helwan : riad,From 76 Visitors,"11,984 View(s)",62
+609 (1),1676131943-283,Nutritionist,80 EGP,4,Waiting Time : 23 Minutes,Helwan : mouhamed sayed ahmed street/rayel stret,From 32 Visitors,"7,923 View(s)",62
+610 (1),1676131946-284,Physiotherapist,150 EGP,4.5,Waiting Time : 7 Minutes,Faisal : el arabeen elmaskeen,From 27 Visitors,"4,092 View(s)",62
+611 (1),1676131953-285,Dentist,200 EGP,4.5,Waiting Time : 17 Minutes,El-Maadi : street 108,From 113 Visitors,"6,827 View(s)",62
+612 (1),1676131956-286,Physiotherapist,120 EGP,4,Waiting Time : 11 Minutes,West El-Balad : Adly,From 42 Visitors,"8,250 View(s)",62
+613 (1),1676131964-287,Physiotherapist,200 EGP,5,Waiting Time : 5 Minutes,Heliopolis : abu bakr el sedeek saffir sqaure,From 208 Visitors,"36,840 View(s)",
+614 (1),1676131967-288,Gynecologist,250 EGP,4,Waiting Time : 26 Minutes,Hadayek El-Ahram : zen,From 337 Visitors,"28,379 View(s)",
+615 (1),1676131970-289,Plastic Surgeon,400 EGP,4,Waiting Time : 11 Minutes,El-Ibrahimia : abokeir road,From 123 Visitors,"33,669 View(s)",
+616 (1),1676131973-290,Dermatologist,450 EGP,4,Waiting Time : 23 Minutes,Heliopolis : El Khalifa El Mamoun street,From 909 Visitors,"141,116 View(s)",
+617 (1),1676131977-291,General Surgeon,200 EGP,4.5,Waiting Time : 10 Minutes,Faisal,From 493 Visitors,"35,997 View(s)",
+618 (1),1676131980-292,Internist,350 EGP,4,Waiting Time : 19 Minutes,Heliopolis,From 449 Visitors,"51,718 View(s)",
+619 (1),1676131983-293,Pediatrician,150 EGP,4.5,Waiting Time : 33 Minutes,Ain Shams,From 209 Visitors,"11,990 View(s)",
+620 (1),1676131986-294,Internist,400 EGP,,null,Beverly Hills,null,"28,592 View(s)",
+621 (1),1676131989-295,Physiotherapist,80 EGP,4,Waiting Time : 29 Minutes,Helwan : mohamed sayed ahmed street with rayel street,From 41 Visitors,"7,148 View(s)",
+622 (1),1676131992-296,Internist,250 EGP,4,Waiting Time : 15 Minutes,El-Abbasia : sergany st-abdo basha,From 39 Visitors,"6,164 View(s)",
+623 (1),1676132964-312,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,694 View(s)",1048
+624 (1),1676132967-313,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,175 View(s)",1048
+625 (1),1676132970-314,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,735 View(s)",1048
+626 (1),1676132972-315,Gynecologist,150 EGP,,null,El-Haram,null,"1,146 View(s)",1048
+627 (1),1676132975-316,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,042 View(s)",1048
+628 (1),1676132985-317,Dentist,100 EGP,4.5,Waiting Time : 9 Minutes,El-Manyal : Manial Museum Street,From 90 Visitors,"5,308 View(s)",...
+629 (1),1676132989-318,Dentist,150 EGP,4.5,Waiting Time : 27 Minutes,El-Haram : Ezz El-Deen Omar Arish station Behind misr Bank,From 987 Visitors,"39,781 View(s)",...
+630 (1),1676132992-319,Dentist,400 EGP,4.5,Waiting Time : 8 Minutes,El-Sheikh Zayed : Beverly Hills-gate 9,From 68 Visitors,"5,185 View(s)",...
+631 (1),1676132995-320,Dentist,300 EGP,4.5,Waiting Time : 31 Minutes,Nasr City : Makram Abeid,From 68 Visitors,"11,362 View(s)",...
+632 (1),1676133000-321,Dentist,200 EGP,4.5,Waiting Time : 11 Minutes,El-Shorouk : grand mall third east expansions,From 91 Visitors,"4,986 View(s)",...
+633 (1),1676133003-322,General Surgeon,250 EGP,4.5,Waiting Time : 5 Minutes,El-Mansoura,From 38 Visitors,"11,441 View(s)",...
+634 (1),1676133005-323,Dentist,200 EGP,4.5,Waiting Time : 5 Minutes,El-Shorouk : main road (Gate 1 ismallia road),From 162 Visitors,"9,553 View(s)",...
+635 (1),1676133008-324,Surgical Oncologist,300 EGP,5,Waiting Time : 19 Minutes,El-Maadi : EL Laselky street-beside Moamen square,From 41 Visitors,"5,100 View(s)",...
+636 (1),1676133016-325,Dentist,350 EGP,4.5,Waiting Time : 9 Minutes,Nasr City : abo dawood zahry,From 114 Visitors,"12,330 View(s)",...
+637 (1),1676133019-326,Gynecologist,300 EGP,5,Waiting Time : 1 Hour and 33 Minutes,El-Dokki : El Tahrir st.,From 113 Visitors,"18,720 View(s)",...
+638 (1),1676133042-327,Dentist,250 EGP,5,Waiting Time : 22 Minutes,Heliopolis : othman ibn affan- Ismailia square,From 548 Visitors,"42,767 View(s)",64
+639 (1),1676133045-328,Dentist,350 EGP,5,Waiting Time : 10 Minutes,El-Sheikh Zayed : elshabab,From 111 Visitors,"19,985 View(s)",64
+640 (1),1676133048-329,Gynecologist,300 EGP,4,Waiting Time : 1 Hour and 1 Minute,Hadayek El-Kobba : Elgrash,From 22 Visitors,"9,985 View(s)",64
+641 (1),1676133050-330,Internist,400 EGP,4.5,Waiting Time : 17 Minutes,El-Mansoura : Al seka algdeda,From 48 Visitors,"15,504 View(s)",64
+642 (1),1676133054-331,Orthopedist,250 EGP,4.5,Waiting Time : 21 Minutes,Imbaba : Main wehda street,From 60 Visitors,"19,479 View(s)",64
+643 (1),1676133058-332,Nutritionist,350 EGP,5,Waiting Time : 8 Minutes,El-Sheikh Zayed,From 145 Visitors,"5,330 View(s)",64
+644 (1),1676133061-333,ENT Doctor,150 EGP,4,Waiting Time : 32 Minutes,"Ain Shams : 70 Khaled Ebn El Waleed st., From Mostafa Hafez st., Beside Zaher, Guesr El Suez st., In front of El Shams club",From 363 Visitors,"27,172 View(s)",64
+645 (1),1676133064-334,Pulmonologist,300 EGP,4,Waiting Time : 19 Minutes,"6th of October : 7th distric, 1st neigborhood",From 174 Visitors,"7,279 View(s)",64
+646 (1),1676133067-335,Dentist,150 EGP,4.5,Waiting Time : 21 Minutes,Faisal : hassan mohamed station-Feisal,From 814 Visitors,"53,358 View(s)",64
+647 (1),1676133073-336,Internist,300 EGP,5,Waiting Time : 49 Minutes,Faisal : King Faisal street,From 1882 Visitors,"112,987 View(s)",63
+648 (1),1676133076-337,Physiotherapist,250 EGP,4.5,Waiting Time : 10 Minutes,Hadayek El-Ahram : District G First Gate,From 9 Visitors,"2,756 View(s)",63
+649 (1),1676133086-338,Dentist,200 EGP,4.5,Waiting Time : 23 Minutes,El-Rehab : Medical Center 3 clinic 209,From 85 Visitors,"6,764 View(s)",63
+650 (1),1676133089-339,Dentist,250 EGP,4.5,Waiting Time : 16 Minutes,El-Maadi : 233,From 307 Visitors,"30,421 View(s)",63
+651 (1),1676133093-340,Ophthalmologist,300 EGP,5,Waiting Time : 14 Minutes,New Cairo : Mostafa kamel,From 529 Visitors,"14,206 View(s)",63
+652 (1),1676133096-341,Dentist,100 EGP,4.5,Waiting Time : 9 Minutes,Mahalla : Al Fareek Reda Hafez st.,From 94 Visitors,"14,963 View(s)",63
+653 (1),1676133099-342,Orthopedist,250 EGP,4.5,Waiting Time : 14 Minutes,El-Haram : khatam Al Morsalen Street,From 147 Visitors,"8,966 View(s)",
+654 (1),1676133101-343,Vascular Surgeon,70 EGP,4,Waiting Time : 33 Minutes,Bakos : elhelal nady str,From 114 Visitors,"10,440 View(s)",
+655 (1),1676133104-344,Gynecologist,150 EGP,4,Waiting Time : 14 Minutes,El-Dokki : El Tahrir street,From 69 Visitors,"6,317 View(s)",
+656 (1),1676133107-345,Dentist,200 EGP,4.5,Waiting Time : 15 Minutes,New Cairo : medical park 1,From 70 Visitors,"9,960 View(s)",
+657 (1),1676133110-346,Dentist,250 EGP,4.5,Waiting Time : 10 Minutes,El-Sheikh Zayed : Downtown mall,From 156 Visitors,"10,517 View(s)",
+658 (1),1676133113-347,ENT Doctor,400 EGP,4.5,Waiting Time : 29 Minutes,6th of October : Prima-vista medical center,From 2208 Visitors,"72,480 View(s)",
+659 (1),1676133116-348,Dentist,250 EGP,5,Waiting Time : 10 Minutes,Nasr City : Afracia street-extention of mostafa elnahas street-9 th zone-after PIZZA HUT restaurant,From 216 Visitors,"20,355 View(s)",
+660 (1),1676133119-349,Internist,250 EGP,4,Waiting Time : 10 Minutes,El-Sheikh Zayed : -Badr Eldeen Mall,From 430 Visitors,"15,882 View(s)",
+661 (1),1676133122-350,Physiotherapist,100 EGP,4.5,Waiting Time : 20 Minutes,Helwan,From 143 Visitors,"12,921 View(s)",
+662 (1),1676133125-351,Neurologist,400 EGP,4.5,Waiting Time : 17 Minutes,El-Dokki : El Tahrir St.,From 275 Visitors,"20,056 View(s)",
+663 (1),1675614263-68,Pediatrician,200 EGP,5,Waiting Time : 14 Minutes,El-Badrashin : Athar Saqara,From 19 Visitors,"1,115 View(s)",2
+664 (1),1675614257-67,Plastic Surgeon,500 EGP,5,Waiting Time : 29 Minutes,null,From 19 Visitors,960 View(s),2
+665 (1),1675614232-63,Gynecologist,175 EGP,5,Waiting Time : 13 Minutes,null,From 16 Visitors,"5,708 View(s)",2
+666 (1),1675614226-62,General Surgeon,130 EGP,5,Waiting Time : 8 Minutes,El-Agamy : Alex Matrouh Road-Abo Youssef-Besides Elsaberen Mosque,From 16 Visitors,"1,143 View(s)",2
+667 (1),1675614220-61,Psychiatrist,250 EGP,5,Waiting Time : 10 Minutes,null,From 16 Visitors,790 View(s),2
+668 (1),1675614251-66,Ophthalmologist,180 EGP,5,Waiting Time : 14 Minutes,Banha : Saad Zaghloul Street - Anani Tower,From 19 Visitors,"1,761 View(s)",2
+669 (1),1675614245-65,Pediatrician,300 EGP,5,Waiting Time : 21 Minutes,null,From 19 Visitors,833 View(s),2
+670 (1),1675614239-64,Phoniatrician,350 EGP,5,Waiting Time : 8 Minutes,El-Shorouk : Al shorouk,From 18 Visitors,"1,525 View(s)",2
+671 (1),1675614214-60,Dermatologist,400 EGP,5,Waiting Time : 16 Minutes,null,From 15 Visitors,"2,922 View(s)",2
+672 (1),1675614269-69,Gynecologist,150 EGP,5,Waiting Time : 14 Minutes,Assiut city : thabet Street,From 19 Visitors,"3,262 View(s)",2
+673 (1),1675614165-53,Pulmonologist,200 EGP,5,Waiting Time : 10 Minutes,El-Mansoura : Gehan,From 14 Visitors,"2,205 View(s)",3
+674 (1),1675614153-51,Ophthalmologist,175 EGP,5,Waiting Time : 38 Minutes,El-Amreya : Elamreya,From 14 Visitors,644 View(s),3
+675 (1),1675614196-58,Pulmonologist,200 EGP,5,Waiting Time : 15 Minutes,"El-Zagazig : Salah salem Clinics,,Salah Salem St",From 15 Visitors,"4,371 View(s)",3
+676 (1),1675614177-55,Nutritionist,350 EGP,5,Waiting Time : 1 Hour and 34 Minutes,Nasr City : nasr st,From 14 Visitors,"2,029 View(s)",3
+677 (1),1675614190-57,Vascular Surgeon,250 EGP,5,Waiting Time : 22 Minutes,Hadayek El-Kobba : misr wa alsudan,From 15 Visitors,585 View(s),3
+678 (1),1675614160-52,Nutritionist,180 EGP,5,Waiting Time : 23 Minutes,Shibin El-Kom : Abdelkhalek Street from Assem Hama Street,From 14 Visitors,"1,793 View(s)",3
+679 (1),1675614202-59,Pediatrician,110 EGP,5,Waiting Time : 10 Minutes,El-Mansoura : Elgendy Tower fromGehan El Sadat Street,From 15 Visitors,"1,001 View(s)",3
+680 (1),1675614184-56,Pediatrician,150 EGP,5,Waiting Time : 6 Minutes,Damanhur : abd elsalam el shazly,From 15 Visitors,"3,434 View(s)",3
+681 (1),1675614147-50,Gynecologist,450 EGP,5,Waiting Time : 27 Minutes,null,From 14 Visitors,718 View(s),3
+682 (1),1675614171-54,Rheumatologist,400 EGP,5,Waiting Time : 9 Minutes,Nasr City :  Elnozha st.,From 14 Visitors,"1,904 View(s)",3
+683 (1),1675614128-48,,150,,null,null,null,260 View(s),4
+684 (1),1675614116-46,Gynecologist,300 EGP,5,Waiting Time : 37 Minutes,El-Maadi : Kornish Maadi street,From 13 Visitors,"6,228 View(s)",4
+685 (1),1675614134-49,Psychiatrist,400 EGP,5,Waiting Time : 25 Minutes,null,From 14 Visitors,"1,148 View(s)",4
+686 (1),1675614098-43,Internist,200 EGP,5,Waiting Time : 26 Minutes,null,From 13 Visitors,"1,074 View(s)",4
+687 (1),1675614078-40,Obesity Surgeon,300 EGP,5,Waiting Time : 11 Minutes,Heliopolis : Hassan Sadek from elmarghany street,From 12 Visitors,"3,764 View(s)",4
+688 (1),1675614092-42,Oncologist,200 EGP,5,Waiting Time : 7 Minutes,Tanta : The intersection of Al Bahr Street with Al Khan,From 12 Visitors,"2,080 View(s)",4
+689 (1),1675614085-41,Dentist,100 EGP,5,Waiting Time : 15 Minutes,Shoubra : Solwans St from Shoubra st - menyt elserg,From 12 Visitors,510 View(s),4
+690 (1),1675614122-47,Endocrinologist,350 EGP,5,Waiting Time : 33 Minutes,null,From 13 Visitors,"1,053 View(s)",4
+691 (1),1675614110-45,Gynecologist,700 EGP,5,Waiting Time : 13 Minutes,El-Rehab : The Fount Mall North investors,From 13 Visitors,"4,264 View(s)",4
+692 (1),1675614104-44,Gynecologist,200 EGP,5,Waiting Time : 38 Minutes,null,From 13 Visitors,"1,466 View(s)",4
+693 (1),1675614016-31,Plastic Surgeon,400 EGP,5,Waiting Time : 8 Minutes,Stanley : El- Gaish Roaf,From 11 Visitors,"7,525 View(s)",5
+694 (1),1675614041-35,Gynecologist,300 EGP,5,Waiting Time : 1 Hour,Smouha :  Fawzy Moaz,From 11 Visitors,"4,575 View(s)",5
+695 (1),1675614029-33,Plastic Surgeon,300 EGP,5,Waiting Time : 16 Minutes,Hadayek El-Kobba : lotfy el sayed,From 11 Visitors,"2,286 View(s)",5
+696 (1),1675614022-32,Dentist,100 EGP,5,Waiting Time : 16 Minutes,Bahary : safr basha,From 11 Visitors,892 View(s),5
+697 (1),1675614066-39,Neurologist,350 EGP,5,Waiting Time : 9 Minutes,null,From 12 Visitors,970 View(s),5
+698 (1),1675614054-37,General Surgeon,115 EGP,5,Waiting Time : 7 Minutes,El-Zagazig : Elmahad Eldeny street,From 11 Visitors,"6,190 View(s)",5
+699 (1),1675614048-36,Cardiologist,150 EGP,5,Waiting Time : 25 Minutes,Tanta : Segar St,From 11 Visitors,"1,008 View(s)",5
+700 (1),1675614060-38,Pediatrician,400 EGP,5,Waiting Time : 32 Minutes,Nasr City : anwar elmofty,From 11 Visitors,986 View(s),5
+701 (1),1675614035-34,Dentist,120 EGP,5,Waiting Time : 8 Minutes,null,From 11 Visitors,313 View(s),5
+702 (1),1675614009-30,Gynecologist,400 EGP,5,Waiting Time : 10 Minutes,El-Sheikh Zayed : Khamael City-gate 4-administration gates-infront of GLOURS School,From 11 Visitors,"2,301 View(s)",5
+703 (1),1675613979-26,Dentist,120 EGP,5,Waiting Time : 10 Minutes,null,From 10 Visitors,338 View(s),6
+704 (1),1675613991-28,Orthopedist,500 EGP,5,Waiting Time : 1 Hour,null,From 11 Visitors,"3,928 View(s)",6
+705 (1),1675613985-27,Psychiatrist,200 EGP,5,Waiting Time : 26 Minutes,null,From 11 Visitors,906 View(s),6
+706 (1),1675613940-20,Hematologist,400 EGP,5,Waiting Time : 11 Minutes,null,From 10 Visitors,467 View(s),6
+707 (1),1675613972-25,Orthopedist,200 EGP,5,Waiting Time : 23 Minutes,null,From 10 Visitors,624 View(s),6
+708 (1),1675613997-29,Endocrinologist,400 EGP,5,Waiting Time : 31 Minutes,Heliopolis : Cleopatra St,From 11 Visitors,442 View(s),6
+709 (1),1675613948-21,Dermatologist,750 EGP,5,Waiting Time : 27 Minutes,null,From 10 Visitors,367 View(s),6
+710 (1),1675613960-23,Nutritionist,250 EGP,5,Waiting Time : 7 Minutes,Sidy Gaber : Super Jet Square Street,From 10 Visitors,"1,329 View(s)",6
+711 (1),1675613954-22,Psychiatrist,250 EGP,5,Waiting Time : 22 Minutes,null,From 10 Visitors,799 View(s),6
+712 (1),1675613966-24,Orthopedist,300 EGP,5,Waiting Time : 13 Minutes,Roshdy : Elhoreya street-Roshdy,From 10 Visitors,317 View(s),6
+713 (1),1675630696-149,Dentist,100 EGP,5,Waiting Time : 4 Minutes,null,From 8 Visitors,"1,391 View(s)",8
+714 (1),1675631589-199,Dentist,100 EGP,5,Waiting Time : 4 Minutes,null,From 8 Visitors,"1,392 View(s)",8
+715 (1),1675630721-154,Gynecologist,100 EGP,5,Waiting Time : 24 Minutes,Mahalla : shon,From 8 Visitors,959 View(s),8
+716 (1),1675631620-204,Gynecologist,100 EGP,5,Waiting Time : 24 Minutes,Mahalla : shon,From 8 Visitors,960 View(s),8
+717 (1),1675630716-153,Dentist,100 EGP,5,Waiting Time : 21 Minutes,null,From 8 Visitors,341 View(s),8
+718 (1),1675631614-203,Dentist,100 EGP,5,Waiting Time : 21 Minutes,null,From 8 Visitors,342 View(s),8
+719 (1),1675630701-150,Nutritionist,700 EGP,5,Waiting Time : 15 Minutes,El-Sheikh Zayed : Elmehwar Elmarkazi,From 8 Visitors,"2,396 View(s)",8
+720 (1),1675631596-200,Nutritionist,700 EGP,5,Waiting Time : 15 Minutes,El-Sheikh Zayed : Elmehwar Elmarkazi,From 8 Visitors,"2,397 View(s)",8
+721 (1),1675630691-148,Pediatrician,250 EGP,5,Waiting Time : 17 Minutes,null,From 8 Visitors,607 View(s),8
+722 (1),1675631584-198,Pediatrician,250 EGP,5,Waiting Time : 17 Minutes,null,From 8 Visitors,608 View(s),8
+723 (1),1675630731-156,Dentist,300 EGP,5,Waiting Time : 13 Minutes,Nasr City : EL Nasr ST,From 8 Visitors,493 View(s),8
+724 (1),1675631630-206,Dentist,300 EGP,5,Waiting Time : 13 Minutes,Nasr City : EL Nasr ST,From 8 Visitors,494 View(s),8
+725 (1),1675630726-155,Internist,"1,500 EGP",5,Waiting Time : 20 Minutes,New Cairo : S. Teseen,From 8 Visitors,"9,529 View(s)",8
+726 (1),1675631625-205,Internist,"1,500 EGP",5,Waiting Time : 20 Minutes,New Cairo : S. Teseen,From 8 Visitors,"9,530 View(s)",8
+727 (1),1675630736-157,Cardiologist,350 EGP,5,Waiting Time : 5 Minutes,El-Sheikh Zayed : District 12 Courtyard zayed,From 8 Visitors,844 View(s),8
+728 (1),1675630706-151,Nutritionist,300 EGP,5,Waiting Time : 13 Minutes,null,From 8 Visitors,375 View(s),8
+729 (1),1675631601-201,Nutritionist,300 EGP,5,Waiting Time : 13 Minutes,null,From 8 Visitors,376 View(s),8
+730 (1),1675631635-207,Gynecologist,120 EGP,5,Waiting Time : 13 Minutes,El-Mansoura : Elnour Tower-Salah Salem Street-Talkha,From 8 Visitors,374 View(s),8
+731 (1),1675630711-152,Ophthalmologist,300 EGP,5,Waiting Time : 14 Minutes,El-Shorouk : Panorama Mall Street,From 8 Visitors,252 View(s),8
+732 (1),1675631608-202,Ophthalmologist,300 EGP,5,Waiting Time : 14 Minutes,El-Shorouk : Panorama Mall Street,From 8 Visitors,253 View(s),8
+733 (1),1675630635-139,Ophthalmologist,400 EGP,5,Waiting Time : 8 Minutes,null,From 7 Visitors,240 View(s),9
+734 (1),1675631521-189,Ophthalmologist,400 EGP,5,Waiting Time : 8 Minutes,null,From 7 Visitors,241 View(s),9
+735 (1),1675630671-146,General Surgeon,200 EGP,5,Waiting Time : 7 Minutes,Shibin El-Kom : gamal abdelnaser bahary street,From 7 Visitors,891 View(s),9
+736 (1),1675631560-196,General Surgeon,200 EGP,5,Waiting Time : 7 Minutes,Shibin El-Kom : gamal abdelnaser bahary street,From 7 Visitors,892 View(s),9
+737 (1),1675630666-145,Cardiologist,350 EGP,5,Waiting Time : 15 Minutes,null,From 7 Visitors,309 View(s),9
+738 (1),1675631554-195,Cardiologist,350 EGP,5,Waiting Time : 15 Minutes,null,From 7 Visitors,310 View(s),9
+739 (1),1675630676-147,Cardiologist,350 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,674 View(s),9
+740 (1),1675631565-197,Cardiologist,350 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,675 View(s),9
+741 (1),1675630640-140,Orthopedist,350 EGP,5,Waiting Time : 8 Minutes,Nasr City : Osman Buildings-Ali Amin Street Extension Of Mostafa Elnahas Street-Above Seventh District Post Office,From 7 Visitors,725 View(s),9
+742 (1),1675631526-190,Orthopedist,350 EGP,5,Waiting Time : 8 Minutes,Nasr City : Osman Buildings-Ali Amin Street Extension Of Mostafa Elnahas Street-Above Seventh District Post Office,From 7 Visitors,726 View(s),9
+743 (1),1675630645-141,Nutritionist,100 EGP,5,Waiting Time : 41 Minutes,Birket El Sabea : western side,From 7 Visitors,971 View(s),9
+744 (1),1675631532-191,Nutritionist,100 EGP,5,Waiting Time : 41 Minutes,Birket El Sabea : western side,From 7 Visitors,972 View(s),9
+745 (1),1675630660-144,Orthopedist,400 EGP,5,Waiting Time : 41 Minutes,null,From 7 Visitors,406 View(s),9
+746 (1),1675631549-194,Orthopedist,400 EGP,5,Waiting Time : 41 Minutes,null,From 7 Visitors,407 View(s),9
+747 (1),1675630655-143,Pediatric Surgeon,300 EGP,5,Waiting Time : 12 Minutes,El-Haram : Al Haram street In front of Gad,From 7 Visitors,"1,926 View(s)",9
+748 (1),1675631538-192,Pediatric Surgeon,300 EGP,5,Waiting Time : 12 Minutes,El-Haram : Al Haram street In front of Gad,From 7 Visitors,"1,927 View(s)",9
+749 (1),1675630650-142,Pediatrician,400 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,306 View(s),9
+750 (1),1675631543-193,Pediatrician,400 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,307 View(s),9
+751 (1),1675631505-187,Plastic Surgeon,400 EGP,5,Waiting Time : 10 Minutes,New Cairo : North Teseen,From 7 Visitors,"1,057 View(s)",11
+752 (1),1675631465-179,Gynecologist,250 EGP,5,Waiting Time : 8 Minutes,Nasr City : Ibn el nafees street,From 6 Visitors,113 View(s),11
+753 (1),1675631485-183,General Surgeon,400 EGP,5,Waiting Time : 21 Minutes,null,From 7 Visitors,"2,117 View(s)",11
+754 (1),1675631480-182,Dermatologist,200 EGP,5,Waiting Time : 8 Minutes,null,From 7 Visitors,"2,038 View(s)",11
+755 (1),1675631511-188,Dentist,50 EGP,5,Waiting Time : 26 Minutes,null,From 7 Visitors,"1,321 View(s)",11
+756 (1),1675631475-181,Cardiologist,400 EGP,5,Waiting Time : 30 Minutes,Faisal : faisal street,From 6 Visitors,328 View(s),11
+757 (1),1675631501-186,Gynecologist,150 EGP,5,Waiting Time : 16 Minutes,Boulaq El Dakrour : Mohamed Ibrahim Street-At the intersection of nahya street,From 7 Visitors,"1,210 View(s)",11
+758 (1),1675631491-184,Dermatologist,400 EGP,5,Waiting Time : 11 Minutes,null,From 7 Visitors,397 View(s),11
+759 (1),1675631496-185,Orthopedist,350 EGP,5,Waiting Time : 18 Minutes,null,From 7 Visitors,161 View(s),11
+760 (1),1675631470-180,Oncologist,350 EGP,5,Waiting Time : 6 Minutes,El-Mansoura : hussen bek street,From 6 Visitors,"1,947 View(s)",11
+761 (1),1675631449-177,Oncologist,350 EGP,5,Waiting Time : 11 Minutes,null,From 6 Visitors,303 View(s),12
+762 (1),1675631438-175,Gynecologist,200 EGP,5,Waiting Time : 13 Minutes,Smouha : Bahaa Eldin Elghatwary Street-,From 6 Visitors,236 View(s),12
+763 (1),1675631417-172,Dentist,200 EGP,5,Waiting Time : 7 Minutes,6th of October : Prima Vista Medical-Elmehwar Elmarkazi,From 6 Visitors,292 View(s),12
+764 (1),1675631404-170,Dentist,300 EGP,5,Waiting Time : 6 Minutes,Nasr City : EL Nasr ST,From 6 Visitors,211 View(s),12
+765 (1),1675631444-176,Internist,500 EGP,5,Waiting Time : 23 Minutes,null,From 6 Visitors,856 View(s),12
+766 (1),1675631410-171,Dentist,200 EGP,5,Waiting Time : 13 Minutes,null,From 6 Visitors,123 View(s),12
+767 (1),1675631398-169,Spinal Surgeon,250 EGP,5,Waiting Time : 32 Minutes,null,From 6 Visitors,"2,281 View(s)",12
+768 (1),1675631425-173,Pediatrician,95 EGP,5,Waiting Time : 6 Minutes,Shibin Al Qanater : Old Labor Office Street,From 6 Visitors,"1,089 View(s)",12
+769 (1),1675631431-174,Orthopedist,130 EGP,5,Waiting Time : 18 Minutes,Mahalla : El Bahr.Alshoun,From 6 Visitors,"2,092 View(s)",12
+770 (1),1675631454-178,Internist,300 EGP,5,Waiting Time : 7 Minutes,null,From 6 Visitors,679 View(s),12
+771 (1),1675633974-325,Gastroenterologist,350 EGP,5,Waiting Time : 14 Minutes,"Heliopolis : Nehro,Heliopolis",From 5 Visitors,146 View(s),17
+772 (1),1675633977-326,Orthopedist,500 EGP,5,Waiting Time : 36 Minutes,null,From 5 Visitors,"1,720 View(s)",17
+773 (1),1675633971-324,Gynecologist,175 EGP,5,Waiting Time : 10 Minutes,null,From 5 Visitors,739 View(s),17
+774 (1),1675633965-322,Physiotherapist,300 EGP,5,Waiting Time : 2 Minutes,Nasr City :  Metwally elsharawy,From 5 Visitors,"1,404 View(s)",17
+775 (1),1675633968-323,General Surgeon,150 EGP,5,Waiting Time : 8 Minutes,null,From 5 Visitors,437 View(s),17
+776 (1),1675633987-329,Cardiologist,650 EGP,5,Waiting Time : 50 Minutes,null,From 5 Visitors,"1,327 View(s)",17
+777 (1),1675633984-328,Surgical Oncologist,400 EGP,5,Waiting Time : 9 Minutes,null,From 5 Visitors,"1,588 View(s)",17
+778 (1),1675633980-327,Neurosurgeon,400 EGP,5,Waiting Time : 12 Minutes,null,From 5 Visitors,632 View(s),17
+779 (1),1675633962-321,Nutritionist,300 EGP,5,Waiting Time : 14 Minutes,null,From 5 Visitors,73 View(s),17
+780 (1),1675633932-314,Neurologist,500 EGP,5,Waiting Time : 2 Hours and 8 Minutes,null,From 5 Visitors,655 View(s),18
+781 (1),1675633924-312,Neurosurgeon,450 EGP,5,Waiting Time : 20 Minutes,null,From 5 Visitors,"6,123 View(s)",18
+782 (1),1675633950-319,Pediatrician,250 EGP,5,Waiting Time : 8 Minutes,null,From 5 Visitors,526 View(s),18
+783 (1),1675633921-311,Orthopedist,500 EGP,5,Waiting Time : 27 Minutes,null,From 5 Visitors,557 View(s),18
+784 (1),1675633947-318,Vascular Surgeon,500 EGP,5,Waiting Time : 30 Minutes,null,From 5 Visitors,386 View(s),18
+785 (1),1675633936-315,ENT Doctor,650 EGP,5,Waiting Time : 33 Minutes,null,From 5 Visitors,431 View(s),18
+786 (1),1675633953-320,Ophthalmologist,200 EGP,5,Waiting Time : 3 Minutes,El-Mansoura : streert beside El Adeeb street,From 5 Visitors,"1,413 View(s)",18
+787 (1),1675633929-313,Neurosurgeon,500 EGP,5,Waiting Time : 7 Minutes,null,From 5 Visitors,"1,157 View(s)",18
+788 (1),1675633943-317,Psychiatrist,200 EGP,5,Waiting Time : 26 Minutes,null,From 5 Visitors,374 View(s),18
+789 (1),1675633940-316,ENT Doctor,650 EGP,5,Waiting Time : 29 Minutes,null,From 5 Visitors,235 View(s),18
+790 (1),1675634876-363,ENT Doctor,150 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,830 View(s),21
+791 (1),1675634897-369,Dentist,300 EGP,5,Waiting Time : 6 Minutes,null,From 4 Visitors,208 View(s),21
+792 (1),1675634894-368,Dentist,300 EGP,5,Waiting Time : 7 Minutes,null,From 4 Visitors,367 View(s),21
+793 (1),1675634883-365,Neurologist,250 EGP,5,Waiting Time : 11 Minutes,null,From 4 Visitors,382 View(s),21
+794 (1),1675634890-367,Rheumatologist,400 EGP,5,Waiting Time : 15 Minutes,null,From 4 Visitors,106 View(s),21
+795 (1),1675634869-361,Orthopedist,300 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,117 View(s),21
+796 (1),1675634872-362,Dentist,300 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,447 View(s),21
+797 (1),1675634886-366,Dentist,100 EGP,5,Waiting Time : 13 Minutes,Smouha : el Nasr street,From 4 Visitors,237 View(s),21
+798 (1),1675634880-364,Cardiologist,150 EGP,5,Waiting Time : 17 Minutes,Damietta El Gadeeda : mahgoub street,From 4 Visitors,387 View(s),21
+799 (1),1675613835-5,Anesthesiologist,200 EGP,,null,Tanta : Botros,null,312 View(s),1050
+800 (1),1675613841-6,Gynecologist,150 EGP,4.5,Waiting Time : 28 Minutes,Faisal : Ahmed esmail street branched from Kaaebesh Street-besides Sayed Elsherbiny Beauty Center,From 3 Visitors,85 View(s),1050
+801 (1),1675613853-8,Dentist,200 EGP,,null,Loran : El Horreya Street,null,183 View(s),1050
+802 (1),1675613820-3,Gynecologist,150 EGP,,null,El-Haram : Elharam,null,"1,130 View(s)",1050
+803 (1),1675613859-9,Pediatrician,250 EGP,,null,El-Shorouk : Panorama Mall Street,null,102 View(s),1050
+804 (1),1675613808-1,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,666 View(s)",1050
+805 (1),1675613814-2,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia : Lagatia Street,From 68 Visitors,"8,157 View(s)",1050
+806 (1),1675613847-7,Dentist,250 EGP,,null,El-Dokki : null,From   Visitor,15 View(s),1050
+807 (1),1675613829-4,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City : Street 11,From 90 Visitors,"4,014 View(s)",1050
+808 (1),1675631376-168,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,668 View(s)",1051
+809 (1),1675633319-279,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,671 View(s)",1051
+810 (1),1675633864-300,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,671 View(s)",1051
+811 (1),1675634821-350,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,673 View(s)",1051
+812 (1),1675613903-15,Oncologist,450 EGP,5,Waiting Time : 18 Minutes,null,From 9 Visitors,"2,187 View(s)",...
+813 (1),1675630599-133,Internist,250 EGP,5,Waiting Time : 25 Minutes,null,From 7 Visitors,515 View(s),...
+814 (1),1675630620-137,Physiotherapist,400 EGP,5,Waiting Time : 8 Minutes,6th of October : above el-mokhtbar laboratory,From 7 Visitors,"2,562 View(s)",...
+815 (1),1675630609-135,General Surgeon,300 EGP,5,Waiting Time : 8 Minutes,West El-Balad : Alabagieah Buildings-Elsayeda Aisha,From 7 Visitors,611 View(s),...
+816 (1),1675613909-16,Orthopedist,250 EGP,5,Waiting Time : 22 Minutes,null,From 9 Visitors,279 View(s),...
+817 (1),1675613890-13,Gastroenterologist,400 EGP,5,Waiting Time : 32 Minutes,null,From 9 Visitors,988 View(s),...
+818 (1),1675633881-304,Allergist,400 EGP,5,Waiting Time : 10 Minutes,null,From 4 Visitors,297 View(s),...
+819 (1),1675613897-14,Gynecologist,500 EGP,5,Waiting Time : 36 Minutes,null,From 9 Visitors,"3,135 View(s)",...
+820 (1),1675633912-310,Anesthesiologist,400 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,164 View(s),...
+821 (1),1675634843-354,Physiotherapist,100 EGP,5,Waiting Time : 10 Minutes,null,From 4 Visitors,"1,510 View(s)",...
+822 (1),1675634836-352,Gynecologist,300 EGP,5,Waiting Time : 28 Minutes,null,From 4 Visitors,332 View(s),...
+823 (1),1675633878-303,Pediatrician,300 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,190 View(s),...
+824 (1),1675634839-353,Dentist,175 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,222 View(s),...
+825 (1),1675633334-281,Dentist,300 EGP,5,Waiting Time : 9 Minutes,Nasr City : EL Nasr ST,From 5 Visitors,444 View(s),...
+826 (1),1675630594-132,Internist,650 EGP,5,Waiting Time : 17 Minutes,null,From 7 Visitors,"1,013 View(s)",...
+827 (1),1675630574-129,Neurosurgeon,750 EGP,5,Waiting Time : 24 Minutes,null,From 7 Visitors,460 View(s),...
+828 (1),1675633908-309,Surgical Oncologist,400 EGP,5,Waiting Time : 58 Minutes,null,From 4 Visitors,"1,766 View(s)",...
+829 (1),1675630625-138,Orthopedist,400 EGP,5,Waiting Time : 14 Minutes,null,From 7 Visitors,896 View(s),...
+830 (1),1675630615-136,Nutritionist,300 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,"1,403 View(s)",...
+831 (1),1675633875-302,Gynecologist,750 EGP,5,Waiting Time : 16 Minutes,null,From 4 Visitors,"1,670 View(s)",...
+832 (1),1675633365-287,Cardiologist,120 EGP,5,Waiting Time : 8 Minutes,El-Zagazig : the beginning of Farooq st,From 5 Visitors,349 View(s),...
+833 (1),1675633374-289,Dentist,300 EGP,5,Waiting Time : 14 Minutes,null,From 5 Visitors,207 View(s),...
+834 (1),1675634859-359,Surgical Oncologist,500 EGP,5,Waiting Time : 23 Minutes,null,From 4 Visitors,303 View(s),...
+835 (1),1675613884-12,Cardiologist,350 EGP,5,Waiting Time : 5 Minutes,El-Sheikh Zayed : District 12 Courtyard zayed,From 8 Visitors,843 View(s),...
+836 (1),1675633884-305,Cardiologist,300 EGP,5,Waiting Time : 16 Minutes,null,From 4 Visitors,203 View(s),...
+837 (1),1675630579-130,Pediatrician,350 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,399 View(s),...
+838 (1),1675613921-18,Andrologist,250 EGP,5,Waiting Time : 10 Minutes,Hadayek El-Kobba : Teraet elgendy st,From 9 Visitors,730 View(s),...
+839 (1),1675633354-285,Cardiologist,300 EGP,5,Waiting Time : 16 Minutes,null,From 5 Visitors,389 View(s),...
+840 (1),1675633341-282,Psychiatrist,600 EGP,5,Waiting Time : 18 Minutes,null,From 5 Visitors,794 View(s),...
+841 (1),1675634852-357,ENT Doctor,150 EGP,5,Waiting Time : 11 Minutes,Janaklees : Abo Qir street,From 4 Visitors,100 View(s),...
+842 (1),1675634856-358,ENT Doctor,500 EGP,5,Waiting Time : 58 Minutes,null,From 4 Visitors,225 View(s),...
+843 (1),1675613878-11,Surgical Oncologist,150 EGP,5,Waiting Time : 15 Minutes,Tanta : Elmoderia,From 8 Visitors,"4,043 View(s)",...
+844 (1),1675633345-283,General Surgeon,400 EGP,5,Waiting Time : 16 Minutes,null,From 5 Visitors,771 View(s),...
+845 (1),1675633904-308,Gynecologist,250 EGP,5,Waiting Time : 15 Minutes,null,From 4 Visitors,77 View(s),...
+846 (1),1675633891-307,Dentist,300 EGP,5,Waiting Time : 11 Minutes,null,From 4 Visitors,"1,846 View(s)",...
+847 (1),1675630588-131,Pediatrician,650 EGP,5,Waiting Time : 40 Minutes,null,From 7 Visitors,605 View(s),...
+848 (1),1675633371-288,Physiotherapist,200 EGP,5,Waiting Time : 7 Minutes,Nasr City : Makram Ebaid,From 5 Visitors,70 View(s),...
+849 (1),1675633872-301,Orthopedist,300 EGP,5,Waiting Time : 30 Minutes,null,From 4 Visitors,"2,999 View(s)",...
+850 (1),1675613915-17,Plastic Surgeon,200 EGP,5,Waiting Time : 32 Minutes,Faisal : Faisal street - Talbeia,From 9 Visitors,"1,609 View(s)",...
+851 (1),1675613927-19,Physiotherapist,200 EGP,5,Waiting Time : 17 Minutes,Shoubra : shopra,From 10 Visitors,"4,655 View(s)",...
+852 (1),1675634831-351,Physiotherapist,100 EGP,5,Waiting Time : 8 Minutes,Hadayek Helwan : almonzer,From 4 Visitors,765 View(s),...
+853 (1),1675633888-306,Orthopedist,400 EGP,5,Waiting Time : 12 Minutes,New Cairo : north teseen street,From 4 Visitors,690 View(s),...
+854 (1),1675633359-286,General Surgeon,500 EGP,5,Waiting Time : 10 Minutes,null,From 5 Visitors,"1,175 View(s)",...
+855 (1),1675630604-134,Dermatologist,500 EGP,5,Waiting Time : 34 Minutes,null,From 7 Visitors,834 View(s),...
+856 (1),1675634862-360,Rheumatologist,500 EGP,5,Waiting Time : 15 Minutes,null,From 4 Visitors,720 View(s),...
+857 (1),1675634846-355,Pediatrician,350 EGP,5,Waiting Time : 21 Minutes,null,From 4 Visitors,56 View(s),...
+858 (1),1675633349-284,Gynecologist,450 EGP,5,Waiting Time : 8 Minutes,null,From 5 Visitors,344 View(s),...
+859 (1),1675634849-356,Neurosurgeon,300 EGP,5,Waiting Time : 15 Minutes,El-Shorouk : Panorama Mall Street,From 4 Visitors,165 View(s),...
+860 (1),1675613872-10,Cardiologist,150 EGP,5,Waiting Time : 8 Minutes,Moharam Bek : Galal El Dosoky street -Wabour El Meah,From 8 Visitors,249 View(s),...
+861 (1),1675633330-280,Dentist,200 EGP,5,Waiting Time : 8 Minutes,null,From 5 Visitors,150 View(s),...
+862 (1),1675630797-163,Oncologist,450 EGP,5,Waiting Time : 18 Minutes,null,From 9 Visitors,"2,188 View(s)",
+863 (1),1675631666-212,Internist,250 EGP,5,Waiting Time : 25 Minutes,null,From 7 Visitors,516 View(s),
+864 (1),1675631691-217,Physiotherapist,400 EGP,5,Waiting Time : 8 Minutes,6th of October : above el-mokhtbar laboratory,From 7 Visitors,"2,563 View(s)",
+865 (1),1675631680-215,General Surgeon,300 EGP,5,Waiting Time : 8 Minutes,West El-Balad : Alabagieah Buildings-Elsayeda Aisha,From 7 Visitors,612 View(s),
+866 (1),1675630814-165,Orthopedist,250 EGP,5,Waiting Time : 22 Minutes,null,From 9 Visitors,280 View(s),
+867 (1),1675633414-294,Orthopedist,300 EGP,5,Waiting Time : 13 Minutes,null,From 6 Visitors,181 View(s),
+868 (1),1675630768-161,Gastroenterologist,400 EGP,5,Waiting Time : 32 Minutes,null,From 9 Visitors,989 View(s),
+869 (1),1675634920-373,Allergist,400 EGP,5,Waiting Time : 10 Minutes,null,From 4 Visitors,298 View(s),
+870 (1),1675630786-162,Gynecologist,500 EGP,5,Waiting Time : 36 Minutes,null,From 9 Visitors,"3,138 View(s)",
+871 (1),1675634942-379,Anesthesiologist,400 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,164 View(s),
+872 (1),1675633433-298,Hematologist,300 EGP,5,Waiting Time : 9 Minutes,null,From 6 Visitors,457 View(s),
+873 (1),1675614298-72,Ophthalmologist,250 EGP,5,Waiting Time : 8 Minutes,El-Maadi : nasr st elgazaaer st,From 28 Visitors,669 View(s),
+874 (1),1675614281-71,Ophthalmologist,130 EGP,5,Waiting Time : 9 Minutes,Damietta El Gadeeda : Centeral Area,From 26 Visitors,814 View(s),
+875 (1),1675634917-372,Pediatrician,300 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,191 View(s),
+876 (1),1675634003-330,Dentist,300 EGP,5,Waiting Time : 9 Minutes,Nasr City : EL Nasr ST,From 5 Visitors,447 View(s),
+877 (1),1675631661-211,Internist,650 EGP,5,Waiting Time : 17 Minutes,null,From 7 Visitors,"1,014 View(s)",
+878 (1),1675631640-208,Neurosurgeon,750 EGP,5,Waiting Time : 24 Minutes,null,From 7 Visitors,461 View(s),
+879 (1),1675634028-338,Nutritionist,100 EGP,5,Waiting Time : 23 Minutes,null,From 5 Visitors,352 View(s),
+880 (1),1675634939-378,Surgical Oncologist,400 EGP,5,Waiting Time : 58 Minutes,null,From 4 Visitors,"1,766 View(s)",
+881 (1),1675614304-73,Internist,200 EGP,5,Waiting Time : 13 Minutes,null,From 29 Visitors,950 View(s),
+882 (1),1675633430-297,Gynecologist,500 EGP,5,Waiting Time : 8 Minutes,null,From 6 Visitors,378 View(s),
+883 (1),1675631685-216,Orthopedist,400 EGP,5,Waiting Time : 14 Minutes,null,From 7 Visitors,897 View(s),
+884 (1),1675631676-214,Nutritionist,300 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,"1,404 View(s)",
+885 (1),1675614339-77,Cardiologist,300 EGP,5,Waiting Time : 15 Minutes,El-Manyal : El-Manyal street,From 51 Visitors,"2,253 View(s)",
+886 (1),1675634914-371,Gynecologist,750 EGP,5,Waiting Time : 16 Minutes,null,From 4 Visitors,"1,670 View(s)",
+887 (1),1675614326-75,Physiotherapist,250 EGP,5,Waiting Time : 12 Minutes,null,From 37 Visitors,"1,168 View(s)",
+888 (1),1675633400-290,Pulmonologist,350 EGP,5,Waiting Time : 20 Minutes,null,From 6 Visitors,289 View(s),
+889 (1),1675634025-337,Cardiologist,120 EGP,5,Waiting Time : 8 Minutes,El-Zagazig : the beginning of Farooq st,From 5 Visitors,352 View(s),
+890 (1),1675634031-339,Dentist,300 EGP,5,Waiting Time : 14 Minutes,null,From 5 Visitors,210 View(s),
+891 (1),1675634924-374,Cardiologist,300 EGP,5,Waiting Time : 16 Minutes,null,From 4 Visitors,203 View(s),
+892 (1),1675631647-209,Pediatrician,350 EGP,5,Waiting Time : 10 Minutes,null,From 7 Visitors,400 View(s),
+893 (1),1675633437-299,Spinal Surgeon,250 EGP,5,Waiting Time : 32 Minutes,null,From 6 Visitors,"2,282 View(s)",
+894 (1),1675630806-164,Andrologist,250 EGP,5,Waiting Time : 10 Minutes,Hadayek El-Kobba : Teraet elgendy st,From 9 Visitors,737 View(s),
+895 (1),1675634016-334,Cardiologist,300 EGP,5,Waiting Time : 16 Minutes,null,From 5 Visitors,392 View(s),
+896 (1),1675614320-74,Dentist,100 EGP,5,Waiting Time : 9 Minutes,null,From 29 Visitors,207 View(s),
+897 (1),1675633425-296,Anesthesiologist,500 EGP,5,Waiting Time : 25 Minutes,null,From 6 Visitors,200 View(s),
+898 (1),1675630754-159,Surgical Oncologist,150 EGP,5,Waiting Time : 15 Minutes,Tanta : Elmoderia,From 8 Visitors,"4,044 View(s)",
+899 (1),1675634006-331,General Surgeon,400 EGP,5,Waiting Time : 16 Minutes,null,From 5 Visitors,774 View(s),
+900 (1),1675634935-377,Gynecologist,250 EGP,5,Waiting Time : 15 Minutes,null,From 4 Visitors,77 View(s),
+901 (1),1675634928-375,Dentist,300 EGP,5,Waiting Time : 11 Minutes,null,From 4 Visitors,"1,847 View(s)",
+902 (1),1675634013-333,Orthopedist,250 EGP,5,Waiting Time : 7 Minutes,El-Giza : Hamadan,From 5 Visitors,150 View(s),
+903 (1),1675634910-370,Infertility Specialist,525 EGP,5,Waiting Time : 52 Minutes,null,From 4 Visitors,"1,459 View(s)",
+904 (1),1675614351-79,Obesity Surgeon,450 EGP,5,Waiting Time : 43 Minutes,Heliopolis : 77 Abd ElHamid Badawy St. - Heliopolis - In front of El Shams Club - Above Spectra Restaurant .,From 62 Visitors,"27,909 View(s)",
+905 (1),1675631653-210,Pediatrician,650 EGP,5,Waiting Time : 40 Minutes,null,From 7 Visitors,606 View(s),
+906 (1),1675630819-166,Plastic Surgeon,200 EGP,5,Waiting Time : 32 Minutes,Faisal : Faisal street - Talbeia,From 9 Visitors,"1,611 View(s)",
+907 (1),1675630826-167,Physiotherapist,200 EGP,5,Waiting Time : 17 Minutes,Shoubra : shopra,From 10 Visitors,"4,656 View(s)",
+908 (1),1675634931-376,Orthopedist,400 EGP,5,Waiting Time : 12 Minutes,New Cairo : north teseen street,From 4 Visitors,691 View(s),
+909 (1),1675634022-336,General Surgeon,500 EGP,5,Waiting Time : 10 Minutes,null,From 5 Visitors,"1,178 View(s)",
+910 (1),1675631671-213,Dermatologist,500 EGP,5,Waiting Time : 34 Minutes,null,From 7 Visitors,835 View(s),
+911 (1),1675633407-292,Nutritionist,250 EGP,5,Waiting Time : 17 Minutes,Smouha : smouha garden city,From 6 Visitors,804 View(s),
+912 (1),1675630760-160,Gynecologist,120 EGP,5,Waiting Time : 13 Minutes,El-Mansoura : Elnour Tower-Salah Salem Street-Talkha,From 8 Visitors,373 View(s),
+913 (1),1675614275-70,Dentist,100 EGP,5,Waiting Time : 8 Minutes,null,From 23 Visitors,180 View(s),
+914 (1),1675614332-76,Cardiologist,400 EGP,5,Waiting Time : 19 Minutes,null,From 41 Visitors,"2,526 View(s)",
+915 (1),1675633419-295,Cardiologist,350 EGP,5,Waiting Time : 30 Minutes,"Heliopolis : Nehro,Heliopolis",From 6 Visitors,732 View(s),
+916 (1),1675614345-78,Gynecologist,500 EGP,5,Waiting Time : 15 Minutes,Heliopolis : Othman bin Afan,From 24 Visitors,"14,897 View(s)",
+917 (1),1675633404-291,Pediatrician,300 EGP,5,Waiting Time : 15 Minutes,null,From 6 Visitors,81 View(s),
+918 (1),1675634019-335,Gynecologist,450 EGP,5,Waiting Time : 8 Minutes,null,From 5 Visitors,346 View(s),
+919 (1),1675633411-293,Gynecologist,300 EGP,5,Waiting Time : 9 Minutes,El-Rehab : Medical Park Elite,From 6 Visitors,953 View(s),
+920 (1),1675630746-158,Cardiologist,150 EGP,5,Waiting Time : 8 Minutes,Moharam Bek : Galal El Dosoky street -Wabour El Meah,From 8 Visitors,250 View(s),
+921 (1),1675634009-332,Dentist,200 EGP,5,Waiting Time : 8 Minutes,null,From 5 Visitors,152 View(s),
+922 (1),1675635390-401,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,673 View(s)",1051
+923 (1),1675635397-402,Pediatric Surgeon,400 EGP,5,Waiting Time : 15 Minutes,null,From 3 Visitors,130 View(s),...
+924 (1),1675635400-403,General Surgeon,450 EGP,5,Waiting Time : 33 Minutes,null,From 3 Visitors,41 View(s),...
+925 (1),1675635402-404,Dermatologist,400 EGP,5,Waiting Time : 30 Minutes,null,From 3 Visitors,31 View(s),...
+926 (1),1675635405-405,Vascular Surgeon,500 EGP,5,Waiting Time : 33 Minutes,null,From 3 Visitors,834 View(s),...
+927 (1),1675635408-406,Dentist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,174 View(s),...
+928 (1),1675635412-407,Dentist,150 EGP,5,Waiting Time : 8 Minutes,"Heliopolis : Ahmed el Dardiry, Ard El Golf",From 3 Visitors,130 View(s),...
+929 (1),1675635415-408,Pediatric Surgeon,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,184 View(s),...
+930 (1),1675635418-409,Oncologist,500 EGP,5,Waiting Time : 18 Minutes,null,From 3 Visitors,312 View(s),...
+931 (1),1675635421-410,Gynecologist,300 EGP,5,Waiting Time : 8 Minutes,Nasr City : Ahmed Alzumor street,From 3 Visitors,36 View(s),...
+932 (1),1675635424-411,General Surgeon,350 EGP,5,Waiting Time : 30 Minutes,El-Rehab : Infront of gate 6,From 3 Visitors,"1,163 View(s)",...
+933 (1),1675635431-412,Cardiologist,600 EGP,5,Waiting Time : 10 Minutes,El-Mohandessin : Alfawakh St,From 3 Visitors,558 View(s),24
+934 (1),1675635434-413,Orthopedist,300 EGP,5,Waiting Time : 8 Minutes,El-Sheikh Zayed : elmoaz plaza,From 3 Visitors,262 View(s),24
+935 (1),1675635436-414,Ophthalmologist,100 EGP,5,Waiting Time : 17 Minutes,Fakous : Mostafa Kamel Street,From 4 Visitors,"1,080 View(s)",24
+936 (1),1675635439-415,Dentist,150 EGP,5,Waiting Time : 6 Minutes,null,From 4 Visitors,326 View(s),24
+937 (1),1675635442-416,Gynecologist,200 EGP,5,Waiting Time : 24 Minutes,Smouha : victor emmanual,From 4 Visitors,"4,092 View(s)",24
+938 (1),1675635445-417,Gynecologist,250 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,616 View(s),24
+939 (1),1675635448-418,Cardiologist,350 EGP,5,Waiting Time : 9 Minutes,null,From 4 Visitors,199 View(s),24
+940 (1),1675635451-419,Internist,350 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,66 View(s),24
+941 (1),1675635454-420,Scan Center,2 EGP,5,Waiting Time : 17 Minutes,null,From 4 Visitors,"1,005 View(s)",24
+942 (1),1675635464-421,Physiotherapist,100 EGP,5,Waiting Time : 8 Minutes,Hadayek Helwan : almonzer,From 4 Visitors,765 View(s),
+943 (1),1675635467-422,Gynecologist,300 EGP,5,Waiting Time : 28 Minutes,null,From 4 Visitors,333 View(s),
+944 (1),1675635470-423,Dentist,175 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,223 View(s),
+945 (1),1675635473-424,Physiotherapist,100 EGP,5,Waiting Time : 10 Minutes,null,From 4 Visitors,"1,510 View(s)",
+946 (1),1675635477-425,Pediatrician,350 EGP,5,Waiting Time : 21 Minutes,null,From 4 Visitors,57 View(s),
+947 (1),1675635481-426,Neurosurgeon,300 EGP,5,Waiting Time : 15 Minutes,El-Shorouk : Panorama Mall Street,From 4 Visitors,166 View(s),
+948 (1),1675635483-427,ENT Doctor,150 EGP,5,Waiting Time : 11 Minutes,Janaklees : Abo Qir street,From 4 Visitors,101 View(s),
+949 (1),1675635488-428,ENT Doctor,500 EGP,5,Waiting Time : 58 Minutes,null,From 4 Visitors,226 View(s),
+950 (1),1675635491-429,Surgical Oncologist,500 EGP,5,Waiting Time : 23 Minutes,null,From 4 Visitors,304 View(s),
+951 (1),1675635494-430,Rheumatologist,500 EGP,5,Waiting Time : 15 Minutes,null,From 4 Visitors,721 View(s),
+952 (1),1675635671-431,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,673 View(s)",1051
+953 (1),1675635680-432,Dentist,200 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,197 View(s),...
+954 (1),1675635683-433,Dermatologist,300 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,235 View(s),...
+955 (1),1675635686-434,Dentist,200 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,120 View(s),...
+956 (1),1675635689-435,Psychiatrist,250 EGP,5,Waiting Time : 25 Minutes,null,From 3 Visitors,396 View(s),...
+957 (1),1675635692-436,Dentist,130 EGP,5,Waiting Time : 5 Minutes,null,From 3 Visitors,774 View(s),...
+958 (1),1675635696-437,Gynecologist,140 EGP,5,Waiting Time : 4 Minutes,Damanhur : the garden street,From 3 Visitors,"1,008 View(s)",...
+959 (1),1675635699-438,Psychiatrist,300 EGP,5,Waiting Time : 6 Minutes,null,From 3 Visitors,"1,215 View(s)",...
+960 (1),1675635703-439,Nutritionist,650 EGP,,Waiting Time : 35791394 Hours and 7 Minutes,Heliopolis : Mohamed Al Dahan from Nabile Al Wakad,From 3 Visitors,"1,476 View(s)",...
+961 (1),1675635705-440,Gynecologist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,143 View(s),...
+962 (1),1675635709-441,Pulmonologist,300 EGP,5,Waiting Time : 18 Minutes,null,From 3 Visitors,360 View(s),...
+963 (1),1675635716-442,Dentist,350 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,94 View(s),27
+964 (1),1675635720-443,Dentist,100 EGP,5,Waiting Time : 8 Minutes,Heliopolis : mohamed farid,From 3 Visitors,81 View(s),27
+965 (1),1675635723-444,Dentist,150 EGP,5,Waiting Time : 9 Minutes,null,From 3 Visitors,506 View(s),27
+966 (1),1675635726-445,Physiotherapist,100 EGP,5,Waiting Time : 7 Minutes,Hadayek El-Kobba : Alzawia Alhamraa,From 3 Visitors,"2,361 View(s)",27
+967 (1),1675635729-446,Internist,200 EGP,5,Waiting Time : 13 Minutes,Sporting : portsaid,From 3 Visitors,210 View(s),27
+968 (1),1675635732-447,Dentist,200 EGP,5,Waiting Time : 8 Minutes,Smouha : Fawzy Moaaz street,From 3 Visitors,137 View(s),27
+969 (1),1675635736-448,Nutritionist,350 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,214 View(s),27
+970 (1),1675635739-449,Internist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,127 View(s),27
+971 (1),1675635742-450,Dentist,200 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,295 View(s),27
+972 (1),1675635745-451,Cardiologist,400 EGP,5,Waiting Time : 8 Minutes,6th of October : 16th unit - city stars,From 3 Visitors,176 View(s),27
+973 (1),1675635758-452,Cardiologist,600 EGP,5,Waiting Time : 10 Minutes,El-Mohandessin : Alfawakh St,From 3 Visitors,558 View(s),23
+974 (1),1675635762-453,Orthopedist,300 EGP,5,Waiting Time : 8 Minutes,El-Sheikh Zayed : elmoaz plaza,From 3 Visitors,262 View(s),23
+975 (1),1675635765-454,Ophthalmologist,100 EGP,5,Waiting Time : 17 Minutes,Fakous : Mostafa Kamel Street,From 4 Visitors,"1,080 View(s)",23
+976 (1),1675635768-455,Dentist,150 EGP,5,Waiting Time : 6 Minutes,null,From 4 Visitors,326 View(s),23
+977 (1),1675635771-456,Gynecologist,200 EGP,5,Waiting Time : 24 Minutes,Smouha : victor emmanual,From 4 Visitors,"4,092 View(s)",23
+978 (1),1675635775-457,Gynecologist,250 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,616 View(s),23
+979 (1),1675635778-458,Cardiologist,350 EGP,5,Waiting Time : 9 Minutes,null,From 4 Visitors,199 View(s),23
+980 (1),1675635781-459,Internist,350 EGP,5,Waiting Time : 8 Minutes,null,From 4 Visitors,66 View(s),23
+981 (1),1675635784-460,Scan Center,2 EGP,5,Waiting Time : 17 Minutes,null,From 4 Visitors,"1,005 View(s)",23
+982 (1),1675635787-461,Pediatric Surgeon,400 EGP,5,Waiting Time : 15 Minutes,null,From 3 Visitors,130 View(s),
+983 (1),1675635790-462,General Surgeon,450 EGP,5,Waiting Time : 33 Minutes,null,From 3 Visitors,41 View(s),
+984 (1),1675635793-463,Dermatologist,400 EGP,5,Waiting Time : 30 Minutes,null,From 3 Visitors,31 View(s),
+985 (1),1675635797-464,Vascular Surgeon,500 EGP,5,Waiting Time : 33 Minutes,null,From 3 Visitors,834 View(s),
+986 (1),1675635800-465,Dentist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,174 View(s),
+987 (1),1675635804-466,Dentist,150 EGP,5,Waiting Time : 8 Minutes,"Heliopolis : Ahmed el Dardiry, Ard El Golf",From 3 Visitors,130 View(s),
+988 (1),1675635807-467,Pediatric Surgeon,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,184 View(s),
+989 (1),1675635811-468,Oncologist,500 EGP,5,Waiting Time : 18 Minutes,null,From 3 Visitors,312 View(s),
+990 (1),1675635815-469,Gynecologist,300 EGP,5,Waiting Time : 8 Minutes,Nasr City : Ahmed Alzumor street,From 3 Visitors,36 View(s),
+991 (1),1675635819-470,General Surgeon,350 EGP,5,Waiting Time : 30 Minutes,El-Rehab : Infront of gate 6,From 3 Visitors,"1,163 View(s)",
+992 (1),1675635920-471,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,673 View(s)",1051
+993 (1),1675635929-472,Psychiatrist,250 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,484 View(s),...
+994 (1),1675635932-473,Dentist,150 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,73 View(s),...
+995 (1),1675635935-474,Dentist,120 EGP,5,Waiting Time : 20 Minutes,null,From 3 Visitors,188 View(s),...
+996 (1),1675635938-475,Nutritionist,200 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,358 View(s),...
+997 (1),1675635941-476,Pediatrician,300 EGP,5,Waiting Time : 11 Minutes,null,From 3 Visitors,152 View(s),...
+998 (1),1675635944-477,Psychiatrist,250 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,201 View(s),...
+999 (1),1675635947-478,Rheumatologist,300 EGP,5,Waiting Time : 28 Minutes,null,From 3 Visitors,173 View(s),...
+1000 (1),1675635951-479,Spinal Surgeon,400 EGP,5,Waiting Time : 15 Minutes,"Heliopolis : Nehro,Heliopolis",From 3 Visitors,"1,591 View(s)",...
+1001 (1),1675635954-480,Audiologist,650 EGP,5,Waiting Time : 1 Hour and 14 Minutes,null,From 3 Visitors,249 View(s),...
+1002 (1),1675635957-481,Cardiologist,400 EGP,5,Waiting Time : 8 Minutes,El-Sheikh Zayed : twin towers,From 3 Visitors,127 View(s),...
+1003 (1),1675635973-482,General Surgeon,350,,null,null,null,null,
+1004 (1),1675635976-483,Dentist,100 EGP,5,Waiting Time : 8 Minutes,Heliopolis : mohamed farid,From 3 Visitors,81 View(s),
+1005 (1),1675635980-484,Dentist,150 EGP,5,Waiting Time : 9 Minutes,null,From 3 Visitors,506 View(s),
+1006 (1),1675635983-485,Physiotherapist,100 EGP,5,Waiting Time : 7 Minutes,Hadayek El-Kobba : Alzawia Alhamraa,From 3 Visitors,"2,361 View(s)",
+1007 (1),1675635986-486,Internist,200 EGP,5,Waiting Time : 13 Minutes,Sporting : portsaid,From 3 Visitors,210 View(s),
+1008 (1),1675635990-487,Dentist,200 EGP,5,Waiting Time : 8 Minutes,Smouha : Fawzy Moaaz street,From 3 Visitors,137 View(s),
+1009 (1),1675635994-488,Nutritionist,350 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,214 View(s),
+1010 (1),1675635997-489,Internist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,127 View(s),
+1011 (1),1675636000-490,Dentist,200 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,295 View(s),
+1012 (1),1675636003-491,Cardiologist,400 EGP,5,Waiting Time : 8 Minutes,6th of October : 16th unit - city stars,From 3 Visitors,176 View(s),
+1013 (1),1675636189-492,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,678 View(s)",1051
+1014 (1),1675636208-493,Dentist,200 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,197 View(s),28
+1015 (1),1675636210-494,Dermatologist,300 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,235 View(s),28
+1016 (1),1675636214-495,Dentist,200 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,120 View(s),28
+1017 (1),1675636216-496,Psychiatrist,250 EGP,5,Waiting Time : 25 Minutes,null,From 3 Visitors,396 View(s),28
+1018 (1),1675636220-497,Dentist,130 EGP,5,Waiting Time : 5 Minutes,null,From 3 Visitors,774 View(s),28
+1019 (1),1675636223-498,Gynecologist,140 EGP,5,Waiting Time : 4 Minutes,Damanhur : the garden street,From 3 Visitors,"1,008 View(s)",28
+1020 (1),1675636226-499,Psychiatrist,300 EGP,5,Waiting Time : 6 Minutes,null,From 3 Visitors,"1,215 View(s)",28
+1021 (1),1675636228-500,Gynecologist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,143 View(s),28
+1022 (1),1675636232-501,Dentist,350 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,94 View(s),28
+1023 (1),1675636235-502,Dentist,150 EGP,5,Waiting Time : 9 Minutes,null,From 3 Visitors,506 View(s),28
+1024 (1),1675636243-503,Dentist,100 EGP,5,Waiting Time : 8 Minutes,Heliopolis : mohamed farid,From 3 Visitors,81 View(s),27
+1025 (1),1675636245-504,Internist,200 EGP,5,Waiting Time : 13 Minutes,Sporting : portsaid,From 3 Visitors,210 View(s),27
+1026 (1),1675636249-505,Dentist,200 EGP,5,Waiting Time : 8 Minutes,Smouha : Fawzy Moaaz street,From 3 Visitors,137 View(s),27
+1027 (1),1675636252-506,Nutritionist,350 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,214 View(s),27
+1028 (1),1675636256-507,Internist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,127 View(s),27
+1029 (1),1675636259-508,Dentist,200 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,295 View(s),27
+1030 (1),1675636262-509,Cardiologist,400 EGP,5,Waiting Time : 8 Minutes,6th of October : 16th unit - city stars,From 3 Visitors,176 View(s),27
+1031 (1),1675636266-510,Family Doctor,140 EGP,5,Waiting Time : 47 Minutes,Tanta : tanta sharawy st,From 3 Visitors,"1,418 View(s)",27
+1032 (1),1675636269-511,Pediatrician,650 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,104 View(s),27
+1033 (1),1675636272-512,Gynecologist,200 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,209 View(s),
+1034 (1),1675636275-513,Cardiologist,350 EGP,5,Waiting Time : 40 Minutes,null,From 3 Visitors,324 View(s),
+1035 (1),1675636279-514,Pediatric Surgeon,500 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,138 View(s),
+1036 (1),1675636283-515,Pulmonologist,500 EGP,5,Waiting Time : 1 Hour and 2 Minutes,null,From 3 Visitors,315 View(s),
+1037 (1),1675636287-516,ENT Doctor,500 EGP,5,Waiting Time : 23 Minutes,null,From 3 Visitors,229 View(s),
+1038 (1),1675636290-517,Internist,300 EGP,5,Waiting Time : 23 Minutes,null,From 3 Visitors,220 View(s),
+1039 (1),1675636293-518,Gynecologist,150 EGP,5,Waiting Time : 8 Minutes,El Salam City : ElRabeaa Street-Branched From Omar Ibn Elkhatab Street-Gesr ElSuez,From 3 Visitors,170 View(s),
+1040 (1),1675636296-519,Vascular Surgeon,500 EGP,5,Waiting Time : 46 Minutes,null,From 3 Visitors,"1,955 View(s)",
+1041 (1),1675636299-520,Vascular Surgeon,500 EGP,5,Waiting Time : 50 Minutes,null,From 3 Visitors,507 View(s),
+1042 (1),1675636302-521,Nutritionist,700 EGP,5,Waiting Time : 13 Minutes,El-Sheikh Zayed : Elmehwar Elmarkazi,From 3 Visitors,"1,303 View(s)",
+1043 (1),1675636459-522,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,678 View(s)",1051
+1044 (1),1675636474-523,Psychiatrist,250 EGP,5,Waiting Time : 1 Hour and 7 Minutes,null,From 3 Visitors,339 View(s),32
+1045 (1),1675636477-524,Psychiatrist,160 EGP,5,Waiting Time : 5 Minutes,null,From 3 Visitors,737 View(s),32
+1046 (1),1675636480-525,Dentist,150 EGP,5,Waiting Time : 8 Minutes,6th of October : Street 19-vranched from elkhazan street-neighborhood 3-Fifth district,From 3 Visitors,50 View(s),32
+1047 (1),1675636483-526,Cardiologist,300 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,257 View(s),32
+1048 (1),1675636487-527,Internist,500 EGP,5,Waiting Time : 35 Minutes,null,From 3 Visitors,123 View(s),32
+1049 (1),1675636490-528,Internist,500 EGP,5,Waiting Time : 29 Minutes,null,From 3 Visitors,"2,430 View(s)",32
+1050 (1),1675636494-529,Gynecologist,300 EGP,5,Waiting Time : 4 Minutes,null,From 3 Visitors,814 View(s),32
+1051 (1),1675636498-530,Internist,500 EGP,5,Waiting Time : 47 Minutes,null,From 3 Visitors,519 View(s),32
+1052 (1),1675636502-531,Nutritionist,700 EGP,5,Waiting Time : 32 Minutes,El-Sheikh Zayed : ElMehwar Elmarkazi,From 3 Visitors,"2,387 View(s)",32
+1053 (1),1675636510-532,Pediatrician,300 EGP,5,Waiting Time : 11 Minutes,null,From 3 Visitors,153 View(s),30
+1054 (1),1675636513-533,Psychiatrist,250 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,201 View(s),30
+1055 (1),1675636516-534,Rheumatologist,300 EGP,5,Waiting Time : 28 Minutes,null,From 3 Visitors,173 View(s),30
+1056 (1),1675636519-535,Cardiologist,400 EGP,5,Waiting Time : 8 Minutes,El-Sheikh Zayed : twin towers,From 3 Visitors,127 View(s),30
+1057 (1),1675636522-536,Gynecologist,200 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,209 View(s),30
+1058 (1),1675636526-537,Cardiologist,350 EGP,5,Waiting Time : 40 Minutes,null,From 3 Visitors,324 View(s),30
+1059 (1),1675636529-538,Pediatric Surgeon,500 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,138 View(s),30
+1060 (1),1675636532-539,Pulmonologist,500 EGP,5,Waiting Time : 1 Hour and 2 Minutes,null,From 3 Visitors,315 View(s),30
+1061 (1),1675636535-540,ENT Doctor,500 EGP,5,Waiting Time : 23 Minutes,null,From 3 Visitors,229 View(s),30
+1062 (1),1675636542-541,Scan Center,2 EGP,5,Waiting Time : 40 Minutes,null,From 3 Visitors,714 View(s),29
+1063 (1),1675636545-542,Laboratory,2 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,283 View(s),29
+1064 (1),1675636549-543,General Surgeon,300 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,178 View(s),29
+1065 (1),1675636551-544,Dermatologist,300 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,235 View(s),29
+1066 (1),1675636555-545,Neurologist,400 EGP,5,Waiting Time : 28 Minutes,null,From 3 Visitors,"2,561 View(s)",29
+1067 (1),1675636558-546,Dentist,200 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,120 View(s),29
+1068 (1),1675636561-547,Psychiatrist,250 EGP,5,Waiting Time : 25 Minutes,null,From 3 Visitors,396 View(s),29
+1069 (1),1675636564-548,Gynecologist,400 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,145 View(s),29
+1070 (1),1675636568-549,Dentist,350 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,94 View(s),29
+1071 (1),1675636571-550,Pulmonologist,300 EGP,5,Waiting Time : 22 Minutes,New Cairo : The  Northen 90 st,From 3 Visitors,207 View(s),
+1072 (1),1675636575-551,Internist,400 EGP,5,Waiting Time : 1 Minute,null,From 3 Visitors,331 View(s),
+1073 (1),1675636578-552,Allergist,400 EGP,5,Waiting Time : 8 Minutes,New Cairo : north teseen street,From 3 Visitors,554 View(s),
+1074 (1),1675636581-553,Rheumatologist,250 EGP,5,Waiting Time : 17 Minutes,null,From 3 Visitors,"1,053 View(s)",
+1075 (1),1675636591-554,Dermatologist,300 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,301 View(s),
+1076 (1),1675636596-555,Dermatologist,200 EGP,5,Waiting Time : 37 Minutes,null,From 3 Visitors,665 View(s),
+1077 (1),1675636600-556,Gynecologist,300 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,315 View(s),
+1078 (1),1675636604-557,Cardiologist,450 EGP,5,Waiting Time : 35 Minutes,null,From 3 Visitors,387 View(s),
+1079 (1),1675636608-558,Psychiatrist,250 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,484 View(s),
+1080 (1),1675636612-559,Dentist,150 EGP,5,Waiting Time : 8 Minutes,null,From 3 Visitors,73 View(s),
+1081 (1),1675636945-570,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,680 View(s)",1051
+1082 (1),1675636953-571,Pediatric Surgeon,300 EGP,5,Waiting Time : 28 Minutes,null,From 27 Visitors,"5,235 View(s)",...
+1083 (1),1675636956-572,Gynecologist,150 EGP,5,Waiting Time : 13 Minutes,Mahalla : shokry elkoatly,From 27 Visitors,"3,707 View(s)",...
+1084 (1),1675636959-573,Surgical Oncologist,400 EGP,5,Waiting Time : 15 Minutes,Nasr City : Youssef abaas and Elnasr street interaction,From 55 Visitors,"4,061 View(s)",...
+1085 (1),1675636964-574,Dentist,150 EGP,5,Waiting Time : 5 Minutes,North Coast : Ali Ebn Abi Taleb Street,From 28 Visitors,"3,573 View(s)",...
+1086 (1),1675636968-575,Endocrinologist,600 EGP,5,Waiting Time : 17 Minutes,Heliopolis : Omar Ibn Al Khattab - Ismailia Sq.,From 84 Visitors,"9,851 View(s)",...
+1087 (1),1675636971-576,Dentist,300 EGP,5,Waiting Time : 10 Minutes,El-Maadi : 263 street from Al Nasr Road,From 1067 Visitors,"72,901 View(s)",...
+1088 (1),1675636978-577,Gynecologist,150 EGP,5,Waiting Time : 37 Minutes,Damietta El Gadeeda : al azhar hospital,From 57 Visitors,"6,915 View(s)",...
+1089 (1),1675636981-578,Dentist,200 EGP,5,Waiting Time : 7 Minutes,El-Shorouk : terrace mall,From 57 Visitors,977 View(s),...
+1090 (1),1675636985-579,General Surgeon,220 EGP,5,Waiting Time : 17 Minutes,Assiut city : elnemas,From 29 Visitors,"3,215 View(s)",...
+1091 (1),1675636988-580,Orthopedist,150 EGP,5,Waiting Time : 12 Minutes,El-Zaitoun : ElMatarya St,From 87 Visitors,"1,490 View(s)",...
+1092 (1),1675637021-581,Cardiologist,250 EGP,5,Waiting Time : 13 Minutes,El-Maadi : Elmansour Tower-Street 77 infront of Maadi Club Fence,From 236 Visitors,"2,819 View(s)",35
+1093 (1),1675637025-582,Cardiologist,300 EGP,5,Waiting Time : 30 Minutes,null,From 60 Visitors,998 View(s),35
+1094 (1),1675637028-583,Dentist,100 EGP,5,Waiting Time : 14 Minutes,Faisal : king faisal street- al Marioteya,From 60 Visitors,701 View(s),35
+1095 (1),1675637032-584,Cardiologist,400 EGP,5,Waiting Time : 11 Minutes,El-Sheikh Zayed : Downtown mall 2-besides total fuel station,From 90 Visitors,"2,240 View(s)",35
+1096 (1),1675637036-585,Ophthalmologist,210 EGP,5,Waiting Time : 26 Minutes,Bulkly : Bulkly / Al-Hadaya Tram Station / Al-Khaleej Building (A),From 220 Visitors,"17,326 View(s)",35
+1097 (1),1675637039-586,Gynecologist,200 EGP,5,Waiting Time : 10 Minutes,Port Said City : safya zaghlol and mashrak st,From 32 Visitors,"3,026 View(s)",35
+1098 (1),1675637042-587,Obesity Surgeon,250 EGP,5,Waiting Time : 27 Minutes,null,From 65 Visitors,808 View(s),35
+1099 (1),1675637046-588,Dentist,150 EGP,5,Waiting Time : 11 Minutes,6th of October : central axis 5th district - infront of el khazan street,From 33 Visitors,627 View(s),35
+1100 (1),1675637050-589,Ophthalmologist,250 EGP,5,Waiting Time : 8 Minutes,El-Maadi : Carrefour street,From 34 Visitors,619 View(s),35
+1101 (1),1675637053-590,Orthopedist,300 EGP,5,Waiting Time : 10 Minutes,Nasr City : block 10 emtedad abo dawoud,From 69 Visitors,"1,417 View(s)",35
+1102 (1),1675637066-591,Dentist,50 EGP,5,Waiting Time : 17 Minutes,null,From 3 Visitors,253 View(s),
+1103 (1),1675637070-592,Plastic Surgeon,250 EGP,5,Waiting Time : 36 Minutes,null,From 3 Visitors,"3,533 View(s)",
+1104 (1),1675637076-593,Psychiatrist,185 EGP,5,Waiting Time : 1 Hour,null,From 3 Visitors,"1,257 View(s)",
+1105 (1),1675637080-594,Psychiatrist,160 EGP,5,Waiting Time : 5 Minutes,null,From 3 Visitors,738 View(s),
+1106 (1),1675637084-595,Dentist,150 EGP,5,Waiting Time : 8 Minutes,6th of October : Street 19-vranched from elkhazan street-neighborhood 3-Fifth district,From 3 Visitors,51 View(s),
+1107 (1),1675637087-596,Cardiologist,300 EGP,5,Waiting Time : 13 Minutes,null,From 3 Visitors,258 View(s),
+1108 (1),1675637091-597,Internist,500 EGP,5,Waiting Time : 35 Minutes,null,From 3 Visitors,124 View(s),
+1109 (1),1675637094-598,Internist,500 EGP,5,Waiting Time : 29 Minutes,null,From 3 Visitors,"2,430 View(s)",
+1110 (1),1675637098-599,Internist,500 EGP,5,Waiting Time : 47 Minutes,null,From 3 Visitors,520 View(s),
+1111 (1),1675637101-600,Nutritionist,700 EGP,5,Waiting Time : 32 Minutes,El-Sheikh Zayed : ElMehwar Elmarkazi,From 3 Visitors,"2,389 View(s)",
+1112 (1),1675637312-601,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,680 View(s)",1051
+1113 (1),1675637319-602,Orthopedist,400 EGP,5,Waiting Time : 16 Minutes,null,From 20 Visitors,"1,463 View(s)",...
+1114 (1),1675637329-603,Surgical Oncologist,300 EGP,5,Waiting Time : 19 Minutes,El-Giza : mourad,From 20 Visitors,"2,730 View(s)",...
+1115 (1),1675637334-604,Gynecologist,200 EGP,5,Waiting Time : 10 Minutes,null,From 20 Visitors,"3,122 View(s)",...
+1116 (1),1675637338-605,Ophthalmologist,200 EGP,5,Waiting Time : 8 Minutes,Tanta : Elgish st,From 62 Visitors,"3,054 View(s)",...
+1117 (1),1675637342-606,Dentist,90 EGP,5,Waiting Time : 13 Minutes,null,From 21 Visitors,431 View(s),...
+1118 (1),1675637346-607,Cardiologist,300 EGP,5,Waiting Time : 17 Minutes,Heliopolis : El nozha street-Smart Slim Clinic besides Administrative Oversight,From 21 Visitors,"1,099 View(s)",...
+1119 (1),1675637350-608,Dermatologist,300 EGP,5,Waiting Time : 8 Minutes,null,From 22 Visitors,"1,495 View(s)",...
+1120 (1),1675637353-609,Ophthalmologist,200 EGP,5,Waiting Time : 13 Minutes,null,From 22 Visitors,"3,290 View(s)",...
+1121 (1),1675637357-610,Orthopedist,250 EGP,5,Waiting Time : 10 Minutes,El-Zaitoun : Toman bai,From 22 Visitors,"1,624 View(s)",...
+1122 (1),1675637362-611,Ophthalmologist,350 EGP,5,Waiting Time : 8 Minutes,6th of October : Abdelkhalek tharwat,From 137 Visitors,"4,092 View(s)",...
+1123 (1),1675637378-612,Pulmonologist,300,,null,null,null,null,
+1124 (1),1675637381-613,Cardiologist,300 EGP,5,Waiting Time : 30 Minutes,null,From 60 Visitors,999 View(s),
+1125 (1),1675637385-614,Dentist,100 EGP,5,Waiting Time : 14 Minutes,Faisal : king faisal street- al Marioteya,From 60 Visitors,702 View(s),
+1126 (1),1675637389-615,Cardiologist,400 EGP,5,Waiting Time : 11 Minutes,El-Sheikh Zayed : Downtown mall 2-besides total fuel station,From 90 Visitors,"2,241 View(s)",
+1127 (1),1675637392-616,Ophthalmologist,210 EGP,5,Waiting Time : 26 Minutes,Bulkly : Bulkly / Al-Hadaya Tram Station / Al-Khaleej Building (A),From 220 Visitors,"17,326 View(s)",
+1128 (1),1675637395-617,Gynecologist,200 EGP,5,Waiting Time : 10 Minutes,Port Said City : safya zaghlol and mashrak st,From 32 Visitors,"3,026 View(s)",
+1129 (1),1675637399-618,Obesity Surgeon,250 EGP,5,Waiting Time : 27 Minutes,null,From 65 Visitors,808 View(s),
+1130 (1),1675637404-619,Dentist,150 EGP,5,Waiting Time : 11 Minutes,6th of October : central axis 5th district - infront of el khazan street,From 33 Visitors,628 View(s),
+1131 (1),1675637407-620,Ophthalmologist,250 EGP,5,Waiting Time : 8 Minutes,El-Maadi : Carrefour street,From 34 Visitors,620 View(s),
+1132 (1),1675637412-621,Orthopedist,300 EGP,5,Waiting Time : 10 Minutes,Nasr City : block 10 emtedad abo dawoud,From 69 Visitors,"1,418 View(s)",
+1133 (1),1675637513-622,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,680 View(s)",1051
+1134 (1),1675637526-623,Surgical Oncologist,300 EGP,5,Waiting Time : 2 Hours and 54 Minutes,El-Ismailia city : Shbeen St.,From 42 Visitors,"5,773 View(s)",...
+1135 (1),1675637531-624,Ophthalmologist,200 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Suiz Canal Street-ElSabeaa Tower,From 70 Visitors,"2,712 View(s)",...
+1136 (1),1675637536-625,Ophthalmologist,300 EGP,5,Waiting Time : 15 Minutes,El-Sheikh Zayed : Zayed (Badr) mall,From 998 Visitors,"14,040 View(s)",...
+1137 (1),1675637542-626,ENT Doctor,100 EGP,5,Waiting Time : 26 Minutes,El-Mansoura : new bus street,From 183 Visitors,"4,391 View(s)",...
+1138 (1),1675637548-627,Cardiologist,250 EGP,5,Waiting Time : 37 Minutes,Mit Ghamr : el moahda street,From 71 Visitors,"3,702 View(s)",...
+1139 (1),1675637552-628,General Surgeon,140 EGP,5,Waiting Time : 16 Minutes,El-Mansoura : thawra,From 29 Visitors,"8,677 View(s)",...
+1140 (1),1675637556-629,Ophthalmologist,200 EGP,5,Waiting Time : 8 Minutes,El-Giza : Giza Square Al haram street,From 418 Visitors,"12,960 View(s)",...
+1141 (1),1675637561-630,Neurosurgeon,500 EGP,5,Waiting Time : 39 Minutes,null,From 15 Visitors,"4,478 View(s)",...
+1142 (1),1675637565-631,Physiotherapist,100 EGP,5,Waiting Time : 17 Minutes,Shibin Al Qanater : mostrad station,From 15 Visitors,670 View(s),...
+1143 (1),1675637569-632,Cardiologist,300 EGP,5,Waiting Time : 25 Minutes,El-Manyal : el saraya,From 15 Visitors,"1,606 View(s)",...
+1144 (1),1675637584-633,Cardiologist,400 EGP,5,Waiting Time : 11 Minutes,Heliopolis : ahmed fouad street,From 18 Visitors,758 View(s),
+1145 (1),1675637590-634,Physiotherapist,300 EGP,5,Waiting Time : 9 Minutes,Hadayek El-Ahram : Gardinia Gate-First Gate-Health Happiness Center,From 18 Visitors,197 View(s),
+1146 (1),1675637594-635,Dermatologist,200 EGP,5,Waiting Time : 17 Minutes,Ain Shams : Gesr Suez street  - alf maskan square,From 36 Visitors,"5,314 View(s)",
+1147 (1),1675637598-636,Gynecologist,100 EGP,5,Waiting Time : 37 Minutes,Helwan : Mahmoud Khater Street cross Abdullah,From 73 Visitors,"3,401 View(s)",
+1148 (1),1675637602-637,Vascular Surgeon,150 EGP,5,Waiting Time : 13 Minutes,Mahalla : elmashma square,From 37 Visitors,"2,968 View(s)",
+1149 (1),1675637606-638,Cardiologist,500 EGP,5,Waiting Time : 24 Minutes,null,From 19 Visitors,"2,272 View(s)",
+1150 (1),1675637610-639,Rheumatologist,300 EGP,5,Waiting Time : 27 Minutes,null,From 38 Visitors,"2,163 View(s)",
+1151 (1),1675637613-640,Ophthalmologist,300 EGP,5,Waiting Time : 9 Minutes,Nasr City : Abo Dawoud El Zahry,From 232 Visitors,"2,643 View(s)",
+1152 (1),1675637617-641,Dentist,100 EGP,5,Waiting Time : 12 Minutes,null,From 39 Visitors,"1,027 View(s)",
+1153 (1),1675637621-642,Oncologist,400 EGP,5,Waiting Time : 1 Hour and 1 Minute,Tanta : El-Geish st.  with Al- Galaa st.- Al-Awkaf  tower,From 39 Visitors,"12,669 View(s)",
+1154 (1),1675637837-643,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Gomhoria,From 16 Visitors,"1,680 View(s)",1051
+1155 (1),1675637867-644,Neurologist,300 EGP,5,Waiting Time : 15 Minutes,El-Maadi : Ellaselki Street-New Maadi,From 24 Visitors,415 View(s),...
+1156 (1),1675637874-645,Ophthalmologist,500 EGP,5,Waiting Time : 15 Minutes,Heliopolis : Gesr El Swis- El Anaan Tower,From 132 Visitors,"19,931 View(s)",...
+1157 (1),1675637879-646,Gynecologist,200 EGP,5,Waiting Time : 27 Minutes,"Loran : Maher Bek st,",From 85 Visitors,"4,119 View(s)",...
+1158 (1),1675637883-647,Gastroenterologist,450 EGP,5,Waiting Time : 14 Minutes,New Cairo : North teseen street,From 184 Visitors,"5,319 View(s)",...
+1159 (1),1675637891-648,Surgical Oncologist,200 EGP,5,Waiting Time : 31 Minutes,Tanta : algalaa,From 37 Visitors,"5,707 View(s)",...
+1160 (1),1675637900-649,Gynecologist,200 EGP,5,Waiting Time : 12 Minutes,Heliopolis : El khalefa Elmamoan St,From 25 Visitors,731 View(s),...
+1161 (1),1675637904-650,Gynecologist,100 EGP,5,Waiting Time : 23 Minutes,Mahalla : Elshoun 23 Yolio street,From 25 Visitors,"1,799 View(s)",...
+1162 (1),1675637921-651,General Surgeon,300 EGP,5,Waiting Time : 12 Minutes,El-Maadi : El horreya square Street,From 50 Visitors,"2,544 View(s)",...
+1163 (1),1675637926-652,Ophthalmologist,150 EGP,5,Waiting Time : 16 Minutes,Mahalla : alshoun square al asar steet,From 100 Visitors,"3,665 View(s)",...
+1164 (1),1675637931-653,Dentist,200 EGP,5,Waiting Time : 13 Minutes,Nasr City : Abbas Elakad Street,From 238 Visitors,"2,233 View(s)",...
+1165 (1),1675637939-654,Ophthalmologist,200 EGP,5,Waiting Time : 32 Minutes,Hadayek El-Kobba : Masr we El Sudan,From 303 Visitors,"9,643 View(s)",44
+1166 (1),1675637948-655,Gynecologist,500 EGP,5,Waiting Time : 59 Minutes,Heliopolis : Ahmad El-Tahawi,From 38 Visitors,"13,000 View(s)",44
+1167 (1),1675637955-656,Ophthalmologist,200 EGP,5,Waiting Time : 9 Minutes,Mahalla : waboor alnor,From 318 Visitors,"4,125 View(s)",44
+1168 (1),1675637958-657,Internist,120 EGP,5,Waiting Time : 11 Minutes,Mahalla : Talaat Harb Square,From 166 Visitors,"8,759 View(s)",44
+1169 (1),1675637961-658,Gastroenterologist,300 EGP,5,Waiting Time : 22 Minutes,null,From 13 Visitors,"2,322 View(s)",44
+1170 (1),1675637965-659,Pediatrician,200 EGP,5,Waiting Time : 13 Minutes,null,From 13 Visitors,775 View(s),44
+1171 (1),1675637968-660,Urologist,300 EGP,5,Waiting Time : 20 Minutes,null,From 13 Visitors,481 View(s),44
+1172 (1),1675637971-661,Pediatric Surgeon,200 EGP,5,Waiting Time : 7 Minutes,El-Obour City : First District - Hijaz Center,From 13 Visitors,982 View(s),44
+1173 (1),1675637976-662,Dentist,100 EGP,5,Waiting Time : 10 Minutes,Hadayek El-Ahram : Elgiesh Street-Gate 4 Besides Reayah Pharmacy,From 26 Visitors,492 View(s),44
+1174 (1),1675637983-663,Ophthalmologist,300 EGP,5,Waiting Time : 7 Minutes,West El-Balad : alfy,From 302 Visitors,"12,783 View(s)",44
+1175 (1),1675638008-664,Surgical Oncologist,300 EGP,5,Waiting Time : 2 Hours and 54 Minutes,El-Ismailia city : Shbeen St.,From 42 Visitors,"5,773 View(s)",
+1176 (1),1675638020-665,Ophthalmologist,200 EGP,5,Waiting Time : 15 Minutes,El-Mansoura : Suiz Canal Street-ElSabeaa Tower,From 70 Visitors,"2,712 View(s)",
+1177 (1),1675638026-666,Ophthalmologist,300 EGP,5,Waiting Time : 15 Minutes,El-Sheikh Zayed : Zayed (Badr) mall,From 998 Visitors,"14,040 View(s)",
+1178 (1),1675638031-667,ENT Doctor,100 EGP,5,Waiting Time : 26 Minutes,El-Mansoura : new bus street,From 183 Visitors,"4,391 View(s)",
+1179 (1),1675638036-668,Cardiologist,250 EGP,5,Waiting Time : 37 Minutes,Mit Ghamr : el moahda street,From 71 Visitors,"3,703 View(s)",
+1180 (1),1675638043-669,General Surgeon,140 EGP,5,Waiting Time : 16 Minutes,El-Mansoura : thawra,From 29 Visitors,"8,677 View(s)",
+1181 (1),1675638048-670,Ophthalmologist,200 EGP,5,Waiting Time : 8 Minutes,El-Giza : Giza Square Al haram street,From 418 Visitors,"12,961 View(s)",
+1182 (1),1675638058-671,Neurosurgeon,500 EGP,5,Waiting Time : 39 Minutes,null,From 15 Visitors,"4,478 View(s)",
+1183 (1),1675638061-672,Physiotherapist,100 EGP,5,Waiting Time : 17 Minutes,Shibin Al Qanater : mostrad station,From 15 Visitors,670 View(s),
+1184 (1),1675638064-673,Cardiologist,300 EGP,5,Waiting Time : 25 Minutes,El-Manyal : el saraya,From 15 Visitors,"1,606 View(s)",
+1185 (1),1676127999-1,Physiotherapist,65 EGP,5,Waiting Time : 15 Minutes,El-Mansoura,From 16 Visitors,"1,684 View(s)",1048
+1186 (1),1676128005-2,Dermatologist,200 EGP,4.5,Waiting Time : 35 Minutes,El-Ibrahimia,From 68 Visitors,"8,165 View(s)",1048
+1187 (1),1676128010-3,Orthopedist,250 EGP,4.5,Waiting Time : 31 Minutes,6th of October,From 29 Visitors,"1,724 View(s)",1048
+1188 (1),1676128016-4,Gynecologist,150 EGP,,null,El-Haram,null,"1,135 View(s)",1048
+1189 (1),1676128025-5,Dermatologist,200 EGP,5,Waiting Time : 20 Minutes,Nasr City,From 90 Visitors,"4,031 View(s)",1048
+1190 (1),1676128035-6,Pulmonologist,500 EGP,4.5,Waiting Time : 5 Hours and 6 Minutes,El-Ibrahimia : Omar Lotfy st lteram,From 361 Visitors,"44,950 View(s)",...
+1191 (1),1676128041-7,Gynecologist,200 EGP,4.5,Waiting Time : 26 Minutes,El-Haram : Khofo street - El kom El Akhdar - Haram,From 180 Visitors,"13,926 View(s)",...
+1192 (1),1676128045-8,Urologist,300 EGP,4.5,Waiting Time : 55 Minutes,Heliopolis : el sawra,From 2029 Visitors,"176,078 View(s)",...
+1193 (1),1676128049-9,Pediatrician,120 EGP,5,Waiting Time : 1 Hour and 12 Minutes,Victoria : El Galaa St.,From 302 Visitors,"32,944 View(s)",...
+1194 (1),1676128053-10,Psychiatrist,450 EGP,4,Waiting Time : 41 Minutes,Heliopolis : Mostafa Refaat,From 50 Visitors,"22,619 View(s)",...
+1195 (1),1676128062-11,Vascular Surgeon,400 EGP,4.5,Waiting Time : 11 Minutes,El-Manyal : El Manyal,From 69 Visitors,"9,993 View(s)",...
+1196 (1),1676128066-12,Orthopedist,250 EGP,4.5,Waiting Time : 17 Minutes,Victoria : El Galaa St.,From 228 Visitors,"19,478 View(s)",...
+1197 (1),1676128070-13,Vascular Surgeon,160 EGP,4.5,Waiting Time : 51 Minutes,Tanta : El Gaish st,From 154 Visitors,"16,235 View(s)",...
+1198 (1),1676128074-14,General Surgeon,400 EGP,4.5,Waiting Time : 9 Minutes,New Cairo : Corner mall In front of El Rehab,From 93 Visitors,"8,077 View(s)",...
+1199 (1),1676128079-15,Dermatologist,300 EGP,4.5,Waiting Time : 34 Minutes,El-Maadi :  El Horya Square,From 647 Visitors,"45,090 View(s)",...
+1200 (1),1676128094-16,Pulmonologist,250 EGP,4.5,Waiting Time : 29 Minutes,El-Matareya : Beet El Ezz 2 building - Matareya square - Building A - Third floor,From 296 Visitors,"25,292 View(s)",
+1201 (1),1676128098-17,Internist,300 EGP,4.5,Waiting Time : 23 Minutes,"6th of October : Safa Clinics, Magda Square, Beside Resala, 6th October",From 891 Visitors,"47,738 View(s)",
+1202 (1),1676128101-18,Phoniatrician,200 EGP,4,Waiting Time : 33 Minutes,Tanta : Elnahas cross kafr essam,From 135 Visitors,"13,510 View(s)",
+1203 (1),1676128104-19,Orthopedist,300 EGP,4.5,Waiting Time : 22 Minutes,"Nasr City : 11 rabea buldings , behind tom & Bassal , 2nd floor",From 1266 Visitors,"33,118 View(s)",
+1204 (1),1676128110-20,Gynecologist,200 EGP,4.5,Waiting Time : 42 Minutes,Miamy : Gamal AbdelNasser st,From 667 Visitors,"31,989 View(s)",
+1205 (1),1676128113-21,Urologist,600 EGP,4,Waiting Time : 26 Minutes,El-Mohandessin :  shehab street,From 51 Visitors,"10,303 View(s)",
+1206 (1),1676128119-22,Hepatologist,360 EGP,4,Waiting Time : 1 Hour and 5 Minutes,El-Dokki : altahrir,From 188 Visitors,"30,124 View(s)",
+1207 (1),1676128125-23,Gynecologist,210 EGP,4.5,Waiting Time : 13 Minutes,El-Mansoura : abbasi street,From 100 Visitors,"9,409 View(s)",
+1208 (1),1676128129-24,Internist,250 EGP,4,Waiting Time : 31 Minutes,Faisal,From 103 Visitors,"7,555 View(s)",
+1209 (1),1676128132-25,Ophthalmologist,200 EGP,5,Waiting Time : 17 Minutes,Faisal : 27elshahid Ahmad Hamdy,From 122 Visitors,"7,215 View(s)",
